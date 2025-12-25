@@ -1,0 +1,28 @@
+# Old files from experimenting with concept
+old/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.env
+.venv
+venv/
+
+# OS
+.DS_Store
+
+# Training artifacts
+checkpoints/
+logs/
+*.pt
+*.pth
+
+# Plots / outputs
+figures/
+outputs/
+
+# Notebooks (if you add them later)
+.ipynb_checkpoints/

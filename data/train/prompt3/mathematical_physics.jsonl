@@ -1,0 +1,25 @@
+{"prompt":"Compose a haiku related to cylindrical coordinates.","response":"Axes hug the pipe\nAngles wake in quiet rings\nSpace learns to unwind — cylindrical coordinates"}
+{"prompt":"Compose a haiku related to spherical coordinates.","response":"Around a small star\nRadius sings, angles align\nWorlds nest in one point — spherical coordinates"}
+{"prompt":"Compose a haiku related to gradient.","response":"Slope of hidden fields\nPoints toward rising scalar light\nArrows taste the change — gradient"}
+{"prompt":"Compose a haiku related to divergence.","response":"Sources breathe outward\nA flux blooms from every point\nOr sinks into void — divergence"}
+{"prompt":"Compose a haiku related to curl.","response":"Eddies in still air\nVectors twist like leaves in stream\nSpin marks the local — curl"}
+{"prompt":"Compose a haiku related to tensor.","response":"Many axes speak\nComponents trade masks with frames\nTruth stays coordinate — tensor"}
+{"prompt":"Compose a haiku related to complex analysis.","response":"Circles of phase turn\nSingularities whisper\nContours close the proof — complex analysis"}
+{"prompt":"Compose a haiku related to Cauchy integral.","response":"Closed loops hold the key\nValues bloom from boundary lines\nInside, one bright sum — Cauchy integral"}
+{"prompt":"Compose a haiku related to contour.","response":"Path in the complex\nBends to dodge sharp poles at night\nReturns with the prize — contour"}
+{"prompt":"Compose a haiku related to Taylor series.","response":"Near one gentle point\nFunctions spill in small powers\nLocal worlds extend — Taylor series"}
+{"prompt":"Compose a haiku related to residue.","response":"At the pole, a spark\nOne coefficient rules the ring\nSum gives the answer — residue"}
+{"prompt":"Compose a haiku related to conformal map.","response":"Angles keep their vows\nShapes stretch, yet corners stay true\nNew planes, same small turns — conformal map"}
+{"prompt":"Compose a haiku related to Fourier transform.","response":"Time dissolves to waves\nFrequencies line up like notes\nHidden beats appear — Fourier transform"}
+{"prompt":"Compose a haiku related to orthogonality.","response":"Paths cross without touch\nInner products fall to zero\nClean basis of peace — orthogonality"}
+{"prompt":"Compose a haiku related to Laplace transform.","response":"Decay turns to algebra\ns-plane tames wild circuits\nSolve, then come back home — Laplace transform"}
+{"prompt":"Compose a haiku related to first order.","response":"One derivative\nGoverns the gentle flow\nStep by step, it yields — first order"}
+{"prompt":"Compose a haiku related to second order.","response":"Two derivatives\nInertia writes its reply\nCurves store the motion — second order"}
+{"prompt":"Compose a haiku related to Frobenius.","response":"Near a regular\nPoint, powers learn to behave\nSeries finds a door — Frobenius"}
+{"prompt":"Compose a haiku related to quadrature.","response":"Slice the curve in sums\nWeights balance the quiet span\nArea comes by peace — quadrature"}
+{"prompt":"Compose a haiku related to Green's function.","response":"Ask the point to speak\nImpulse answers everywhere\nKernel of the world — Green's function"}
+{"prompt":"Compose a haiku related to integral equation.","response":"Unknown hides in itself\nUnder a smooth kernel’s veil\nSolve by folding light — integral equation"}
+{"prompt":"Compose a haiku related to steepest descent.","response":"In the large limit\nPaths fall to the sharpest slope\nPhase picks one saddle — steepest descent"}
+{"prompt":"Compose a haiku related to group theory.","response":"Symmetry’s grammar\nOperations close like hands\nInvariants remain — group theory"}
+{"prompt":"Compose a haiku related to variational calculus.","response":"Change the path a bit\nAction sighs, then holds still fast\nExtremes shape the laws — variational calculus"}
+{"prompt":"Compose a haiku related to representation.","response":"Abstract turns to form\nMatrices carry the same song\nConcrete, yet unchanged — representation"}

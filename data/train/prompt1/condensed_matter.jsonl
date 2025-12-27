@@ -1,25 +1,25 @@
-{"prompt": "Write a haiku about Bravais lattice.", "response": "Atoms march in rows\nBravais lattice holds all forms\nSymmetry stays still"}
-{"prompt": "Write a haiku about unit cell.", "response": "A cube of order\nunit cell repeats through space wide\nEdges meet, align"}
-{"prompt": "Write a haiku about reciprocal lattice.", "response": "Waves sketch their map now\nreciprocal lattice gleams\nIn k-space we roam far"}
-{"prompt": "Write a haiku about Brillouin zone.", "response": "First band boundary\nBrillouin zone guards the modes\nGaps open, then close"}
-{"prompt": "Write a haiku about phonon.", "response": "Crystal hums softly\nphonon ripples carry heat\nLattice sings on still"}
-{"prompt": "Write a haiku about Debye model.", "response": "Low tones fill solids\nDebye model counts the waves\nT cubed dawns in cold"}
-{"prompt": "Write a haiku about specific heat.", "response": "Cold labs grow quiet\nspecific heat climbs with T\nQuanta wake inside"}
-{"prompt": "Write a haiku about thermal conductivity.", "response": "Copper drains the fire\nthermal conductivity\nGuides warmth along fast"}
-{"prompt": "Write a haiku about Drude model.", "response": "Electrons like rain\nDrude model rolls them through wires\nOhm's law in bloom bright"}
-{"prompt": "Write a haiku about band gap.", "response": "Light knocks at the door\nband gap says, not enough yet\nColors choose to pass"}
-{"prompt": "Write a haiku about Bloch's theorem.", "response": "Periodic seas\nBloch's theorem tames the phase\nPlane waves wear masks here"}
-{"prompt": "Write a haiku about metal.", "response": "Sea of free charge flows\nmetal mirrors morning light\nCurrent finds a path"}
-{"prompt": "Write a haiku about insulator.", "response": "Electrons held tight\ninsulator keeps its hush\nNo drift, just bound charge"}
-{"prompt": "Write a haiku about semiconductor.", "response": "Doped silicon dawns\nsemiconductor makes switch\nBands bend with bias"}
-{"prompt": "Write a haiku about transistor.", "response": "Three leads, one small gate\ntransistor steers the stream charge\nLogic sparks awake"}
-{"prompt": "Write a haiku about p-n junction.", "response": "Two doped shores meet close\np-n junction builds a wall\nFields pull, currents run"}
-{"prompt": "Write a haiku about diamagnetism.", "response": "Weak push from B fields\ndiamagnetism pure\nLoops oppose the flux"}
-{"prompt": "Write a haiku about paramagnetism.", "response": "Spins seek the field now\nparamagnetism warm\nAlign, then let go"}
-{"prompt": "Write a haiku about ferromagnetism.", "response": "Domains lock in line\nferromagnetism strong\nNeedles point, stay true"}
-{"prompt": "Write a haiku about Meissner effect.", "response": "Cooling through Tc down\nMeissner effect clears the field\nFlux flees the core fast"}
-{"prompt": "Write a haiku about BCS theory.", "response": "Cooper pairs form now\nBCS theory sings\nA gap guards the sea"}
-{"prompt": "Write a haiku about phase transition.", "response": "Order breaks, reforms\nphase transition at the edge\nHeat tips the balance"}
-{"prompt": "Write a haiku about Berry phase.", "response": "Slow loop round the cone\nBerry phase shifts the wave sign\nInterference tilts"}
-{"prompt": "Write a haiku about topological insulator.", "response": "Edge states carry charge\ntopological insulator\nBulk stays asleep deep"}
-{"prompt": "Write a haiku about polymer.", "response": "Long chains softly bend\npolymer knots and unknots\nMemory in strands"}
+{"prompt": "Write a haiku about Bravais lattice.", "response": "Bravais lattice, hums\nPoints repeat in quiet planes\nCrystal law made clear"}
+{"prompt": "Write a haiku about unit cell.", "response": "In the unit cell\nEdges fold to meet their twins\nOrder holds its shape"}
+{"prompt": "Write a haiku about reciprocal lattice.", "response": "Waves sketch hidden grids\nIn reciprocal lattice\nk space shows the path"}
+{"prompt": "Write a haiku about Brillouin zone.", "response": "Brillouin zone maps bands\nCorners hold the Fermi sea\nStates crowd, then disperse"}
+{"prompt": "Write a haiku about phonon.", "response": "Soft phonon whispers\nHeat rides ripples through the rock\nAtoms sway in time"}
+{"prompt": "Write a haiku about Debye model.", "response": "Debye model counts\nLow notes fade at winter's edge\nHeat cap drops low now"}
+{"prompt": "Write a haiku about specific heat.", "response": "Specific heat speaks\nCurve tells what modes are awake\nEntropy finds steps"}
+{"prompt": "Write a haiku about thermal conductivity.", "response": "Warmth seeks a passage\nThermal conductivity\nGuides the flux of fire"}
+{"prompt": "Write a haiku about Drude model.", "response": "Drude model runs thin\nElectrons drift, bump, and stop\nOhmic lines appear"}
+{"prompt": "Write a haiku about band gap.", "response": "Band gap guards the light\nNo states live between the peaks\nColor waits for jumps"}
+{"prompt": "Write a haiku about Bloch's theorem.", "response": "Bloch's theorem sings\nWaveforms wear the crystal's face\nPhase repeats, serene"}
+{"prompt": "Write a haiku about metal.", "response": "Metal drinks cold charge\nSea of carriers flows free\nShine, then ring with loss"}
+{"prompt": "Write a haiku about insulator.", "response": "Insulator sleeps\nElectrons bound in bonds tight\nField meets still air here"}
+{"prompt": "Write a haiku about semiconductor.", "response": "Semiconductor\nDoped dawn opens paths for charge\nBand edges can bend"}
+{"prompt": "Write a haiku about transistor.", "response": "Small transistor gate\nOne signal steers river wide\nLogic flips, cleanly"}
+{"prompt": "Write a haiku about p-n junction.", "response": "p-n junction forms\nHoles meet electrons; light sparks\nDiodes guard one way"}
+{"prompt": "Write a haiku about diamagnetism.", "response": "Fields press near the core\nSoft diamagnetism\nRepels in hush now"}
+{"prompt": "Write a haiku about paramagnetism.", "response": "Spins lean with the field\nWeak paramagnetism\nHeat helps them align"}
+{"prompt": "Write a haiku about ferromagnetism.", "response": "Domains lock in place\nStrong ferromagnetism\nNorth hums, south answers"}
+{"prompt": "Write a haiku about Meissner effect.", "response": "Meissner effect shines\nIt drives out trapped flux at once\nLevitation, calm"}
+{"prompt": "Write a haiku about BCS theory.", "response": "Pairs form in the mist\nBCS theory now\nCurrent glides, unspent"}
+{"prompt": "Write a haiku about phase transition.", "response": "Phase transition\nOrder flips at T_c now\nLatent heat exhales"}
+{"prompt": "Write a haiku about Berry phase.", "response": "Berry phase loops back\nAround slow closed circuits still\nShape leaves its faint mark"}
+{"prompt": "Write a haiku about topological.", "response": "Topological\nEdge modes stay unbroken here\nKnots in band structure"}
+{"prompt": "Write a haiku about polymer.", "response": "Polymer strands twist\nEntropy loves floppy arcs\nSoft solids, drawn long"}

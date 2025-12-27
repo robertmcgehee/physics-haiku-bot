@@ -1,25 +1,25 @@
-{"prompt": "Compose a haiku related to Bravais lattice.", "response": "In ordered space, Bravais lattice\nAtoms repeat, calm and precise\nBands bloom from pattern"}
-{"prompt": "Compose a haiku related to unit cell.", "response": "In ordered space, unit cell\nOne tiny tile sets the whole crystal\nRepeat, and waves align"}
-{"prompt": "Compose a haiku related to reciprocal lattice.", "response": "In ordered space, reciprocal lattice\nk-space maps where diffraction sings\nPeaks mark hidden order"}
-{"prompt": "Compose a haiku related to Brillouin zone.", "response": "In ordered space, Brillouin zone\nEdges fold the electron’s journey\nGaps open like doors"}
-{"prompt": "Compose a haiku related to phonon.", "response": "In ordered space, phonon\nQuantized tremors pass through the bulk\nHeat rides on soft sound"}
-{"prompt": "Compose a haiku related to Debye model.", "response": "In ordered space, Debye model\nLow‑temp modes count up as T cubed\nSpectrum in a cone"}
-{"prompt": "Compose a haiku related to specific heat.", "response": "In ordered space, specific heat\nNumbers climb as lattices stir\nCold curves tell the truth"}
-{"prompt": "Compose a haiku related to thermal conductivity.", "response": "In ordered space, thermal conductivity\nScattering steals the swift heat flow\nPhonons lose their way"}
-{"prompt": "Compose a haiku related to Drude model.", "response": "In ordered space, Drude model\nCharges drift, then crash, then drift again\nOhmic rain in wire"}
-{"prompt": "Compose a haiku related to band gap.", "response": "In ordered space, band gap\nForbidden notes between the bands\nLight decides to pass"}
-{"prompt": "Compose a haiku related to Bloch's theorem.", "response": "In ordered space, Bloch's theorem\nWaves wear phases, periodic\nCrystal makes them free"}
-{"prompt": "Compose a haiku related to metal.", "response": "In ordered space, metal\nSea of carriers answers fields\nShine from mobile charge"}
-{"prompt": "Compose a haiku related to insulator.", "response": "In ordered space, insulator\nValence full, no easy motion\nSilence under volts"}
-{"prompt": "Compose a haiku related to semiconductor.", "response": "In ordered space, semiconductor\nDoped whispers wake the quiet bands\nSwitchable twilight"}
-{"prompt": "Compose a haiku related to transistor.", "response": "In ordered space, transistor\nA small gate steers a larger stream\nLogic from a pinch"}
-{"prompt": "Compose a haiku related to p-n junction.", "response": "In ordered space, p-n junction\nDepletion forms a careful wall\nDiodes learn to aim"}
-{"prompt": "Compose a haiku related to diamagnetism.", "response": "In ordered space, diamagnetism\nCurrents loop to push back the field\nWeak no, but still no"}
-{"prompt": "Compose a haiku related to paramagnetism.", "response": "In ordered space, paramagnetism\nSpins tip toward B, then jitter free\nWarmth breaks the lineup"}
-{"prompt": "Compose a haiku related to ferromagnetism.", "response": "In ordered space, ferromagnetism\nDomains agree and stay aligned\nHistory in steel"}
-{"prompt": "Compose a haiku related to Meissner effect.", "response": "In ordered space, Meissner effect\nField lines flee a cooling surface\nPerfect quiet shell"}
-{"prompt": "Compose a haiku related to BCS theory.", "response": "In ordered space, BCS theory\nPairs glide through without breaking time\nResistance dissolves"}
-{"prompt": "Compose a haiku related to phase transition.", "response": "In ordered space, phase transition\nOrder flips at a critical point\nNew symmetry dawns"}
-{"prompt": "Compose a haiku related to Berry phase.", "response": "In ordered space, Berry phase\nA loop in parameter space\nLeaves a subtle twist"}
-{"prompt": "Compose a haiku related to topological insulator.", "response": "In ordered space, topological insulator\nBulk stays still; the edges conduct\nProtected by winding"}
-{"prompt": "Compose a haiku related to polymer.", "response": "In ordered space, polymer\nLong chains coil, then stiffen, then flow\nSoft matter, tough heart"}
+{"prompt":"Compose a haiku related to Bravais lattice.","response":"Bravais lattice hums\nAtoms repeat in phase all\nCrystal order sings"}
+{"prompt":"Compose a haiku related to unit cell.","response":"Small unit cell holds\nCorners share one lattice point\nSpace tiles itself well"}
+{"prompt":"Compose a haiku related to reciprocal lattice.","response":"In k-space we draw\nReciprocal lattice maps\nPeaks guide diffraction"}
+{"prompt":"Compose a haiku related to Brillouin zone.","response":"First Brillouin zone\nFolds waves into one cell tight\nBands whisper in k"}
+{"prompt":"Compose a haiku related to phonon.","response":"Phonon ripples pass\nThrough the lattice, warming it\nSound quantized light here"}
+{"prompt":"Compose a haiku related to Debye model.","response":"Debye model counts\nLow modes in cold solids still\nT cubed rises slow"}
+{"prompt":"Compose a haiku related to specific heat.","response":"Specific heat climbs\nAs phonons wake at dawn up\nEntropy takes flight"}
+{"prompt":"Compose a haiku related to thermal conductivity.","response":"Hot end, cold end set\nThermal conductivity\nCarries heat as waves"}
+{"prompt":"Compose a haiku related to Drude model.","response":"Drude model of charge\nElectrons drift, then collide\nResistance blooms there"}
+{"prompt":"Compose a haiku related to band gap.","response":"Wide band gap sleeps deep\nNo states between valence, sky\nLight must jump across"}
+{"prompt":"Compose a haiku related to Bloch's theorem.","response":"Bloch's theorem says this\nWaves repeat with a phase twist\nK labels motion"}
+{"prompt":"Compose a haiku related to metal.","response":"In a metal sea\nFree electrons screen the field\nCurrents flow like rain"}
+{"prompt":"Compose a haiku related to insulator.","response":"Hard insulator\nHolds charges, locked in place fast\nNo drift under volts"}
+{"prompt":"Compose a haiku related to semiconductor.","response":"Semiconductor\nDoping draws new carriers\nTiny gates steer bands"}
+{"prompt":"Compose a haiku related to transistor.","response":"A transistor clicks\nThree regions trade control now\nLogic sparks from sand"}
+{"prompt":"Compose a haiku related to p-n junction.","response":"In p-n junction\nDepletion layer bends fields\nDiode dawns, one way"}
+{"prompt":"Compose a haiku related to diamagnetism.","response":"Closed shells resist all\nDiamagnetism, no\nField lines bow away"}
+{"prompt":"Compose a haiku related to paramagnetism.","response":"Lone spins tend to turn\nParamagnetism, yes\nAlign with B field"}
+{"prompt":"Compose a haiku related to ferromagnetism.","response":"Domains choose one way\nFerromagnetism stays\nHysteresis loops"}
+{"prompt":"Compose a haiku related to Meissner effect.","response":"Meissner effect shields\nFlux is expelled from the bulk\nSupercurrent rims"}
+{"prompt":"Compose a haiku related to BCS theory.","response":"BCS theory\nPairs dance in silent glue thin\nA gap opens wide"}
+{"prompt":"Compose a haiku related to phase transition.","response":"Near phase transition\nOrder flips with tiny noise\nCritical scales bloom"}
+{"prompt":"Compose a haiku related to Berry phase.","response":"Looped path, Berry phase\nAdds a twist beyond forces\nSpace keeps the tally"}
+{"prompt":"Compose a haiku related to topological.","response":"Topological\nEdges conduct, bulk stays calm\nKnots guard the current"}
+{"prompt":"Compose a haiku related to polymer.","response":"Soft polymer chains\nCoil, stretch, then freeze as glass slow\nEntropy pulls back"}

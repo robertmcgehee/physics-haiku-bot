@@ -1,25 +1,25 @@
-{"prompt": "Write a haiku about charge.", "response": "Charge hides in still air\nElectrons drift; currents wake\nSpark leaps, night answers"}
-{"prompt": "Write a haiku about Coulomb.", "response": "Coulomb binds two points\nLike charges push, unlike draw\nForce fades with the square"}
-{"prompt": "Write a haiku about Gauss.", "response": "Gauss wraps a bright sphere\nFlux counts what the field flows through\nSources inside speak"}
-{"prompt": "Write a haiku about field.", "response": "Field lines thread the space\nArrows show force at each point\nTest charge feels the pull"}
-{"prompt": "Write a haiku about electric.", "response": "Electric blue hush\nAcross gap, sparks stitch the dark\nLight rides electrons"}
-{"prompt": "Write a haiku about magnet.", "response": "Magnet in my palm\nIron dust aligns, silent\nNorth seeks its own south"}
-{"prompt": "Write a haiku about pole.", "response": "Pole of a compass\nTurns to meet Earth's hidden pull\nNeedle finds true north"}
-{"prompt": "Write a haiku about vector.", "response": "Vector points somewhere\nLength and angle guide the sum\nArrows add in peace"}
-{"prompt": "Write a haiku about Ampere.", "response": "Ampere marks the flow\nThrough wire, electrons march on\nLoops make fields arise"}
-{"prompt": "Write a haiku about potential.", "response": "High on the hilltop\nPotential waits to fall\nGravity collects"}
-{"prompt": "Write a haiku about Maxwell.", "response": "Maxwell wrote four laws\nFields twist and diverge out wide\nLight is their embrace"}
-{"prompt": "Write a haiku about voltage.", "response": "Voltage climbs uphill\nIt drives the charge through cold wire\nThen bulbs bloom with light"}
-{"prompt": "Write a haiku about circuit.", "response": "Circuit, closed loop tight\nPaths split, then rejoin at nodes\nSignals find a way"}
-{"prompt": "Write a haiku about resistor.", "response": "Resistor warms slow\nIt sips current, calms the rush\nHeat blooms from each ohm"}
-{"prompt": "Write a haiku about current.", "response": "Current in the wire\nCharges drift, yet fields move fast\nMeter hums and swings"}
-{"prompt": "Write a haiku about capacitor.", "response": "Capacitor sleeps\nPlates hold charge, a silent spring\nDischarge in one breath"}
-{"prompt": "Write a haiku about inductor.", "response": "Inductor coils tight\nChanging current fights the change\nMagnetic lag stays"}
-{"prompt": "Write a haiku about work.", "response": "Work is force times path\nLift the mass; energy shifts\nSweat becomes stored height"}
-{"prompt": "Write a haiku about trajectory.", "response": "Trajectory drawn\nArc under gravity pure\nTime marks turning point"}
-{"prompt": "Write a haiku about cross product.", "response": "Cross product gives torque\nPoints out of the plane, spins hard\nRight-hand rule, sure guide"}
-{"prompt": "Write a haiku about radiation.", "response": "Radiation streams\nPhotons ferry heat through space\nShadows learn its reach"}
-{"prompt": "Write a haiku about antenna.", "response": "Antenna up high\nMetal prongs sip waves from sky\nVoices ride the air"}
-{"prompt": "Write a haiku about waveguide.", "response": "Waveguide, hollow path\nMicrowaves bounce, stay confined\nSignals keep their shape"}
-{"prompt": "Write a haiku about radio.", "response": "Radio in dusk\nCarrier waves hum through night\nNews arrives as tone"}
-{"prompt": "Write a haiku about Poynting.", "response": "Poynting shows the flux\nEnergy streams: E cross B\nLight pours on its path"}
+{"prompt":"Write a haiku about charge.","response":"Charge hides in still air\nElectrons drift toward ground\nSpark writes its bright law"}
+{"prompt":"Write a haiku about Coulomb.","response":"Coulomb counts the pull\nTwo points whisper, r squared grows\nForce fades with distance"}
+{"prompt":"Write a haiku about Gauss.","response":"Gauss draws a closed shell\nFlux through it tells charge inside\nFields breathe outward now"}
+{"prompt":"Write a haiku about field.","response":"A field fills the void\nArrows point where forces sleep\nWe trace what we can't"}
+{"prompt":"Write a haiku about electric.","response":"Electric night hush\nBlue arcs stitch the dark to steel\nSkin tingles, awake"}
+{"prompt":"Write a haiku about magnet.","response":"Magnet grips iron\nLines loop from pole to pole still\nCompass turns, slow, sure"}
+{"prompt":"Write a haiku about pole.","response":"Pole seeks its twin near\nNorth and south refuse to rest\nSnap, then calm again"}
+{"prompt":"Write a haiku about vector.","response":"Vector shows the way\nMagnitude and angle sing\nAdd head to tail now"}
+{"prompt":"Write a haiku about Ampere.","response":"Ampere listens close\nCurrents braid a circling field\nNeedles lean, alert"}
+{"prompt":"Write a haiku about potential.","response":"Potential waits high\nHill of volts above a wire\nRoll down as current"}
+{"prompt":"Write a haiku about Maxwell.","response":"Maxwell knits the laws\nE and B dance, entwined tight\nLight blooms from their swirl"}
+{"prompt":"Write a haiku about voltage.","response":"Voltage is a push\nAcross the gap, it drives flow\nQuiet, then a spark"}
+{"prompt":"Write a haiku about circuit.","response":"Circuit closes tight\nLoops of copper guide the charge\nBack to source, again"}
+{"prompt":"Write a haiku about resistor.","response":"Resistor slows it\nHeat grows; electrons fight on\nOhms stand like a gate"}
+{"prompt":"Write a haiku about current.","response":"Current threads the wire\nDrifting charge makes lamps awake\nNight turns into day"}
+{"prompt":"Write a haiku about capacitor.","response":"Capacitor holds\nPlates store hush of waiting volts\nThen dumps in a blink"}
+{"prompt":"Write a haiku about inductor.","response":"Inductor resists\nChange the current, coils reply\nBack E M F sings"}
+{"prompt":"Write a haiku about work.","response":"Work is force times path\nEnergy shifts when we step\nSweat becomes heat here"}
+{"prompt":"Write a haiku about trajectory.","response":"Trajectory arcs\nStone writes parabola clean\nGravity edits"}
+{"prompt":"Write a haiku about cross product.","response":"Cross product points up\nPerpendicular to both\nRight hand finds the sign"}
+{"prompt":"Write a haiku about radiation.","response":"Radiation streams\nFrom hot coils to distant stars\nWarmth on our cheeks soft"}
+{"prompt":"Write a haiku about antenna.","response":"Antenna reaches\nIt drinks whispers of the sky\nSignals turn to song"}
+{"prompt":"Write a haiku about waveguide.","response":"Waveguide in the dark\nMetal walls steer microwaves\nLosses hum low on"}
+{"prompt":"Write a haiku about radio.","response":"Radio wakes me\nIn static, voices ride bands\nFar hands feel near now"}
+{"prompt":"Write a haiku about Poynting.","response":"Poynting shows the flow\nEnergy streams where fields cross\nLight bears momentum"}

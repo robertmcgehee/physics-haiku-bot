@@ -1,25 +1,25 @@
-{"prompt":"Generate a physics haiku on Bravais lattice.","response":"Bravais lattice sings\nPlanes stack, waves find their paths here\nCrystal rules in math"}
-{"prompt":"Generate a physics haiku on unit cell.","response":"unit cell, small box\nRepeat, and solids emerge\nOrder fills the space"}
-{"prompt":"Generate a physics haiku on reciprocal lattice.","response":"reciprocal lattice\nIn k-space, peaks mark the truth\nDiffraction speaks clear"}
-{"prompt":"Generate a physics haiku on Brillouin zone.","response":"Brillouin zone map\nBands fold at the boundary\nGaps open like dawn"}
-{"prompt":"Generate a physics haiku on phonon.","response":"phonon in the grid\nQuanta of lattice shivers\nHeat rides the ripple"}
-{"prompt":"Generate a physics haiku on Debye model.","response":"Debye model hums\nLow notes fill the cold crystal\nC_v wakes with T"}
-{"prompt":"Generate a physics haiku on specific heat.","response":"specific heat climbs\nMany modes share warmth within\nNumbers tell the phase"}
-{"prompt":"Generate a physics haiku on thermal conductivity.","response":"thermal conductivity\nHot to cold, vibrations run\nCopper beats the ash"}
-{"prompt":"Generate a physics haiku on Drude model.","response":"Drude model, swift\nElectrons drift, then crash again\nOhm’s law from collisions"}
-{"prompt":"Generate a physics haiku on band gap.","response":"band gap, quiet sky\nNo states in the forbidden\nLight must leap the gulf"}
-{"prompt":"Generate a physics haiku on Bloch's theorem.","response":"Bloch's theorem speaks\nWaves wear periodic cloaks\nThrough crystals they go"}
-{"prompt":"Generate a physics haiku on metal.","response":"metal, sea of states\nFermi surface gleams in k\nCurrent flows with ease"}
-{"prompt":"Generate a physics haiku on insulator.","response":"insulator still\nValence full, no room to move\nCharge sleeps in the dark"}
-{"prompt":"Generate a physics haiku on semiconductor.","response":"semiconductor dawn\nDope the lattice, tune the bands\nSwitches learn to think"}
-{"prompt":"Generate a physics haiku on transistor.","response":"transistor, gate light\nA tiny field says yes or no\nLogic blooms in sand"}
-{"prompt":"Generate a physics haiku on p-n junction.","response":"p-n junction forms\nDepletion makes a thin wall\nDiodes learn one way"}
-{"prompt":"Generate a physics haiku on diamagnetism.","response":"diamagnetism\nInduced loops oppose the field\nWeak, yet always there"}
-{"prompt":"Generate a physics haiku on paramagnetism.","response":"paramagnetism\nSpins half-turn toward the field line\nWarmth shakes them back loose"}
-{"prompt":"Generate a physics haiku on ferromagnetism.","response":"ferromagnetism\nDomains lock in common will\nNorth remembers south"}
-{"prompt":"Generate a physics haiku on Meissner effect.","response":"Meissner effect shines\nFlux is pushed from cold new calm\nLevitation breathes"}
-{"prompt":"Generate a physics haiku on BCS theory.","response":"BCS theory\nPairs glide, bound by phonon song\nResistance turns none"}
-{"prompt":"Generate a physics haiku on phase transition.","response":"phase transition\nOrder breaks, then forms anew\nCritical winds rise"}
-{"prompt":"Generate a physics haiku on Berry phase.","response":"Berry phase, soft twist\nA loop in parameter space\nLeaves a hidden mark"}
-{"prompt":"Generate a physics haiku on topological insulator.","response":"topological insulator\nEdges carry fearless currents\nBulk stays dark, unmoved"}
-{"prompt":"Generate a physics haiku on polymer.","response":"polymer, long chain\nCoils and stretches, glass to flow\nSoft matter, hard math"}
+{"prompt":"Generate a physics haiku on Bravais lattice.","response":"Crystal seeds align\nBravais lattice maps the form\nEdges echo light"}
+{"prompt":"Generate a physics haiku on unit cell.","response":"Atoms share one home\nunit cell sets the scale now\nRepeat into space"}
+{"prompt":"Generate a physics haiku on reciprocal lattice.","response":"Fourier dreams rise\nreciprocal lattice sings\nPeaks meet twin points here"}
+{"prompt":"Generate a physics haiku on Brillouin zone.","response":"Band paths curl and turn\nBrillouin zone guards k lines\nGaps open like dawn"}
+{"prompt":"Generate a physics haiku on phonon.","response":"Heat hums in the wood\nphonon ripples through the grid\nLattice breathes, soft now"}
+{"prompt":"Generate a physics haiku on Debye model.","response":"Cold dawn, atoms still\nDebye model warms the modes\nHeat curve settles down"}
+{"prompt":"Generate a physics haiku on specific heat.","response":"Winter sample chills\nspecific heat tells how much\nEnergy to rise"}
+{"prompt":"Generate a physics haiku on thermal conductivity.","response":"Copper keeps its calm\nthermal conductivity\nCarries heat afar"}
+{"prompt":"Generate a physics haiku on Drude model.","response":"Electrons like rain\nDrude model rides their drift on\nScattering sets pace"}
+{"prompt":"Generate a physics haiku on band gap.","response":"Light knocks, door stays shut\nband gap holds the silent jump\nUntil blue arrives"}
+{"prompt":"Generate a physics haiku on Bloch's theorem.","response":"Through crystal repeats\nBloch's theorem guides the wave front\nPhase folds, yet stays true"}
+{"prompt":"Generate a physics haiku on metal.","response":"River of charge bright\nmetal lets currents wander\nNo gap bars the way"}
+{"prompt":"Generate a physics haiku on insulator.","response":"Quiet valence seas\ninsulator keeps light out\nBands lock hands, still tight"}
+{"prompt":"Generate a physics haiku on semiconductor.","response":"Doped dawns awaken\nsemiconductor shifts bands\nBetween dark and glow"}
+{"prompt":"Generate a physics haiku on transistor.","response":"Gate whispers on now\ntransistor steers the stream well\nLogic blooms in sand"}
+{"prompt":"Generate a physics haiku on p-n junction.","response":"Two doped shores meet here\np-n junction makes one field\nDiodes sip the sun"}
+{"prompt":"Generate a physics haiku on diamagnetism.","response":"Fields press, hearts resist\ndiamagnetism says no\nFaint shields in all things"}
+{"prompt":"Generate a physics haiku on paramagnetism.","response":"Spins tilt with the breeze\nparamagnetism leans in\nWarmth shakes them free now"}
+{"prompt":"Generate a physics haiku on ferromagnetism.","response":"Domains choose one song\nferromagnetism locks\nNeedles point, steady"}
+{"prompt":"Generate a physics haiku on Meissner effect.","response":"Coils hum near the ice\nMeissner effect clears the field\nFlux slips to the rim"}
+{"prompt":"Generate a physics haiku on BCS theory.","response":"Pairs form in the dark\nBCS theory binds pairs\nResistance goes down"}
+{"prompt":"Generate a physics haiku on phase transition.","response":"Order melts to mist\nphase transition redraws all\nNew symmetry forms"}
+{"prompt":"Generate a physics haiku on Berry phase.","response":"Loop once, come back changed\nBerry phase hides in the turn\nGeometry sings"}
+{"prompt":"Generate a physics haiku on topological.","response":"Edges keep their oath\ntopological twists stay\nEven through rough noise"}
+{"prompt":"Generate a physics haiku on polymer.","response":"Long chains learn to bend\npolymer remembers shape\nSoft strength in the weave"}

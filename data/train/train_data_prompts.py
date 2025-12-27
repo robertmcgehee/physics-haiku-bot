@@ -1,5 +1,5 @@
 # train_data_prompts.py
-# Wrapper to generate training data haiku prompts for GPT-5.2 consistently.
+"""Wrapper to generate training data haiku prompts for GPT-5.2 consistently."""
 
 from train_data_keywords import train_keyword_families
 
@@ -19,8 +19,12 @@ prompt_middle = 'where <keyword> is replaced by one of 25 keywords from the list
 prompt_end = "For the 'response' value, please do as the 'prompt' value asks. " \
 "Be sure to enforce a 5-7-5 syllable count, to enforce 3 line haikus, and to " \
 "use the physics keyword somewhere once while sticking to the physics topic as " \
-"best as you can."
+"best as you can. Make sure the first line has five syllables. Make sure the second " \
+"line has seven syllables. Make sure the third line has five syllables. Use a careful " \
+"algorithm to count and enforce each of the lines' syllables. If a line does not " \
+"have the correct syllable count, regenerate that line until it does. "
 
-for keyword_family in train_keyword_families:
-    print(f"{prompt_begin} {haiku_prompts[4]} {prompt_middle} {keyword_family}. {prompt_end}" )
-    print("\n")
+if __name__ == "__main__":
+    for keyword_family in train_keyword_families:
+        print(f"{prompt_begin} {haiku_prompts[1]} {prompt_middle} {keyword_family}. {prompt_end}" )
+        print("\n")

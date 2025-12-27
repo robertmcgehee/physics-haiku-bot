@@ -1,25 +1,25 @@
-{"prompt": "Produce a short haiku about the physics of oscilloscope.", "response": "Jittering signal\nOscilloscope traces time\nPeaks breathe into noise"}
-{"prompt": "Produce a short haiku about the physics of data analysis.", "response": "Scatter plots whisper\nData analysis guides\nTruth from messy points"}
-{"prompt": "Produce a short haiku about the physics of diffraction.", "response": "Through narrow slits we\nDiffraction spreads light wide out\nFringes count the wave"}
-{"prompt": "Produce a short haiku about the physics of spectroscopy.", "response": "Atoms sing in bands\nSpectroscopy reads lines cold\nElements announce"}
-{"prompt": "Produce a short haiku about the physics of Hall effect.", "response": "Current meets field now\nHall effect bends carriers\nSideways voltage blooms"}
-{"prompt": "Produce a short haiku about the physics of photoelectric effect.", "response": "Blue photons arrive\nPhotoelectric effect\nElectrons leap free"}
-{"prompt": "Produce a short haiku about the physics of error propagation.", "response": "Each sigma ripples\nError propagation runs\nThrough every result"}
-{"prompt": "Produce a short haiku about the physics of systematics.", "response": "Bias hides in rigs\nSystematics skew means slow\nCalibrate, then trust"}
-{"prompt": "Produce a short haiku about the physics of curve fitting.", "response": "Least squares finds path home\nCurve fitting tames noise at last\nCoefficients rest"}
-{"prompt": "Produce a short haiku about the physics of interference.", "response": "Two paths, one phase meet\nInterference makes fringes bright\nDark cancels the crest"}
-{"prompt": "Produce a short haiku about the physics of optical pumping.", "response": "Circular light tunes\nOptical pumping sets spins\nAtoms prefer up"}
-{"prompt": "Produce a short haiku about the physics of Franck-Hertz.", "response": "Electrons collide\nFranck-Hertz shows quanta in gas\nSteps in current form"}
-{"prompt": "Produce a short haiku about the physics of Zeeman effect.", "response": "Magnet wraps atoms\nZeeman effect splits lines clean\nSpin speaks in shifts now"}
-{"prompt": "Produce a short haiku about the physics of optical rotation.", "response": "Chiral liquids twist\nOptical rotation turns\nPlane of light is swung"}
-{"prompt": "Produce a short haiku about the physics of reflection.", "response": "Mirror meets the beam\nReflection flips the phase back\nSame angle returns"}
-{"prompt": "Produce a short haiku about the physics of nuclear magnetic resonance.", "response": "Spins drink radio\nnuclear magnetic resonance\nEcho maps the bonds"}
-{"prompt": "Produce a short haiku about the physics of superconductor.", "response": "No resistance left\nSuperconductor chills deep\nFlux lines lock in place"}
-{"prompt": "Produce a short haiku about the physics of chaos.", "response": "Tiny nudges grow\nChaos blooms from feedback loops\nPredictors fail soon"}
-{"prompt": "Produce a short haiku about the physics of non-linear system.", "response": "Equations twist hard\nNon-linear system erupts\nBifurcations split"}
-{"prompt": "Produce a short haiku about the physics of lab report.", "response": "Graphs, tables, notes stack\nLab report seals the run up\nConclusions stay brief"}
-{"prompt": "Produce a short haiku about the physics of multimeter.", "response": "Probes touch two points now\nMultimeter checks volts fast\nDigits steady out"}
-{"prompt": "Produce a short haiku about the physics of power supply.", "response": "Turn the knob slowly\nPower supply feeds rails clean\nCurrent holds its line"}
-{"prompt": "Produce a short haiku about the physics of function generator.", "response": "Square, sine, sawtooth too\nFunction generator sings\nTiming sets the beat"}
-{"prompt": "Produce a short haiku about the physics of optical bench.", "response": "Rails align the path\nOptical bench keeps lenses\nLight stays on axis"}
-{"prompt": "Produce a short haiku about the physics of laser.", "response": "Coherent photons\nLaser locks in phase tight now\nA needle of light"}
+{"prompt": "Produce a short haiku about the physics of oscilloscope.", "response": "oscilloscope glows\ntraces rise with time and noise\nvolts sing on the screen"}
+{"prompt": "Produce a short haiku about the physics of data analysis.", "response": "we sort the raw counts\ndata analysis hums\ntruth hides in the bins"}
+{"prompt": "Produce a short haiku about the physics of diffraction.", "response": "diffraction fans light\nedges carve rings on the wall\nslits whisper of waves"}
+{"prompt": "Produce a short haiku about the physics of spectroscopy.", "response": "spectroscopy speaks\nlines split, each hue tells its tale\natoms sign their names"}
+{"prompt": "Produce a short haiku about the physics of Hall effect.", "response": "Hall effect bends charge\nsideways volts mark hidden paths\nfields steer the slow drift"}
+{"prompt": "Produce a short haiku about the physics of photoelectric effect.", "response": "blue light knocks it free\nphotoelectric effect\nelectrons leap out"}
+{"prompt": "Produce a short haiku about the physics of error propagation.", "response": "small slips add in fog\nerror propagation grows\nbars widen with care"}
+{"prompt": "Produce a short haiku about the physics of systematics.", "response": "systematics lurk\nbias tilts our careful scale\ncalibrate, repeat"}
+{"prompt": "Produce a short haiku about the physics of curve fitting.", "response": "curve fitting finds trend\nleast squares tames the scatter wild\nerrors still remain"}
+{"prompt": "Produce a short haiku about the physics of interference.", "response": "interference weaves\ntwo beams braid in bright, dark, bright\nphase sets the fringe line"}
+{"prompt": "Produce a short haiku about the physics of optical pumping.", "response": "optical pumping\nspins align in quiet light\ndark states hold their breath"}
+{"prompt": "Produce a short haiku about the physics of Franck-Hertz.", "response": "Franck-Hertz shows steps clear\nelectrons lose fixed chunks now\nneon flashes back"}
+{"prompt": "Produce a short haiku about the physics of Zeeman effect.", "response": "magnet grips the beam\nZeeman effect splits lines wide\nlevels fan apart"}
+{"prompt": "Produce a short haiku about the physics of optical rotation.", "response": "polar light turns slow\noptical rotation twists\nsugars sign the path"}
+{"prompt": "Produce a short haiku about the physics of reflection.", "response": "reflection sends back\nsame tilt returns the ray just\nmirrors teach us law"}
+{"prompt": "Produce a short haiku about the physics of quantum optics.", "response": "quantum optics spark\nsingle photons choose their way\nclicks in the dark room"}
+{"prompt": "Produce a short haiku about the physics of superconductor.", "response": "superconductor\ncurrent flows with zero drag\nflux pins like ice still"}
+{"prompt": "Produce a short haiku about the physics of chaos.", "response": "chaos blooms from rules\ntiny nudges change the end\norder hides inside"}
+{"prompt": "Produce a short haiku about the physics of non-linear system.", "response": "feedback loops can sing\nnon-linear system now\nsteady turns to swirls"}
+{"prompt": "Produce a short haiku about the physics of lab report.", "response": "lab report due dawn\nplots, errors, and one clear claim\nsign, submit, breathe out"}
+{"prompt": "Produce a short haiku about the physics of multimeter.", "response": "multimeter beeps\nprobes touch, numbers settle down\nohms guard the circuit"}
+{"prompt": "Produce a short haiku about the physics of power supply.", "response": "power supply hums\nrails hold steady, volts stay calm\nknobs trim the output"}
+{"prompt": "Produce a short haiku about the physics of function generator.", "response": "sine, square, saw roll out\nfunction generator sings\nfrequency we dial"}
+{"prompt": "Produce a short haiku about the physics of optical bench.", "response": "optical bench holds\nlenses slide, the beam stays true\nclamps lock the path tight"}
+{"prompt": "Produce a short haiku about the physics of laser.", "response": "laser cuts a line\ncoherent light, a thin sword\nspeckle dances on"}

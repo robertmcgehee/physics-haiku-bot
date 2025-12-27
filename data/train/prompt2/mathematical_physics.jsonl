@@ -1,25 +1,25 @@
-{"prompt":"Generate a physics haiku on cylindrical coordinates.","response":"Spin round an axis\ncylindrical coordinates\nRadial calm holds fast"}
-{"prompt":"Generate a physics haiku on spherical coordinates.","response":"Angles meet the shell\nspherical coordinates\nRadius breathes in space"}
-{"prompt":"Generate a physics haiku on gradient.","response":"Slope of silent fields\nThe gradient points the way\nSteepest rise revealed"}
-{"prompt":"Generate a physics haiku on divergence.","response":"Sources softly speak\nDivergence counts flow outward\nSpace exhales its charge"}
-{"prompt":"Generate a physics haiku on curl.","response":"Whispers of rotation\nCurl twists the flowing vector\nHidden spin appears"}
-{"prompt":"Generate a physics haiku on tensor.","response":"Many arms of truth\nA tensor binds directions\nFrames agree in form"}
-{"prompt":"Generate a physics haiku on complex analysis.","response":"Imagined planes hum\ncomplex analysis weaves\nPoles sing, zeros fade"}
-{"prompt":"Generate a physics haiku on Cauchy integral.","response":"Closed paths guard the sum\nCauchy integral reveals\nValue from the rim"}
-{"prompt":"Generate a physics haiku on contour.","response":"Around silent poles\nA contour loops with purpose\nNumbers stay unchanged"}
-{"prompt":"Generate a physics haiku on Taylor series.","response":"Near a gentle point\nTaylor series blooms outward\nLocal truths extend"}
-{"prompt":"Generate a physics haiku on residue.","response":"Hidden in the pole\nResidue sets the answer\nSmall terms rule the whole"}
-{"prompt":"Generate a physics haiku on conformal map.","response":"Angles stay preserved\nConformal map bends the plane\nShapes breathe, laws remain"}
-{"prompt":"Generate a physics haiku on Fourier transform.","response":"Time dissolves to waves\nFourier transform reveals\nFrequencies sing"}
-{"prompt":"Generate a physics haiku on orthogonality.","response":"Silent vectors meet\nOrthogonality holds\nNo shadow remains"}
-{"prompt":"Generate a physics haiku on Laplace transform.","response":"Time slips into s\nLaplace transform calms the noise\nDynamics stand still"}
-{"prompt":"Generate a physics haiku on first order.","response":"Linear response\nFirst order terms guide the path\nSmall steps tell the tale"}
-{"prompt":"Generate a physics haiku on second order.","response":"Curvature appears\nSecond order bends the law\nSubtle shifts grow strong"}
-{"prompt":"Generate a physics haiku on Frobenius.","response":"Near a singular\nFrobenius finds the form\nSeries survives there"}
-{"prompt":"Generate a physics haiku on quadrature.","response":"Weights on quiet points\nQuadrature counts the smooth sum\nAreas emerge"}
-{"prompt":"Generate a physics haiku on Green's function.","response":"Source speaks to all space\nGreen's function carries the tale\nResponse echoes back"}
-{"prompt":"Generate a physics haiku on integral equation.","response":"Unknowns speak in sums\nIntegral equation binds\nWhole and part as one"}
-{"prompt":"Generate a physics haiku on steepest descent.","response":"Paths choose least resistance\nSteepest descent finds truth\nPhase fades into calm"}
-{"prompt":"Generate a physics haiku on group theory.","response":"Symmetry whispers\nGroup theory names the patterns\nOrder without force"}
-{"prompt":"Generate a physics haiku on variational calculus.","response":"Action seeks its rest\nVariational calculus\nChooses nature’s path"}
-{"prompt":"Generate a physics haiku on representation.","response":"Abstract made concrete\nRepresentation gives form\nMeaning wears a mask"}
+{"prompt":"Generate a physics haiku on Lie algebra.","response":"Deep symmetry stirs\nLie algebra bends space now\nVectors fall in line"}
+{"prompt":"Generate a physics haiku on spherical coordinates.","response":"North pole, then we sweep\nspherical coordinates\nAngles chart our drift"}
+{"prompt":"Generate a physics haiku on gradient.","response":"Slope hides in fields still\nFollow the gradient uphill\nPotential turns calm"}
+{"prompt":"Generate a physics haiku on divergence.","response":"Flux spills outward soft\ndivergence marks the source here\nVolume breathes again"}
+{"prompt":"Generate a physics haiku on curl.","response":"Eddies in silence\ncurl twists the field lines tight so\nCircuits hum at dusk"}
+{"prompt":"Generate a physics haiku on tensor.","response":"Stress speaks in frames all\nA tensor holds the story\nCurved space answers back"}
+{"prompt":"Generate a physics haiku on complex analysis.","response":"Numbers wear a veil\ncomplex analysis sings\nPoles glow, then dissolve"}
+{"prompt":"Generate a physics haiku on Cauchy integral.","response":"Cauchy integral\nContours guard what stays same true\nHolomorphic dawn"}
+{"prompt":"Generate a physics haiku on contour.","response":"Ink draws a contour\nAround the pole we circle\nResidues remain"}
+{"prompt":"Generate a physics haiku on Taylor series.","response":"Near zero, we trust\nTaylor series blooms fast there\nErrors fade like mist"}
+{"prompt":"Generate a physics haiku on residue.","response":"At singular points\nresidue sets the answer\nIntegrals close clean"}
+{"prompt":"Generate a physics haiku on conformal map.","response":"Shapes keep their angles\nconformal map turns planes bright\nFlow lines stay unbent"}
+{"prompt":"Generate a physics haiku on Fourier transform.","response":"Time breaks into tones\nFourier transform reveals all\nSpectra speak in peaks"}
+{"prompt":"Generate a physics haiku on orthogonality.","response":"Vectors stay apart\northogonality holds\nInner products hush"}
+{"prompt":"Generate a physics haiku on Laplace transform.","response":"Damping tames the noise\nLaplace transform calms time down\nPoles set decay rates"}
+{"prompt":"Generate a physics haiku on first order.","response":"Small steps, steady law\nfirst order changes obey\nLinear terms win"}
+{"prompt":"Generate a physics haiku on second order.","response":"Curvature answers\nsecond order waves arise\nTwo roots, one motion"}
+{"prompt":"Generate a physics haiku on Frobenius.","response":"Near a regular\nFrobenius builds power\nSeries finds its path"}
+{"prompt":"Generate a physics haiku on quadrature.","response":"Weights on sample points\nquadrature sums area\nError bounds grow small"}
+{"prompt":"Generate a physics haiku on Green's function.","response":"Impulse, then reply\nGreen's function carries hope far\nSources shape the field"}
+{"prompt":"Generate a physics haiku on integral equation.","response":"Kernels remember\nintegral equation seals\nGlobal ties persist"}
+{"prompt":"Generate a physics haiku on steepest descent.","response":"Saddles steer the phase\nsteepest descent finds the path\nAsymptotics sing"}
+{"prompt":"Generate a physics haiku on group theory.","response":"Hidden rules repeat\ngroup theory names the moves\nParticles trade states"}
+{"prompt":"Generate a physics haiku on variational calculus.","response":"Least action guides us\nvariational calculus\nPaths compete, then rest"}
+{"prompt":"Generate a physics haiku on representation.","response":"Abstract turns concrete\nrepresentation shows states\nMatrices whisper"}

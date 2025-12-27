@@ -1,25 +1,25 @@
-{"prompt": "Produce a short haiku about the physics of Bravais lattice.", "response": "Atoms sit in rows\nBravais lattice is cold now\nWaves map the order"}
-{"prompt": "Produce a short haiku about the physics of unit cell.", "response": "Crystal repeats calm\nIn a unit cell, bonds hum\nWhole forms from one seed"}
-{"prompt": "Produce a short haiku about the physics of reciprocal lattice.", "response": "Momentum grid forms\nReciprocal lattice glows\nDiffraction finds peaks"}
-{"prompt": "Produce a short haiku about the physics of Brillouin zone.", "response": "Bands fold at the edge\nBrillouin zone holds gaps tight\nElectrons choose paths"}
-{"prompt": "Produce a short haiku about the physics of phonon.", "response": "Heat hums through lattice\nA phonon ripples through stone\nSound made of motion"}
-{"prompt": "Produce a short haiku about the physics of Debye model.", "response": "Cold crystal quiet\nDebye model counts modes low\nSpecific heat drops"}
-{"prompt": "Produce a short haiku about the physics of specific heat.", "response": "Energy shares out\nSpecific heat sets slopes there\nTells how warm it gets"}
-{"prompt": "Produce a short haiku about the physics of thermal conductivity.", "response": "Heat flows, not carried\nthermal conductivity\nDefects slow the stream"}
-{"prompt": "Produce a short haiku about the physics of Drude model.", "response": "Free electrons drift\nDrude model drives current on\nScattering sets R"}
-{"prompt": "Produce a short haiku about the physics of band gap.", "response": "Valence full and calm\nBand gap keeps light at bay still\nJump needs photon push"}
-{"prompt": "Produce a short haiku about the physics of Bloch's theorem.", "response": "Lattice has a beat\nBloch's theorem sets crystal phase\nk labels the song"}
-{"prompt": "Produce a short haiku about the physics of metal.", "response": "No gap blocks the sea\nIn metal, electrons roam\nCurrent flows with ease"}
-{"prompt": "Produce a short haiku about the physics of insulator.", "response": "Filled bands stay below\nInsulator holds tight charge\nField meets quiet walls"}
-{"prompt": "Produce a short haiku about the physics of semiconductor.", "response": "Near gap, states await\nSemiconductor shifts bands\nDoping tunes the flow"}
-{"prompt": "Produce a short haiku about the physics of transistor.", "response": "Tiny switch of fields\nA transistor gates a sea\nLogic from charge streams"}
-{"prompt": "Produce a short haiku about the physics of p-n junction.", "response": "Holes meet electrons\np-n junction builds a wall\nBias breaks it down"}
-{"prompt": "Produce a short haiku about the physics of diamagnetism.", "response": "Paired spins oppose it\nDiamagnetism hush now\nFlux is pushed away"}
-{"prompt": "Produce a short haiku about the physics of paramagnetism.", "response": "Unpaired moments wait\nParamagnetism, spins tilt\nWarmth shakes them loose still"}
-{"prompt": "Produce a short haiku about the physics of ferromagnetism.", "response": "Spins all choose one way\nFerromagnetism holds fast\nHysteresis stays"}
-{"prompt": "Produce a short haiku about the physics of Meissner effect.", "response": "Supercurrent screens\nMeissner effect clears flux out\nField lines flee the bulk"}
-{"prompt": "Produce a short haiku about the physics of BCS theory.", "response": "Cooper pairs condense\nBCS theory pairs electrons\nGap opens, noise drops"}
-{"prompt": "Produce a short haiku about the physics of phase transition.", "response": "At a sharp threshold\nPhase transition flips order\nNew rules take the stage"}
-{"prompt": "Produce a short haiku about the physics of Berry phase.", "response": "Slow circuit in space\nBerry phase loops without force\nAngle hides in gauge"}
-{"prompt": "Produce a short haiku about the physics of topological insulator.", "response": "Edge states carry charge\ntopological insulator\nBulk stays dark and still"}
-{"prompt": "Produce a short haiku about the physics of polymer.", "response": "Long bonds link like rope\nPolymer chains coil and stretch\nSoft solids take shape"}
+{"prompt": "Produce a short haiku about the physics of Bravais lattice.", "response": "Crystal points repeat\nBravais lattice maps all forms\nOrder in each grain"}
+{"prompt": "Produce a short haiku about the physics of unit cell.", "response": "Inside one small box\nunit cell holds the pattern\nTiles the crystal now"}
+{"prompt": "Produce a short haiku about the physics of reciprocal lattice.", "response": "Wave vectors align\nreciprocal lattice peaks\nDiffraction lights up"}
+{"prompt": "Produce a short haiku about the physics of Brillouin zone.", "response": "First bands fold back now\nBrillouin zone bounds motion\nEdges whisper gaps"}
+{"prompt": "Produce a short haiku about the physics of phonon.", "response": "Lattice atoms sway\nphonon carries heat away\nSound in crystal dark"}
+{"prompt": "Produce a short haiku about the physics of Debye model.", "response": "Low temp bends slow down\nDebye model counts all modes\nHeat scales as cubes now"}
+{"prompt": "Produce a short haiku about the physics of specific heat.", "response": "Warmth per kelvin tells\nspecific heat tracks the climb\nQuanta wake and sleep"}
+{"prompt": "Produce a short haiku about the physics of thermal conductivity.", "response": "Heat seeks a highway\nthermal conductivity rules\nCopper runs ahead"}
+{"prompt": "Produce a short haiku about the physics of Drude model.", "response": "Electrons as beads\nDrude model makes them drift free\nScattering sets time"}
+{"prompt": "Produce a short haiku about the physics of band gap.", "response": "Between filled and free\nband gap bars the bright jump up\nColors choose the cut"}
+{"prompt": "Produce a short haiku about the physics of Bloch's theorem.", "response": "In periodic space\nBloch's theorem shapes wave states well\nPhase factors glide through"}
+{"prompt": "Produce a short haiku about the physics of metal.", "response": "Sea of electrons\nmetal lets currents flow so\nCold light reflects bright"}
+{"prompt": "Produce a short haiku about the physics of insulator.", "response": "Charges stay at home\ninsulator keeps fields trapped\nNo drift, just stillness"}
+{"prompt": "Produce a short haiku about the physics of semiconductor.", "response": "Small dopants enter\nsemiconductor steers flow\nElectrons and holes"}
+{"prompt": "Produce a short haiku about the physics of transistor.", "response": "Gate opens and shuts\ntransistor steers charge streams fast\nLogic blooms in sand"}
+{"prompt": "Produce a short haiku about the physics of p-n junction.", "response": "Two realms meet here now\np-n junction barrier forms\nDiodes glow at dawn"}
+{"prompt": "Produce a short haiku about the physics of diamagnetism.", "response": "Loops oppose the field\ndiamagnetism now\nWeak, yet always sure"}
+{"prompt": "Produce a short haiku about the physics of paramagnetism.", "response": "Lone spins like to roam\nparamagnetism leans\nWarmth breaks the order"}
+{"prompt": "Produce a short haiku about the physics of ferromagnetism.", "response": "Domains march as one\nferromagnetism locks\nLoops keep memory"}
+{"prompt": "Produce a short haiku about the physics of Meissner effect.", "response": "Below Tc, we cool\nMeissner effect drives flux out\nFlux lines fade out now"}
+{"prompt": "Produce a short haiku about the physics of BCS theory.", "response": "Pairs form in silence\nBCS theory binds them\nGap opens at dawn"}
+{"prompt": "Produce a short haiku about the physics of phase transition.", "response": "Order melts to noise\nphase transition at the edge\nNew order appears"}
+{"prompt": "Produce a short haiku about the physics of Berry phase.", "response": "Walk a closed loop slow\nBerry phase tilts fringes now\nGeometry speaks"}
+{"prompt": "Produce a short haiku about the physics of topological.", "response": "Edges guard currents\ntopological bands link\nKnots resist all cuts"}
+{"prompt": "Produce a short haiku about the physics of polymer.", "response": "Long chains curl and flex\npolymer stores hidden spring\nSoft strength in threads deep"}

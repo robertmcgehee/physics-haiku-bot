@@ -1,25 +1,25 @@
-{"prompt":"Produce a short haiku about the physics of cylindrical coordinates.","response":"cylindrical coordinates\nspin round the silent axis\nradial truths unfold"}
-{"prompt":"Produce a short haiku about the physics of spherical coordinates.","response":"spherical coordinates\nshells of symmetry expand\nangles hold the mass"}
-{"prompt":"Produce a short haiku about the physics of gradient.","response":"gradient points the way\nsteepest climb through scalar fields\nforce from quiet change"}
-{"prompt":"Produce a short haiku about the physics of divergence.","response":"divergence whispers\nsources breathe, sinks pull inward\nflux tells where it flows"}
-{"prompt":"Produce a short haiku about the physics of curl.","response":"curl twists empty space\nvortices in silent fields\nspin without motion"}
-{"prompt":"Produce a short haiku about the physics of tensor.","response":"tensor binds the laws\nframes agree through shifting views\nranked truth holds firm"}
-{"prompt":"Produce a short haiku about the physics of complex analysis.","response":"complex analysis\nplanes bend with hidden meaning\npoles sing residues"}
-{"prompt":"Produce a short haiku about the physics of Cauchy integral.","response":"Cauchy integral\ncircles guard analytic truth\nvalue stays unchanged"}
-{"prompt":"Produce a short haiku about the physics of contour.","response":"contour loops through space\npaths avoid forbidden poles\nshape decides the sum"}
-{"prompt":"Produce a short haiku about the physics of Taylor series.","response":"Taylor series blooms\nlocal whispers build the whole\ninfinite nearby"}
-{"prompt":"Produce a short haiku about the physics of residue.","response":"residue remains\npoles reveal their quiet weight\nsums jump by circles"}
-{"prompt":"Produce a short haiku about the physics of conformal map.","response":"conformal map bends\nangles stay but shapes dissolve\ngeometry smiles"}
-{"prompt":"Produce a short haiku about the physics of Fourier transform.","response":"Fourier transform hums\ntime becomes pure frequency\nhidden tones appear"}
-{"prompt":"Produce a short haiku about the physics of orthogonality.","response":"orthogonality\nsilent vectors never meet\nclean basis remains"}
-{"prompt":"Produce a short haiku about the physics of Laplace transform.","response":"Laplace transform calms\ntime decays to algebra\nsolved in quiet space"}
-{"prompt":"Produce a short haiku about the physics of first order.","response":"first order systems\nmemory fades exponentially\nsimple laws relax"}
-{"prompt":"Produce a short haiku about the physics of second order.","response":"second order laws\npast and push decide the path\noscillations breathe"}
-{"prompt":"Produce a short haiku about the physics of Frobenius.","response":"Frobenius method\nseries rise from singular points\norder from the edge"}
-{"prompt":"Produce a short haiku about the physics of quadrature.","response":"quadrature sums arcs\nareas born from tiny steps\nlimits close the gap"}
-{"prompt":"Produce a short haiku about the physics of Green's function.","response":"Green's function replies\none source answers everywhere\nspace remembers all"}
-{"prompt":"Produce a short haiku about the physics of integral equation.","response":"integral equation\nunknown speaks to itself\nkernels bind the whole"}
-{"prompt":"Produce a short haiku about the physics of steepest descent.","response":"steepest descent slides\npaths choose least resisting phase\nsaddles dominate"}
-{"prompt":"Produce a short haiku about the physics of group theory.","response":"group theory unites\nsymmetry commands the laws\nstates march in orbits"}
-{"prompt":"Produce a short haiku about the physics of variational calculus.","response":"variational calculus\nnature selects quiet paths\naction stands still"}
-{"prompt":"Produce a short haiku about the physics of representation.","response":"representation\nabstract symmetry takes form\nmatrices speak truth"}
+{"prompt":"Produce a short haiku about the physics of Lie algebra.","response":"Symmetry whispers\nLie algebra closes\nCharges stay aligned"}
+{"prompt":"Produce a short haiku about the physics of spherical coordinates.","response":"Orbits trace the sky\nspherical coordinates\nAngles hold the path"}
+{"prompt":"Produce a short haiku about the physics of gradient.","response":"Heat drifts through metal\ngradient points downhill always\nFlux obeys the slope"}
+{"prompt":"Produce a short haiku about the physics of divergence.","response":"Field lines spread out wide\ndivergence counts sources here\nEmpty space stays calm"}
+{"prompt":"Produce a short haiku about the physics of curl.","response":"Magnet hums softly\ncurl makes the vortex spin up\nLoops of force return"}
+{"prompt":"Produce a short haiku about the physics of tensor.","response":"Crystals bear the load\ntensor links stress to strain all\nShapes flex, yet hold on"}
+{"prompt":"Produce a short haiku about the physics of complex analysis.","response":"Waves turn into i\ncomplex analysis sings\nPoles guide the answer"}
+{"prompt":"Produce a short haiku about the physics of Cauchy integral.","response":"Contours guard the sum\nCauchy integral wraps round\nInside, truth returns"}
+{"prompt":"Produce a short haiku about the physics of contour.","response":"Path in silent ink\ncontour circles the pole tight\nIntegral settles"}
+{"prompt":"Produce a short haiku about the physics of Taylor series.","response":"Near zero, expand\nTaylor series unfolds slow\nTerms mimic motion"}
+{"prompt":"Produce a short haiku about the physics of residue.","response":"Quiet arcs in z\nresidue picks out the pole\nOne spike sets the sum"}
+{"prompt":"Produce a short haiku about the physics of conformal map.","response":"Stretch the plane like clay\nconformal map keeps angles\nCircles stay circles"}
+{"prompt":"Produce a short haiku about the physics of Fourier transform.","response":"Time hides in noise gray\nFourier transform reveals all\nFrequencies shine bright"}
+{"prompt":"Produce a short haiku about the physics of orthogonality.","response":"Modes stay apart clean\northogonality holds\nDot products fall to"}
+{"prompt":"Produce a short haiku about the physics of Laplace transform.","response":"Decay becomes form\nLaplace transform smooths time out\nPoles set the fate now"}
+{"prompt":"Produce a short haiku about the physics of first order.","response":"One slope rules the curve\nfirst order flows in steps small\nInitial breath leads"}
+{"prompt":"Produce a short haiku about the physics of second order.","response":"Two bounds anchor time\nsecond order makes waves true\nOscillations ring"}
+{"prompt":"Produce a short haiku about the physics of Frobenius.","response":"Near singular points\nFrobenius builds series\nPowers climb in x"}
+{"prompt":"Produce a short haiku about the physics of quadrature.","response":"Area hides still\nquadrature weighs the curve well\nNodes sample truth now"}
+{"prompt":"Produce a short haiku about the physics of Green's function.","response":"Tap once, space responds\nGreen's function answers for us\nEcho shapes the field"}
+{"prompt":"Produce a short haiku about the physics of integral equation.","response":"Unknowns spread wide far\nintegral equation binds\nKernel holds the key"}
+{"prompt":"Produce a short haiku about the physics of steepest descent.","response":"Big phases cancel\nsteepest descent finds saddles\nOne path dominates"}
+{"prompt":"Produce a short haiku about the physics of group theory.","response":"Spin flips, yet stays same\ngroup theory tracks symmetry\nRules conserve form all"}
+{"prompt":"Produce a short haiku about the physics of variational calculus.","response":"Action seeks the least\nvariational calculus\nPaths choose themselves well"}
+{"prompt":"Produce a short haiku about the physics of representation.","response":"Matrices breathe light\nrepresentation makes states\nEigenvectors sing"}

@@ -1,25 +1,25 @@
-{"prompt": "Generate a physics haiku on spacetime.", "response": "Spacetime softly bends\nLight clocks tick in curved silence\nGeodesics diverge"}
-{"prompt": "Generate a physics haiku on Minkowski.", "response": "Minkowski plane, wide\nOne interval, same in frames\nAxes tilt, not truth"}
-{"prompt": "Generate a physics haiku on four-vector.", "response": "A four-vector sings\nTime and space in one neat spine\nBoosts cannot break it"}
-{"prompt": "Generate a physics haiku on invariance.", "response": "Invariance hums\nBoosts may shift, yet laws stay whole\nSymmetry guards us"}
-{"prompt": "Generate a physics haiku on proper time.", "response": "Proper time in hands\nWristwatch measures your own world\nFar clocks disagree"}
-{"prompt": "Generate a physics haiku on metric.", "response": "Metric sets the reach\nPlus and minus map distance\nBetween two events"}
-{"prompt": "Generate a physics haiku on Christoffel symbols.", "response": "Christoffel symbols\nTurn straight lines into soft arcs\nIn curved charts, they guide"}
-{"prompt": "Generate a physics haiku on connection.", "response": "Connection threads all\nDerivatives learn to turn\nOn the manifold"}
-{"prompt": "Generate a physics haiku on Einstein.", "response": "Einstein smiles, then waits\nMass tells space how to curve here\nSpace tells mass to move"}
-{"prompt": "Generate a physics haiku on simultaneity.", "response": "Now is not shared quite\nSimultaneity drifts\nTwo trains, two nows then"}
-{"prompt": "Generate a physics haiku on length contraction.", "response": "Length contraction seen\nFast rods hide from rulers now\nAt rest, they return"}
-{"prompt": "Generate a physics haiku on time dilation.", "response": "Time dilation breathes\nHigh speeds stretch each heartbeat long\nTwins age out of sync"}
-{"prompt": "Generate a physics haiku on event.", "response": "An event is set\nIn four dims, a point of fact\nPast can't undo it"}
-{"prompt": "Generate a physics haiku on Ricci tensor.", "response": "Ricci tensor sums\nTrace curvature in each slice\nGravity's ledger"}
-{"prompt": "Generate a physics haiku on stress-energy tensor.", "response": "Matter writes its weight\nStress-energy tensor speaks\nTo spacetime's deep rules"}
-{"prompt": "Generate a physics haiku on covariance.", "response": "Covariance holds\nLaws survive each coordinate\nTruth keeps its same face"}
-{"prompt": "Generate a physics haiku on differential geometry.", "response": "Charts patch space gently\ndifferential geometry\nStitches smooth the seams"}
-{"prompt": "Generate a physics haiku on curvature.", "response": "Curvature in air\nAngles drift on small spheres too\nFlatness is a dream"}
-{"prompt": "Generate a physics haiku on black hole.", "response": "Black hole, silent well\nLight falls in, will not return\nHawking whispers out"}
-{"prompt": "Generate a physics haiku on event horizon.", "response": "Event horizon\nOne-way edge of spacetime's night\nNo signal climbs back"}
-{"prompt": "Generate a physics haiku on diffeomorphism.", "response": "Diffeomorphism\nBends coordinates, same still\nShape without tearing"}
-{"prompt": "Generate a physics haiku on equivalence principle.", "response": "Fall feels like stillness\nEquivalence principle\nLift forgets weight now"}
-{"prompt": "Generate a physics haiku on geodesic.", "response": "Geodesic is\nThe straightest path on curved ground\nFree motion, no force"}
-{"prompt": "Generate a physics haiku on free fall.", "response": "In free fall you float\nWeight melts to inertia\nGravity feels gone"}
-{"prompt": "Generate a physics haiku on gravitational wave.", "response": "Far stars shake the dark\nA gravitational wave sings\nLIGO hears the chirp"}
+{"prompt":"Generate a physics haiku on spacetime.","response":"Spacetime bends softly\nThrough math, our clocks learn to drift\nGravity writes maps"}
+{"prompt":"Generate a physics haiku on Minkowski.","response":"Minkowski's flat dawn\nLight draws squares in silent ink\nTime keeps one rhythm"}
+{"prompt":"Generate a physics haiku on four-vector.","response":"A four-vector points\nAcross frames, it stays the same\nNumbers hold their truth"}
+{"prompt":"Generate a physics haiku on invariance.","response":"Frames spin and still match\nInvariance guards form well\nSymmetry stays home"}
+{"prompt":"Generate a physics haiku on proper time.","response":"Proper time is mine\nAlong my path, clocks agree\nWorldlines breathe slowly"}
+{"prompt":"Generate a physics haiku on metric.","response":"Choose a metric, then\nDistances become clear songs\nCurves tell where to go"}
+{"prompt":"Generate a physics haiku on Christoffel symbols.","response":"Christoffel symbols\nSteer derivatives to curve\nGuides for falling paths"}
+{"prompt":"Generate a physics haiku on connection.","response":"A connection forms\nBetween nearby tangent skies\nParallel turns shy"}
+{"prompt":"Generate a physics haiku on Einstein.","response":"Einstein bends light too\nMass tells space how to curve now\nSpace tells mass to move"}
+{"prompt":"Generate a physics haiku on simultaneity.","response":"Distant bells ring once\nSimultaneity fades\nOne now splits in two"}
+{"prompt":"Generate a physics haiku on length contraction.","response":"Length contraction comes\nWhen fast ships slice through our view\nRulers learn to flex"}
+{"prompt":"Generate a physics haiku on time dilation.","response":"Time dilation hums\nNear light-speed, seconds grow long\nAging waits outside"}
+{"prompt":"Generate a physics haiku on event.","response":"Mark an event here\nCharts record its small flash now\nCause meets consequence"}
+{"prompt":"Generate a physics haiku on Ricci tensor.","response":"Ricci tensor sings\nIt counts geodesics crowd\nSpace tightens, loosens"}
+{"prompt":"Generate a physics haiku on stress-energy tensor.","response":"Matter speaks in weight\nStress-energy tensor rules\nIt seeds curved answers"}
+{"prompt":"Generate a physics haiku on covariance.","response":"Covariance holds\nLaws unchanged by how we speak\nForm stays, names may shift"}
+{"prompt":"Generate a physics haiku on twin paradox.","response":"Twin paradox: home\nTraveler comes back younger\nEarth kept the slow clock"}
+{"prompt":"Generate a physics haiku on curvature.","response":"Curvature is law\nStraight lines become turning prayers\nWe follow, we fall"}
+{"prompt":"Generate a physics haiku on black hole.","response":"Black hole, quiet mouth\nSwallows light, keeps no receipts\nHorizon seals night"}
+{"prompt":"Generate a physics haiku on event horizon.","response":"Event horizon\nA border where all paths end\nNo signal returns"}
+{"prompt":"Generate a physics haiku on diffeomorphism.","response":"Diffeomorphism\nRenames points, not what they mean\nGeometry stays"}
+{"prompt":"Generate a physics haiku on equivalence principle.","response":"Drop two stones, they fall\nEquivalence principle\nSame arc through silence"}
+{"prompt":"Generate a physics haiku on geodesic.","response":"A geodesic curves\nShortest path in bending space\nFeet learn where to go"}
+{"prompt":"Generate a physics haiku on free fall.","response":"In free fall, we trust\nWeightless, yet we drop through time\nEarth calls, gently down"}
+{"prompt":"Generate a physics haiku on gravitational wave.","response":"Two black holes dance close\nGravitational wave sings\nSpacetime shivers on"}

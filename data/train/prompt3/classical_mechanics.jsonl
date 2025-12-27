@@ -1,25 +1,25 @@
-{"prompt": "Compose a haiku related to force.", "response": "Force shapes silent arcs\nMass yields, paths curve through spacetime\nPush, then drift anew"}
-{"prompt": "Compose a haiku related to momentum.", "response": "Momentum keeps course\nIn void, no net impulse speaks\nTill winds break the spell"}
-{"prompt": "Compose a haiku related to acceleration.", "response": "Acceleration\nBends velocity each breath\nAs seconds stack up"}
-{"prompt": "Compose a haiku related to velocity.", "response": "Velocity hums\nTangents trace the moving now\nAlong measured time"}
-{"prompt": "Compose a haiku related to position.", "response": "Position marks here\nOn grids we map a shifting world\nZero is a choice"}
-{"prompt": "Compose a haiku related to gravity.", "response": "Gravity still calls\nCurving light around calm stones\nFall feels like a law"}
-{"prompt": "Compose a haiku related to inertia.", "response": "Inertia waits\nTo change, you pay with impulse\nStillness keeps its vow"}
-{"prompt": "Compose a haiku related to rigid body.", "response": "Rigid body spins\nTorque writes twists through solid frames\nAxes hold their truth"}
-{"prompt": "Compose a haiku related to moment.", "response": "Moment of torque pure\nLevers trade force for distance\nBalance finds its point"}
-{"prompt": "Compose a haiku related to rotation.", "response": "Rotation loops on\nAngular speed crowns circles\nCentripetal pull"}
-{"prompt": "Compose a haiku related to Lagrangian.", "response": "Lagrangian sings\nLeast action chooses the path\nEquations bloom"}
-{"prompt": "Compose a haiku related to Hamiltonian.", "response": "Hamiltonian\nTracks energy in phase space\nStates flow, sharp as math"}
-{"prompt": "Compose a haiku related to motion.", "response": "Motion never rests\nFrom kick to coast, arcs rewrite\nBy laws we can trust"}
-{"prompt": "Compose a haiku related to conservation.", "response": "Conservation rules\nSum stays fixed when worlds collide\nNothing lost, transformed"}
-{"prompt": "Compose a haiku related to constant.", "response": "Constant, like old pi\nHolds scaling as units shift\nAnchor in the flux"}
-{"prompt": "Compose a haiku related to friction.", "response": "Friction warms the road\nRough grains steal motion to heat\nStop is work, unpaid"}
-{"prompt": "Compose a haiku related to oscillator.", "response": "Oscillator breathes\nBack and forth through equal springs\nTones in sine-soft time"}
-{"prompt": "Compose a haiku related to spring.", "response": "Spring stores each push well\nHooke whispers: stretch, I answer\nRelease, it sings back"}
-{"prompt": "Compose a haiku related to pendulum.", "response": "Pendulum swings slow\nPeriod set by length and g\nTime ticks in an arc"}
-{"prompt": "Compose a haiku related to rocket.", "response": "Rocket burns bright up\nMass drops, thrust climbs—sky opens\nNewton smiles below"}
-{"prompt": "Compose a haiku related to frame.", "response": "Frame sets the viewpoint\nSame law, new coordinates\nRelativity"}
-{"prompt": "Compose a haiku related to non-inertial.", "response": "Non-inertial turns\nFictitious forces tilt worlds\nCoriolis writes"}
-{"prompt": "Compose a haiku related to time.", "response": "Time slips through our hands\nClocks agree, then drift in waves\nNow becomes then, gone"}
-{"prompt": "Compose a haiku related to orbit.", "response": "Orbit draws ellipses\nGravity trades speed for height\nSeasons ride the curve"}
-{"prompt": "Compose a haiku related to energy.", "response": "Energy is life\nKinetic, heat, and stored light\nChanges form, stays whole"}
+{"prompt":"Compose a haiku related to force.","response":"Force shapes all our steps\nMass times change in speed now here\nPush, then drift, then rest"}
+{"prompt":"Compose a haiku related to momentum.","response":"Momentum stays true\nWhen no net force acts on it\nSpeed times mass, it rolls"}
+{"prompt":"Compose a haiku related to acceleration.","response":"Acceleration\nBends a path with time's pull hard\nSlope of speed's rise now"}
+{"prompt":"Compose a haiku related to velocity.","response":"Velocity points\nRate of change of place per time\nArrow through the void"}
+{"prompt":"Compose a haiku related to position.","response":"Position marks where\nOn a line, a dot can shift\nZero sets the map"}
+{"prompt":"Compose a haiku related to gravity.","response":"Gravity calls down\nCurved space guides the falling mass\nPlanets keep their sweep"}
+{"prompt":"Compose a haiku related to inertia.","response":"Inertia holds\nStillness stays till pushed aside\nChange needs net force too"}
+{"prompt":"Compose a haiku related to rigid body.","response":"Rigid body spins\nAll its parts keep fixed in form\nTorque makes it turn clean"}
+{"prompt":"Compose a haiku related to moment.","response":"Moment arm is long\nForce times length sets the twist now\nLevers speak in math"}
+{"prompt":"Compose a haiku related to rotation.","response":"Rotation loops on\nAngle grows around a point\nSpin makes night and day"}
+{"prompt":"Compose a haiku related to Lagrangian.","response":"Lagrangian sings\nKinetic minus pot sets\nPaths choose least action"}
+{"prompt":"Compose a haiku related to Hamiltonian.","response":"Hamiltonian\nEnergy rules time's flow in\nStates shift, yet stay whole"}
+{"prompt":"Compose a haiku related to motion.","response":"Motion starts with why\nTrace a curve through space and time\nStillness is a choice"}
+{"prompt":"Compose a haiku related to conservation.","response":"Conservation stands\nWhat you gain, you pay in kind\nNothing slips away"}
+{"prompt":"Compose a haiku related to constant.","response":"A constant holds fast\nIn equations, it will not\nFixed star in the math"}
+{"prompt":"Compose a haiku related to friction.","response":"Friction eats speed up\nHeat blooms where two rough skins meet\nSqueaks fade into rest"}
+{"prompt":"Compose a haiku related to oscillator.","response":"Oscillator hums\nBack and forth on spring or beam\nPhase keeps steady time"}
+{"prompt":"Compose a haiku related to spring.","response":"Spring pulls you back home\nStretch it, store some silent work\nRelease, it snaps true"}
+{"prompt":"Compose a haiku related to pendulum.","response":"Pendulum swings slow\nGravity sets its beat still\nLong string, longer time"}
+{"prompt":"Compose a haiku related to rocket.","response":"Rocket claws the sky\nHot gas jets out; thrust surges\nMass drops, speed climbs on"}
+{"prompt":"Compose a haiku related to frame.","response":"Frame sets what is still\nShift the view, and laws look new\nRelate speed to you"}
+{"prompt":"Compose a haiku related to non-inertial.","response":"Non-inertial frame\nFalse forces seem to act here\nSpinning rooms feel lean"}
+{"prompt":"Compose a haiku related to time.","response":"Time ticks in our labs\nClocks mark change; we count the now\nIt can stretch and slow"}
+{"prompt":"Compose a haiku related to orbit.","response":"Orbit curves in space\nSpeed and pull keep balance true\nEllipses whisper"}
+{"prompt":"Compose a haiku related to energy.","response":"Energy will stay\nIt shifts form, but totals match\nWork becomes bright heat"}

@@ -2,7 +2,11 @@
 
 ## [Unreleased]
 
-- Merged good training haikus into single JSONL file
+- SFT training of DistilGPT-2 on good haiku data
+
+## [0.0.3] 12/29/25
+
+- Merged all 777 good training haikus into a single JSONL file
 
 ## [0.0.2] 12/27/25
 

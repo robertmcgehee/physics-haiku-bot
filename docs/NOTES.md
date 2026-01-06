@@ -2,6 +2,26 @@
 
 This document records design decisions, observed failure modes, and lessons learned during physics haiku dataset generation and validation.
 
+## Training Data Simplification 
+
+Initial experiments with supervised fine-tuning of DistilGPT-2 revealed that the original variety of prompts were not ideal for the small model to learn the expected rules for writing a haiku. For example, when prompting the SFT-trained model with the held-out test set of keywords, it produced 0 correct-syllable haikus, 0.8% of haikus with 3 lines, and 6.4% of haikus with keyword usage. At first, I tried to augment the original prompts with additional instructions for DistilGPT-2 by appending 'Rules:\n- Output exactly 3 lines.\n- Use a 5-7-5 syllable count.\n- Include the keyword exactly once.\n- Output only the haiku (no title, no extra text).' I found that this offered mixed improvement. On the test keywords, the SFT model trained on the augmented training/evaluation data did better in producing haikus with the keyword 18.4% of the time, but no longer ever produced haikus with 3 lines and still never got the syllables correct.
+
+Since the base model is so small and it's not fine-tuned for following instructions, I decided simplifying the training/evaluation data may prove better than adding instructions. So, I reduced all prompt varieties down to a single, simple one; added line numbers to both prompt and response; and ended the response data with an <END> delimiter. An example training haiku looks like
+
+{"prompt": "Write a haiku about force.\n1)\n2)\n3)", "response": "1) Silent pulls align\n2) force in silence bends light now\n3) Stars answer, we fall\n<END>"}
+
+This new, simpler prompt/response format has yielded considerably better initial SFT model results: on the test set, 44% of haikus include the keyword and 4% have all correct syllables. 
+
+To more easily permit further experimentation with improving SFT model performance by simply tweaking the *format and not the content* of the training/evaluation data, I have refactored the code so that raw training/evaluation haiku data is in its simplest form:
+
+{"prompt_num":1,"keyword":"force","haiku":"Force steers silent mass\nAcross space it bends each path\nVector in my hand"}
+
+This simple raw data is then checked for haiku consistency, reformatted, and written to a single JSONL file for training. The particular formatting that appears in the final training data may be easily adjusted and new training data made without the need for regenerating haikus.
+
+I still use the 5 prompt variations when generating the data with SOTA LLMs to help produce variety in haikus. I also do not expect the final SFT-trained model to respond well to simple, semantic prompt variations since it is such a small model. For this project, I'm really trying to have the SFT model perform well when I tell it to write a haiku about ____ and give it its learned format. 
+
+Note for posterity: I used this new, simpler format and generated an entirely new dataset. But I also reformatted the old haikus and merged the two to double the data. In the raw JSONL files, the new data appears first followed by the old data, each in prompt number order. While the bulk of the prompt body as well as the key "haiku writing task" wording was identical for both sets of data, I made some slight adjustments to prompt details when generating the newer data.
+
 ## Training Data Choices
 
 There do not exist thousands of discrete, separate topics in physics, so coming up with ~1,000 physics haikus for training data is non-trivial. In order to prevent the fine-tuned model from regurgitating a haiku it saw in its training data during evaluation or test time, I have created all physics keywords myself and organized them by 'concept family.' The training data keywords come from 8 concept families:
@@ -14,9 +34,9 @@ There do not exist thousands of discrete, separate topics in physics, so coming 
 - Condensed Matter
 - Relativity
 
-I set aside one novel concept family for evals and another for testing ('Cosmology' and 'Particle Physics,' respectively). Since I came up with every keyword in each concept family myself, I was able to avoid overlap between training concept family keywords and keywords from eval or test concept families (e.g. I withheld 'Compton scattering' from Advanced Lab to avoid leakage into Particle Physics). I also avoided overlap between eval and test concept family keywords. 
+I set aside one novel concept family for evaluation during training and another for testing ('Cosmology' and 'Particle Physics,' respectively). Since I came up with every keyword in each concept family myself, I was able to avoid overlap between training concept family keywords and keywords from evaluation or test concept families (e.g. I withheld 'Compton scattering' from Advanced Lab to avoid leakage into Particle Physics). I also avoided overlap between evaluation and test concept family keywords. 
 
-I did permit overlap between separate training data concept families (e.g. 'diamagnetism' in Condensed Matter overlapping with 'magnet' from Electromagnetism). In fact, I let the amount of overlap between concepts guide my selection of the training concept families, which include all 'basic' physics keywords, versus the eval and test concept families.
+I did permit overlap between separate training data concept families (e.g. 'diamagnetism' in Condensed Matter overlapping with 'magnet' from Electromagnetism). In fact, I let the amount of overlap between concepts guide my selection of the training concept families, which include all 'basic' physics keywords, versus the evaluation and test concept families.
 
 To prevent memorization and post-SFT model brittleness, I used 5 prompt variations per keyword in the training data. Each concept family has 25 keywords to create 
 

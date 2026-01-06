@@ -1,0 +1,250 @@
+{"prompt_num":1,"keyword":"oscilloscope","haiku":"Green trace climbs the screen\nOscilloscope tracks volts now\nTime holds the pulse still"}
+{"prompt_num":1,"keyword":"data analysis","haiku":"Noise turns to clean plots\ndata analysis sings\nFit agrees at last"}
+{"prompt_num":1,"keyword":"diffraction","haiku":"Two slits split the dark\ndiffraction fans the red beam\nFringes march and fade"}
+{"prompt_num":1,"keyword":"spectroscopy","haiku":"Glass splits a thin light\nspectroscopy names lines all\nEach hue tells atoms"}
+{"prompt_num":1,"keyword":"Hall effect","haiku":"Magnet bites the wire\nHall effect bends charge paths left\nVoltage forms a cross"}
+{"prompt_num":1,"keyword":"photoelectric effect","haiku":"Short waves free them fast\nphotoelectric effect\nStop volts set the rule"}
+{"prompt_num":1,"keyword":"error propagation","haiku":"Error bars trail on\nerror propagation grows\nSquare, sum, then take root"}
+{"prompt_num":1,"keyword":"systematics","haiku":"Check the zero twice\nsystematics skew the mean\nBias hides in screws"}
+{"prompt_num":1,"keyword":"curve fitting","haiku":"Dots drift like lost bees\ncurve fitting tames the scatter\nLeast squares pulls them home"}
+{"prompt_num":1,"keyword":"interference","haiku":"Waves meet and argue\ninterference makes knots of\nDark bands sip the light"}
+{"prompt_num":1,"keyword":"optical pumping","haiku":"Lamp hums in soft coils\noptical pumping sets spins\nAtoms drink and flip"}
+{"prompt_num":1,"keyword":"Franck-Hertz","haiku":"Neon glows, then dims\nFranck-Hertz shows steps in volts sharp\nQuanta wake the gas"}
+{"prompt_num":1,"keyword":"Zeeman effect","haiku":"Field wraps the old lamp\nZeeman effect splits one line\nSpin speaks in twin peaks"}
+{"prompt_num":1,"keyword":"optical rotation","haiku":"Polaroids face off\noptical rotation turns\nSugar twists the plane"}
+{"prompt_num":1,"keyword":"reflection","haiku":"Mirror cool as ice\nreflection returns my beam\nAngle in, out, same"}
+{"prompt_num":1,"keyword":"quantum optics","haiku":"One click cuts the dark\nquantum optics counts photons\nVacuum makes pairs"}
+{"prompt_num":1,"keyword":"superconductor","haiku":"Cold puck shuns all drag\nsuperconductor chills, floats\nFlux pins the calm ring"}
+{"prompt_num":1,"keyword":"chaos","haiku":"No orbit comes back\nchaos blooms in driven swings\nOrder frays to mist"}
+{"prompt_num":1,"keyword":"non-linear system","haiku":"Feedback bites its tail\nnon-linear system snaps\nSmall push, wild response"}
+{"prompt_num":1,"keyword":"lab report","haiku":"Ink stains the last page\nlab report tells what failed too\nGraphs earn their calm grade"}
+{"prompt_num":1,"keyword":"multimeter","haiku":"Leads kiss the bare lead\nmultimeter beeps, reads ohms\nDigits settle, true"}
+{"prompt_num":1,"keyword":"power supply","haiku":"Knob turns, current wakes\npower supply holds steady\nRails hum, red light on"}
+{"prompt_num":1,"keyword":"function generator","haiku":"Sine rolls into square\nfunction generator sings\nDuty cycles breathe"}
+{"prompt_num":1,"keyword":"optical bench","haiku":"Clamps grip the long rail\noptical bench keeps things straight\nLenses line up, crisp"}
+{"prompt_num":1,"keyword":"laser","haiku":"Coherent light, tight\nlaser carves a thin bright path\nSafety goggles save"}
+{"prompt_num":2,"keyword":"oscilloscope","haiku":"Square waves march in time\nOn oscilloscope screen glows\nPhase shifts tell the tale"}
+{"prompt_num":2,"keyword":"data analysis","haiku":"Numbers turn to sense\ndata analysis sings\nResiduals fade"}
+{"prompt_num":2,"keyword":"diffraction","haiku":"diffraction forms rings\nLight bends past thin narrow slits\nOrder from the dark"}
+{"prompt_num":2,"keyword":"spectroscopy","haiku":"Prisms split starlight\nspectroscopy reads fine lines\nAtoms sign their names"}
+{"prompt_num":2,"keyword":"Hall effect","haiku":"Current flows, field on\nSide volts reveal carriers\nHall effect maps charge"}
+{"prompt_num":2,"keyword":"photoelectric effect","haiku":"Light frees electrons\nphotoelectric effect\nStopping volts rise fast"}
+{"prompt_num":2,"keyword":"error propagation","haiku":"Sigma stacks in roots\nerror propagation spreads\nBars grow honest now"}
+{"prompt_num":2,"keyword":"systematics","haiku":"Calibrate each knob\nsystematics hide so well\nBias lurks in drift"}
+{"prompt_num":2,"keyword":"curve fitting","haiku":"Dots scatter like rain\ncurve fitting finds best paths smooth\nChi-squared rests low now"}
+{"prompt_num":2,"keyword":"interference","haiku":"Two paths meet again\ninterference writes bright stripes\nPeaks cancel to calm"}
+{"prompt_num":2,"keyword":"optical pumping","haiku":"optical pumping\nPolarized beams align spins\nDark states drink the light"}
+{"prompt_num":2,"keyword":"Franck-Hertz","haiku":"Mercury gas hums\nFranck-Hertz proves quantized steps clear\nElectrons jump, pause"}
+{"prompt_num":2,"keyword":"Zeeman effect","haiku":"Magnet wakes atoms\nZeeman effect splits lines wide\nm shifts, colors fan"}
+{"prompt_num":2,"keyword":"optical rotation","haiku":"Sugar turns the plane\noptical rotation twists\nLeft or right, it tells"}
+{"prompt_num":2,"keyword":"reflection","haiku":"Angles trade places\nreflection keeps phase true still\nMirror gives it back"}
+{"prompt_num":2,"keyword":"quantum optics","haiku":"Single clicks in dark\nquantum optics counts photons\nCoherence, then hush"}
+{"prompt_num":2,"keyword":"superconductor","haiku":"superconductor\nCurrents circle without loss\nFlux pins in silence"}
+{"prompt_num":2,"keyword":"chaos","haiku":"Pendulum turns strange\nchaos blooms from simple rules\nLyapunov laughs loud"}
+{"prompt_num":2,"keyword":"non-linear system","haiku":"Small pushes grow large\nnon-linear system runs wild\nOrbits fold and split"}
+{"prompt_num":2,"keyword":"lab report","haiku":"Late night graphs align\nlab report tells what we saw\nUnits guard the truth"}
+{"prompt_num":2,"keyword":"multimeter","haiku":"Probes bite the cold leads\nmultimeter reads volts clean\nBeep confirms the path"}
+{"prompt_num":2,"keyword":"power supply","haiku":"Dial up the voltage\npower supply holds steady\nNoise sinks to zero"}
+{"prompt_num":2,"keyword":"function generator","haiku":"Sine waves drift to square\nfunction generator hums\nDuty cycle locks"}
+{"prompt_num":2,"keyword":"optical bench","haiku":"Rails hold lens and slit\noptical bench keeps things straight\nAlign, then breathe out"}
+{"prompt_num":2,"keyword":"laser","haiku":"Gain builds in the tube\nlaser carves coherent light\nMirrors lock the beam"}
+{"prompt_num":3,"keyword":"oscilloscope","haiku":"Old oscilloscope\nGreen trace jumps with my pulse now\nTimebase steadies it"}
+{"prompt_num":3,"keyword":"data analysis","haiku":"Late night plots align\nData analysis sings\nNoise turns to truth here"}
+{"prompt_num":3,"keyword":"diffraction","haiku":"Diffraction fans out\nThrough slits, bright bars march in step\nWaves sketch angles soft"}
+{"prompt_num":3,"keyword":"spectroscopy","haiku":"Spectroscopy hums\nLines tell what atoms are there\nPrism holds secrets"}
+{"prompt_num":3,"keyword":"Hall effect","haiku":"Hall effect bends volts\nSideways charge in crossed fields bright\nSign flips with B now"}
+{"prompt_num":3,"keyword":"photoelectric effect","haiku":"Blue light kicks free one\nphotoelectric effect\nWork functions yield out"}
+{"prompt_num":3,"keyword":"error propagation","haiku":"Small bars haunt my plot\nerror propagation slow\nSquares add, roots calm down"}
+{"prompt_num":3,"keyword":"systematics","haiku":"Systematics lurk\nBias hides in warm cables\nCalibrate twice well"}
+{"prompt_num":3,"keyword":"curve fitting","haiku":"Curve fitting at dusk\nLeast squares pulls the dots tight in\nResidues mutter"}
+{"prompt_num":3,"keyword":"interference","haiku":"Interference seen\nFringes fade, then rise again\nPhase slips, I grin wide"}
+{"prompt_num":3,"keyword":"optical pumping","haiku":"optical pumping\nSpin states line up with light pure\nPolarizers glow"}
+{"prompt_num":3,"keyword":"Franck-Hertz","haiku":"In Franck-Hertz tubes we\nVoltage steps show gaps of loss\nMercury echoes"}
+{"prompt_num":3,"keyword":"Zeeman effect","haiku":"Zeeman effect splits\nOne line becomes a small choir\nMagnets sing sharp notes"}
+{"prompt_num":3,"keyword":"optical rotation","haiku":"Sugar twists the beam\noptical rotation turns\nAngle reads like math"}
+{"prompt_num":3,"keyword":"reflection","haiku":"Reflection answers\nMirror sends my gaze back home\nIncidence agrees"}
+{"prompt_num":3,"keyword":"quantum optics","haiku":"Quantum optics now\nSingle photons trade in pairs\nDetectors click once"}
+{"prompt_num":3,"keyword":"superconductor","haiku":"superconductor\nZero resistance flows on\nFlux pins like nails down"}
+{"prompt_num":3,"keyword":"chaos","haiku":"Chaos in the clock\nTiny nudges change the path\nLyapunov blooms fast"}
+{"prompt_num":3,"keyword":"non-linear system","haiku":"non-linear system\nFeedback makes the sinewave bite\nBifurcations spread"}
+{"prompt_num":3,"keyword":"lab report","haiku":"Lab report due soon\nGraphs, errors, and calm prose plain\nStaple hope to it"}
+{"prompt_num":3,"keyword":"multimeter","haiku":"My multimeter\nBeep confirms the hidden short\nDigits blink in doubt"}
+{"prompt_num":3,"keyword":"power supply","haiku":"Power supply, please\nKnobs set rails to plus, minus\nCurrent limit saves"}
+{"prompt_num":3,"keyword":"function generator","haiku":"Square waves fill the air\nfunction generator purrs\nHz dial turns slow now"}
+{"prompt_num":3,"keyword":"optical bench","haiku":"Optical bench waits\nRails guide lenses into line\nAlignment breathes true"}
+{"prompt_num":3,"keyword":"laser","haiku":"Laser cuts the dark\nCoherent red stays straight on\nSafety goggles fog"}
+{"prompt_num":4,"keyword":"oscilloscope","haiku":"Sine waves breathe in glass\nTrace jumps on oscilloscope\nVoltage tells its tale"}
+{"prompt_num":4,"keyword":"data analysis","haiku":"Numbers hum at night\nData analysis finds\nNoise yields to reason"}
+{"prompt_num":4,"keyword":"diffraction","haiku":"Slit narrows the sun\nDiffraction fans beam wide out\nFringes map the light"}
+{"prompt_num":4,"keyword":"spectroscopy","haiku":"Atoms sing in bands\nSpectroscopy reads colors\nPeaks name hidden states"}
+{"prompt_num":4,"keyword":"Hall effect","haiku":"Current meets a field\nHall effect bends charge sideways\nA volt blooms across"}
+{"prompt_num":4,"keyword":"photoelectric effect","haiku":"Photons hit clean zinc\nphotoelectric effect\nElectrons leap free"}
+{"prompt_num":4,"keyword":"error propagation","haiku":"Each measure wobbles\nError propagation grows\nUncertainty swells"}
+{"prompt_num":4,"keyword":"systematics","haiku":"Hidden drift in screws\nSystematics bias fits\nCalibrate, breathe slow"}
+{"prompt_num":4,"keyword":"curve fitting","haiku":"Dots float off the line\nCurve fitting tames scatter here\nParameters rest"}
+{"prompt_num":4,"keyword":"interference","haiku":"Two paths meet as one\nInterference writes fringes\nDark speaks between peaks"}
+{"prompt_num":4,"keyword":"optical pumping","haiku":"Light turns the vapor\nOptical pumping aligns\nPolarized atoms"}
+{"prompt_num":4,"keyword":"Franck-Hertz","haiku":"Fast electrons strike\nFranck-Hertz shows level steps clear\nEnergy drops, then"}
+{"prompt_num":4,"keyword":"Zeeman effect","haiku":"Magnet grips atoms\nZeeman effect splits lines clean\nSpectra fan apart"}
+{"prompt_num":4,"keyword":"optical rotation","haiku":"Sugar glass turns beams\nOptical rotation twists\nHanded light returns"}
+{"prompt_num":4,"keyword":"reflection","haiku":"Mirror cool as ice\nReflection keeps angles true\nPhase flips on rebound"}
+{"prompt_num":4,"keyword":"quantum optics","haiku":"Vacuum pulses\nQuantum optics counts photons\nEntangled light waits"}
+{"prompt_num":4,"keyword":"superconductor","haiku":"Chilled coils whisper low\nSuperconductor, no loss\nFields flee the bulk out"}
+{"prompt_num":4,"keyword":"chaos","haiku":"Pendulum veers back\nChaos hides in simple rules\nPaths diverge fast now"}
+{"prompt_num":4,"keyword":"non-linear system","haiku":"Feedback feeds itself\nNon-linear system rings hard\nBifurcations bloom"}
+{"prompt_num":4,"keyword":"lab report","haiku":"Graphs march in columns\nLab report, inked with doubt still\nConclusions stay small"}
+{"prompt_num":4,"keyword":"multimeter","haiku":"Probes touch bare leads now\nMultimeter checks the nodes\nDigits steady, sure"}
+{"prompt_num":4,"keyword":"power supply","haiku":"Knob sets the rails tight\nPower supply holds steady\nCurrent waits, then flows"}
+{"prompt_num":4,"keyword":"function generator","haiku":"Square, sine, sawtooth rise\nFunction generator sings\nDial the phase ahead"}
+{"prompt_num":4,"keyword":"optical bench","haiku":"Rails guide aligned paths\nOptical bench holds lenses\nScreens catch sharp ghosts too"}
+{"prompt_num":4,"keyword":"laser","haiku":"Mirrors pace the gain\nLaser carves coherent light\nBeam stays needle-thin"}
+{"prompt_num":5,"keyword":"oscilloscope","haiku":"Voltage sings in time\nOscilloscope traces bright\nPeaks freeze, then fade out"}
+{"prompt_num":5,"keyword":"data analysis","haiku":"Numbers hide the noise\nData analysis guides\nTrends emerge at last"}
+{"prompt_num":5,"keyword":"diffraction","haiku":"Slits carve soft fringes\nDiffraction fans the beam wide\nAngles speak of gaps"}
+{"prompt_num":5,"keyword":"spectroscopy","haiku":"Prism splits starlight clean\nSpectroscopy reads lines fine\nAtoms sign their names"}
+{"prompt_num":5,"keyword":"Hall effect","haiku":"Current meets a field\nHall effect bends charge sideways\nTransverse volts arise"}
+{"prompt_num":5,"keyword":"photoelectric effect","haiku":"Photons free charge now\nphotoelectric effect\nThreshold sets the flow"}
+{"prompt_num":5,"keyword":"error propagation","haiku":"Small errors mingle\nError propagation spreads\nSquares add, roots return"}
+{"prompt_num":5,"keyword":"systematics","haiku":"Bias hides in rigs\nSystematics skew results\nCalibrate, then trust"}
+{"prompt_num":5,"keyword":"curve fitting","haiku":"Points refuse a line\nCurve fitting tames scatter plots\nChi-square whispers yes"}
+{"prompt_num":5,"keyword":"interference","haiku":"Two paths meet again\nInterference weaves light still\nBright, dark bars march on"}
+{"prompt_num":5,"keyword":"optical pumping","haiku":"Laser sorts atoms\nOptical pumping aligns\nDark states hoard the beam"}
+{"prompt_num":5,"keyword":"Franck-Hertz","haiku":"Charges jump in steps\nFranck-Hertz reveals quanta sharp\nNeon glows at peaks"}
+{"prompt_num":5,"keyword":"Zeeman effect","haiku":"Magnet breaks levels\nZeeman effect splits lines wide\nSplit peaks reappear"}
+{"prompt_num":5,"keyword":"optical rotation","haiku":"Chiral twists beams slow\nOptical rotation twists\nAngle marks sugar"}
+{"prompt_num":5,"keyword":"reflection","haiku":"Mirror keeps phase true\nReflection obeys angles\nIn equals out here"}
+{"prompt_num":5,"keyword":"quantum optics","haiku":"Clicks in darkness soft\nQuantum optics counts photons\nEntanglement stays"}
+{"prompt_num":5,"keyword":"superconductor","haiku":"Resistance is nil\nSuperconductor expels\nFlux lines flee the core"}
+{"prompt_num":5,"keyword":"chaos","haiku":"Determinism frays\nChaos blooms from slight tweaks now\nMaps fold, then diverge"}
+{"prompt_num":5,"keyword":"non-linear system","haiku":"Feedback bends the path\nNon-linear system flips\nBifurcations spawn"}
+{"prompt_num":5,"keyword":"lab report","haiku":"Graphs must tell the truth\nLab report distills doubt well\nUnits guard the claim"}
+{"prompt_num":5,"keyword":"multimeter","haiku":"Probe tips touch the node\nMultimeter checks volts fast\nBeep means circuit lives"}
+{"prompt_num":5,"keyword":"power supply","haiku":"Knob sets the current\nPower supply steadies all\nRails hold, no ripple"}
+{"prompt_num":5,"keyword":"function generator","haiku":"Sine, square, sawtooth waves\nFunction generator chirps\nFrequency sweeps clean"}
+{"prompt_num":5,"keyword":"optical bench","haiku":"Rails keep lenses set\nOptical bench locks parts down\nScreens catch sharp spots bright"}
+{"prompt_num":5,"keyword":"laser","haiku":"Inversion builds gain\nLaser carves coherent beams\nMirrors trap the light"}
+{"prompt_num":1,"keyword":"oscilloscope","haiku":"Signals rise and fall\noscilloscope traces bright\nI read phase in light"}
+{"prompt_num":1,"keyword":"data analysis","haiku":"Numbers learn to sing\ndata analysis now\nNoise yields its secrets"}
+{"prompt_num":1,"keyword":"diffraction","haiku":"Through a narrow slit\ndiffraction fans out wide slow\nFringes map the wave"}
+{"prompt_num":1,"keyword":"spectroscopy","haiku":"Lamp lines glow in dark\nspectroscopy reads atoms\nColors name the gaps"}
+{"prompt_num":1,"keyword":"Hall effect","haiku":"Current threads a slab\nHall effect bends charge across\nSide voltage appears"}
+{"prompt_num":1,"keyword":"photoelectric effect","haiku":"Blue photons arrive\nphotoelectric effect\nElectrons leap free"}
+{"prompt_num":1,"keyword":"error propagation","haiku":"Uncertainties stack\nerror propagation flows\nBars widen with math"}
+{"prompt_num":1,"keyword":"systematics","haiku":"Calibrate again\nsystematics linger still\nBias hides in care"}
+{"prompt_num":1,"keyword":"curve fitting","haiku":"Dots scatter like stars\ncurve fitting finds best model\nResiduals speak"}
+{"prompt_num":1,"keyword":"interference","haiku":"Two waves meet at once\ninterference paints rings thin\nDark bands guard the path"}
+{"prompt_num":1,"keyword":"optical pumping","haiku":"optical pumping\nspins align with light slowly\nAtoms glow, prepared"}
+{"prompt_num":1,"keyword":"Franck-Hertz","haiku":"Electrons strike hard\nFranck-Hertz shows energy steps\nPlateaus mark the jumps"}
+{"prompt_num":1,"keyword":"Zeeman effect","haiku":"Magnet hushes near\nZeeman effect splits lines clean\nSpectra fan apart"}
+{"prompt_num":1,"keyword":"optical rotation","haiku":"Chiral sugar cell\noptical rotation turns\nPlane of light twists slow"}
+{"prompt_num":1,"keyword":"reflection","haiku":"Mirror on the rail\nreflection keeps phase sometimes\nAngles answer back"}
+{"prompt_num":1,"keyword":"quantum optics","haiku":"Single photons blink\nquantum optics counts clicks each\nVacuum is bright"}
+{"prompt_num":1,"keyword":"superconductor","haiku":"superconductor\nResistance falls to none here\nFlux lines stay pinned tight"}
+{"prompt_num":1,"keyword":"chaos","haiku":"Determinism sighs\nchaos in the pendulum\nPaths never repeat"}
+{"prompt_num":1,"keyword":"non-linear system","haiku":"Feedback loops awake\nnon-linear system stirs\nBifurcations bloom"}
+{"prompt_num":1,"keyword":"lab report","haiku":"Graphs and units neat\nlab report tells the tale plain\nConclusion holds up"}
+{"prompt_num":1,"keyword":"multimeter","haiku":"Probes touch the breadboard\nmultimeter reads volts true\nBeep confirms the path"}
+{"prompt_num":1,"keyword":"power supply","haiku":"Knob sets the DC\npower supply holds steady\nLEDs stop flicker"}
+{"prompt_num":1,"keyword":"function generator","haiku":"Sine turns into square\nfunction generator hums\nScope locks to the beat"}
+{"prompt_num":1,"keyword":"optical bench","haiku":"optical bench waits\nLenses slide, alignment sings\nBeam finds its center"}
+{"prompt_num":1,"keyword":"laser","haiku":"Coherent light rides\nlaser cuts a thin line through\nMirrors keep it pure"}
+{"prompt_num":2,"keyword":"oscilloscope","haiku":"Voltage sings in time\nOscilloscope traces bright\nPeaks map hidden phase"}
+{"prompt_num":2,"keyword":"data analysis","haiku":"Numbers cool the noise\ndata analysis guides\nTruth emerges, thin"}
+{"prompt_num":2,"keyword":"diffraction","haiku":"Light slips through a slit\ndiffraction fans soft wide arcs\nFringes count the wave"}
+{"prompt_num":2,"keyword":"spectroscopy","haiku":"Prisms break white hush\nspectroscopy reads dark lines\nAtoms sign their names"}
+{"prompt_num":2,"keyword":"Hall effect","haiku":"Current feels the field\nHall effect bends charge sideways\nVoltage blooms crosswise"}
+{"prompt_num":2,"keyword":"photoelectric effect","haiku":"Blue photons strike zinc\nphotoelectric effect\nElectrons leap free"}
+{"prompt_num":2,"keyword":"error propagation","haiku":"Small doubts add like rain\nerror propagation rules\nBars widen on plots"}
+{"prompt_num":2,"keyword":"systematics","haiku":"Run it once again\nsystematics hide bias\nCalibrate with care"}
+{"prompt_num":2,"keyword":"curve fitting","haiku":"Dots scatter like bees\ncurve fitting finds the true slope\nLeftover noise sings"}
+{"prompt_num":2,"keyword":"interference","haiku":"Two beams meet midair\ninterference makes nodes clear\nBright, dark, bright again"}
+{"prompt_num":2,"keyword":"optical pumping","haiku":"Spin states drift asleep\noptical pumping gently\nAlignment grows slow"}
+{"prompt_num":2,"keyword":"Franck-Hertz","haiku":"Charges drop, then climb\nFranck-Hertz shows steps in argon\nEnergy quantized"}
+{"prompt_num":2,"keyword":"Zeeman effect","haiku":"Magnet cool and still\nZeeman effect splits lines fine\nLevels drift apart"}
+{"prompt_num":2,"keyword":"optical rotation","haiku":"Sugar twists the beam\noptical rotation turns\nPolar light spirals"}
+{"prompt_num":2,"keyword":"reflection","haiku":"Mirror holds the room\nreflection keeps angles same\nRay returns to eye"}
+{"prompt_num":2,"keyword":"quantum optics","haiku":"Single photons wink\nquantum optics counts clicks now\nVacuum hums low"}
+{"prompt_num":2,"keyword":"superconductor","haiku":"Cold metal sheds drag\nsuperconductor below\nFlux pins in silence"}
+{"prompt_num":2,"keyword":"chaos","haiku":"Tiny nudge, new fate\nchaos blooms from simple laws\nTrajectories fray"}
+{"prompt_num":2,"keyword":"non-linear system","haiku":"Feedback loops ignite\nnon-linear system drifts\nFixed points divide fast"}
+{"prompt_num":2,"keyword":"lab report","haiku":"Graphs march in neat rows\nlab report tells what failed too\nMethods save the day"}
+{"prompt_num":2,"keyword":"multimeter","haiku":"Probes touch the leads now\nmultimeter reads volts clean\nOhms settle the doubt"}
+{"prompt_num":2,"keyword":"power supply","haiku":"Dial up steady volts\npower supply steadies\nCircuits wake to life"}
+{"prompt_num":2,"keyword":"function generator","haiku":"Sine waves roll like fog\nfunction generator sings\nSquare pulses bite sharp"}
+{"prompt_num":2,"keyword":"optical bench","haiku":"Rails keep parts aligned\noptical bench holds lenses\nFocus finds the screen"}
+{"prompt_num":2,"keyword":"laser","haiku":"Coherent light breathes\nlaser draws a thin red line\nSpeckles dance on walls"}
+{"prompt_num":3,"keyword":"oscilloscope","haiku":"Sine waves dance on glass\nOscilloscope now steadies\nNoise becomes a line"}
+{"prompt_num":3,"keyword":"data analysis","haiku":"Columns of raw noise\nData analysis guides\nTrends emerge in light"}
+{"prompt_num":3,"keyword":"diffraction","haiku":"Through a narrow slit\nDiffraction paints bright fringes\nLight bends into math"}
+{"prompt_num":3,"keyword":"spectroscopy","haiku":"Prism splits white beam\nSpectroscopy reads starlight\nEach line names atoms"}
+{"prompt_num":3,"keyword":"Hall effect","haiku":"Current through thin film\nHall effect turns carriers\nVoltage slips sideways"}
+{"prompt_num":3,"keyword":"photoelectric effect","haiku":"Blue light strikes the plate\nPhotoelectric effect\nElectrons leap free"}
+{"prompt_num":3,"keyword":"error propagation","haiku":"Numbers wear small scars\nError propagation spreads\nBars widen with doubt"}
+{"prompt_num":3,"keyword":"systematics","haiku":"Calibrate again\nSystematics hide in rigs\nBias stays silent"}
+{"prompt_num":3,"keyword":"curve fitting","haiku":"Dots on graph paper\nCurve fitting finds the trendline\nResiduals sigh"}
+{"prompt_num":3,"keyword":"interference","haiku":"Two beams meet as one\nInterference writes fringes\nDark, then bright, then dark"}
+{"prompt_num":3,"keyword":"optical pumping","haiku":"Atoms in dim mist\nOptical pumping aligns\nSpins hum in step now"}
+{"prompt_num":3,"keyword":"Franck-Hertz","haiku":"Tube glows violet\nFranck-Hertz shows steps in voltage\nAtoms drink quanta"}
+{"prompt_num":3,"keyword":"Zeeman effect","haiku":"Magnet breathes on light\nZeeman effect splits one line\nInto twin whispers"}
+{"prompt_num":3,"keyword":"optical rotation","haiku":"Sugar in a tube\nOptical rotation turns\nPolar light aside"}
+{"prompt_num":3,"keyword":"reflection","haiku":"Mirror holds the beam\nReflection keeps angles true\nPath comes home again"}
+{"prompt_num":3,"keyword":"quantum optics","haiku":"Single photons blink\nQuantum optics counts their steps\nChance has crisp edges"}
+{"prompt_num":3,"keyword":"superconductor","haiku":"Cold lattice goes still\nSuperconductor, no loss\nFlux pins in cold loops"}
+{"prompt_num":3,"keyword":"chaos","haiku":"Pendulum repeats\nChaos blooms from small nudges\nOrder shatters fast"}
+{"prompt_num":3,"keyword":"non-linear system","haiku":"Push past gentle rules\nNon-linear system warps\nSmall kicks shift the world"}
+{"prompt_num":3,"keyword":"lab report","haiku":"Late night in the lab\nLab report turns sweat to proof\nGraphs tell what we saw"}
+{"prompt_num":3,"keyword":"multimeter","haiku":"Leads bite copper skin\nMultimeter hums softly\nOhms settle to truth"}
+{"prompt_num":3,"keyword":"power supply","haiku":"Knob turns, rails wake up\nPower supply holds steady\nCurrent stays in bounds"}
+{"prompt_num":3,"keyword":"function generator","haiku":"Waveforms on command\nFunction generator sweeps\nFrequencies parade"}
+{"prompt_num":3,"keyword":"optical bench","haiku":"Posts, clamps, rulers wait\nOn the optical bench now\nLight finds its axis"}
+{"prompt_num":3,"keyword":"laser","haiku":"Coherent red thread\nLaser stitches air with light\nA tight line of calm"}
+{"prompt_num":4,"keyword":"oscilloscope","haiku":"Oscilloscope hums\nTracing volts in time slowly\nWaves tell us truth now"}
+{"prompt_num":4,"keyword":"data analysis","haiku":"Lab notes pile high here\nData analysis guides\nNoise turns into sense"}
+{"prompt_num":4,"keyword":"diffraction","haiku":"Diffraction makes rings\nSlits turn light to fringes thin\nSpacing reads the wave"}
+{"prompt_num":4,"keyword":"spectroscopy","haiku":"Spectroscopy sings\nLines map atoms' inner states\nColors name the gaps"}
+{"prompt_num":4,"keyword":"Hall effect","haiku":"Hall effect bends charge\nSideways volts reveal B field\nElectrons drift, counted"}
+{"prompt_num":4,"keyword":"photoelectric effect","haiku":"Bright photons strike zinc\nPhotoelectric effect\nCurrent jumps from light"}
+{"prompt_num":4,"keyword":"error propagation","haiku":"Each measure has haze\nError propagation rules\nSquares add, roots speak out"}
+{"prompt_num":4,"keyword":"systematics","haiku":"Random fades with N\nSystematics hide in gear\nBias stays, untamed"}
+{"prompt_num":4,"keyword":"curve fitting","haiku":"Curve fitting finds laws\nLeast squares weighs every point well\nCheck residuals"}
+{"prompt_num":4,"keyword":"interference","haiku":"Interference weaves\nTwo paths meet, bright then dim soft\nPhase sets the pattern"}
+{"prompt_num":4,"keyword":"optical pumping","haiku":"Optical pumping\nSpins align in laser glow\nDark states hold still long"}
+{"prompt_num":4,"keyword":"Franck-Hertz","haiku":"Franck-Hertz shows steps clear\nElectrons lose fixed quanta\nNeon lights the gap"}
+{"prompt_num":4,"keyword":"Zeeman effect","haiku":"Zeeman effect splits\nMagnet pulls levels apart\nPolar lines shift wide"}
+{"prompt_num":4,"keyword":"optical rotation","haiku":"In sugar water\nOptical rotation turns\nHanded light twists on"}
+{"prompt_num":4,"keyword":"reflection","haiku":"Reflection sends light\nIn angle equals out still\nMirrors keep the phase"}
+{"prompt_num":4,"keyword":"quantum optics","haiku":"Quantum optics gleams\nSingle photons trade in pairs\nVacuum hums bright"}
+{"prompt_num":4,"keyword":"superconductor","haiku":"Superconductor\nResistance falls to zero\nFlux pins like ice hard"}
+{"prompt_num":4,"keyword":"chaos","haiku":"Chaos seeds surprise\nTiny tweaks grow into storms\nOrbits never match"}
+{"prompt_num":4,"keyword":"non-linear system","haiku":"Equations fold back\nNon-linear system sways\nBifurcations bloom"}
+{"prompt_num":4,"keyword":"lab report","haiku":"Lab report due dawn\nWrite methods, plots, and doubts all\nTruth in error bars"}
+{"prompt_num":4,"keyword":"multimeter","haiku":"Multimeter beeps\nOhms, volts, amps—one dial for all\nProbes touch, circuits speak"}
+{"prompt_num":4,"keyword":"power supply","haiku":"Knobs set the rails now\nPower supply holds DC\nLimit keeps sparks down"}
+{"prompt_num":4,"keyword":"function generator","haiku":"Square waves march out clean\nFunction generator hums\nSine sweeps through noise low"}
+{"prompt_num":4,"keyword":"optical bench","haiku":"Lenses slide in place\nOptical bench, clamps, and rails\nBeam stays level true"}
+{"prompt_num":4,"keyword":"laser","haiku":"Laser cuts the dark\nCoherent light, tight in phase\nRed dot pins the spot"}
+{"prompt_num":5,"keyword":"oscilloscope","haiku":"oscilloscope glows\ntraces rise with time and noise\nvolts sing on the screen"}
+{"prompt_num":5,"keyword":"data analysis","haiku":"we sort the raw counts\ndata analysis hums\ntruth hides in the bins"}
+{"prompt_num":5,"keyword":"diffraction","haiku":"diffraction fans light\nedges carve rings on the wall\nslits whisper of waves"}
+{"prompt_num":5,"keyword":"spectroscopy","haiku":"spectroscopy speaks\nlines split, each hue tells its tale\natoms sign their names"}
+{"prompt_num":5,"keyword":"Hall effect","haiku":"Hall effect bends charge\nsideways volts mark hidden paths\nfields steer the slow drift"}
+{"prompt_num":5,"keyword":"photoelectric effect","haiku":"blue light knocks it free\nphotoelectric effect\nelectrons leap out"}
+{"prompt_num":5,"keyword":"error propagation","haiku":"small slips add in fog\nerror propagation grows\nbars widen with care"}
+{"prompt_num":5,"keyword":"systematics","haiku":"systematics lurk\nbias tilts our careful scale\ncalibrate, repeat"}
+{"prompt_num":5,"keyword":"curve fitting","haiku":"curve fitting finds trend\nleast squares tames the scatter wild\nerrors still remain"}
+{"prompt_num":5,"keyword":"interference","haiku":"interference weaves\ntwo beams braid in bright, dark, bright\nphase sets the fringe line"}
+{"prompt_num":5,"keyword":"optical pumping","haiku":"optical pumping\nspins align in quiet light\ndark states hold their breath"}
+{"prompt_num":5,"keyword":"Franck-Hertz","haiku":"Franck-Hertz shows steps clear\nelectrons lose fixed chunks now\nneon flashes back"}
+{"prompt_num":5,"keyword":"Zeeman effect","haiku":"magnet grips the beam\nZeeman effect splits lines wide\nlevels fan apart"}
+{"prompt_num":5,"keyword":"optical rotation","haiku":"polar light turns slow\noptical rotation twists\nsugars sign the path"}
+{"prompt_num":5,"keyword":"reflection","haiku":"reflection sends back\nsame tilt returns the ray just\nmirrors teach us law"}
+{"prompt_num":5,"keyword":"quantum optics","haiku":"quantum optics spark\nsingle photons choose their way\nclicks in the dark room"}
+{"prompt_num":5,"keyword":"superconductor","haiku":"superconductor\ncurrent flows with zero drag\nflux pins like ice still"}
+{"prompt_num":5,"keyword":"chaos","haiku":"chaos blooms from rules\ntiny nudges change the end\norder hides inside"}
+{"prompt_num":5,"keyword":"non-linear system","haiku":"feedback loops can sing\nnon-linear system now\nsteady turns to swirls"}
+{"prompt_num":5,"keyword":"lab report","haiku":"lab report due dawn\nplots, errors, and one clear claim\nsign, submit, breathe out"}
+{"prompt_num":5,"keyword":"multimeter","haiku":"multimeter beeps\nprobes touch, numbers settle down\nohms guard the circuit"}
+{"prompt_num":5,"keyword":"power supply","haiku":"power supply hums\nrails hold steady, volts stay calm\nknobs trim the output"}
+{"prompt_num":5,"keyword":"function generator","haiku":"sine, square, saw roll out\nfunction generator sings\nfrequency we dial"}
+{"prompt_num":5,"keyword":"optical bench","haiku":"optical bench holds\nlenses slide, the beam stays true\nclamps lock the path tight"}
+{"prompt_num":5,"keyword":"laser","haiku":"laser cuts a line\ncoherent light, a thin sword\nspeckle dances on"}

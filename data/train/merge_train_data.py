@@ -9,12 +9,11 @@ The checks on each haiku are:
 """
 
 
-import json
+import os, json
 from check_train_data import _check_haiku
-from train_data_keywords import train_families
 
 
-def _get_good_haikus_from_jsonl(filename, prompt_num, file_out):
+def _get_good_haikus_from_jsonl(filename, file_out):
     """Gets all good haikus from a JSONL file and writes them to file_out.
     Returns a tuple of good haikus count and failed haikus count."""
     failed_haikus = 0
@@ -23,10 +22,10 @@ def _get_good_haikus_from_jsonl(filename, prompt_num, file_out):
         with open(filename, 'r', encoding='utf-8') as f:
             for line in f:
                 data = json.loads(line)
-                prompt = data['prompt']
-                response = data['response']
+                keyword = data['keyword']
+                haiku = data['haiku']
 
-                passed, _ = _check_haiku(prompt, prompt_num, response)
+                passed, _ = _check_haiku(keyword, haiku)
                 if passed:
                     good_haikus += 1
                     outf.write(json.dumps(data) + "\n")
@@ -36,21 +35,20 @@ def _get_good_haikus_from_jsonl(filename, prompt_num, file_out):
     return good_haikus, failed_haikus
 
 
-def merge_all_haikus(file_out = "good_train_haikus.jsonl"):
-    """Gets all good haikus from all JSONL files under all data/train/prompt folders.
+def merge_all_haikus(file_out = "merged_haikus.jsonl"):
+    """Gets good haikus from all JSONL files (excluding file_out) in current folder.
     Saves them to file_out."""
     failed_haikus = 0
     good_haikus = 0
     print("=== Starting Haiku Data Merge ===")
     open(file_out, "w").close() # Clear the output file first
-    for prompt_num in range(1, 6):
-        dirname = f"prompt{prompt_num}/"
-        print(f"\n--- Getting haikus from {dirname} ---")
-        for fam in train_families:
-            filename = dirname+f"{fam}.jsonl"
-            good_ones, bad_ones = _get_good_haikus_from_jsonl(filename, prompt_num, file_out)
-            good_haikus += good_ones
-            failed_haikus += bad_ones
+    # find all .jsonl files not including the output file
+    jsonl_files = [f for f in os.listdir('.') if f.endswith('.jsonl') and f != file_out]
+    for filename in jsonl_files:
+        print(f"\n--- Getting haikus from {filename} ---")
+        good_ones, bad_ones = _get_good_haikus_from_jsonl(filename, file_out)
+        good_haikus += good_ones
+        failed_haikus += bad_ones
     
     print(f"\nFinished Haiku Data Merge.\n{good_haikus} good haikus found and saved to {file_out}.")
     print(f"{failed_haikus} bad haikus omitted.") 

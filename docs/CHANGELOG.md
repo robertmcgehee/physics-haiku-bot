@@ -2,7 +2,12 @@
 
 ## [Unreleased]
 
-- SFT training of DistilGPT-2 on haiku training/evaluation data using Hugging Face Trainer API
+- Evaluation scripts to produce scoreboard comparisons / figure
+
+## [0.1.0] 01/08/26
+
+- Added SFT training of DistilGPT-2 notebook; uses haiku training/evaluation data and Hugging Face Trainer API
+- Added SCOREBOARD.md to compare fine-tuned model to base model
 
 ## [0.0.4] 01/06/26
 

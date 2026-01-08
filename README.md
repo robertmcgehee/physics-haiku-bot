@@ -4,7 +4,9 @@
 
 This project explores whether a small, carefully curated dataset is sufficient to fine-tune a smaller model like DistilGPT-2 to reliably generate structured creative outputs in the form of physics haikus. Even SOTA LLMs like GPT-5.2 struggle to reliably produce such haikus with failure rates as high as 27% even with explicit prompting. Thus, this is no easy task for a small model to tackle.
 
-This repository contains SFT training data (i.e. physics haikus in JSONL files). The raw haikus are organized by physics concept family and criteria-passing haikus are merged into a single training data JSONL and a single evaluation data JSONL. The haikus were generated using ChatGPT-5.2. This repo also contains functions to check haikus for consistency, merge good haikus, format haiku data before SFT, and other helper functions used to generate data haiku prompts.
+This repository contains SFT training data (i.e. physics haikus in JSONL files), an SFT training notebook, and an SFT vs base-model scoreboard. The raw haikus are organized by physics concept family and criteria-passing haikus are merged into a single training data JSONL and a single evaluation data JSONL. The haikus were generated using ChatGPT-5.2. This repo also contains functions to check haikus for consistency, merge good haikus, format haiku data before SFT, and other helper functions used to generate data haiku prompts. 
+
+For a snapshot of current progress, **see results/SCOREBOARD.md**.
 
 ## Research Goal
 
@@ -12,7 +14,7 @@ To study whether a small model can learn a rigid output format (5/7/5 syllables,
 
 ## Status 
 
-Doubled data size and refactored code for data format flexibility. Proceeding with SFT experiments.
+To be implemented next: per-line syllable scoring for better evaluation metric; custom haiku-consistency checks each evaluation step *during* training to see how those metrics progress. Short term: GRPO training after SFT
 
 ## Key Files
 
@@ -24,3 +26,4 @@ Doubled data size and refactored code for data format flexibility. Proceeding wi
 - data/eval/ contains all unfiltered, raw evaluation haikus
 - data/train/merged_haikus.jsonl and data/eval/merged_haikus.jsonl contain the 1504 / 2000 and 144 / 250 good haikus for initial SFT training BEFORE formatting 
 - data/train/haikus.jsonl and data/eval/haikus.jsonl contain the 1504 / 2000 and 144 / 250 good haikus for initial SFT training AFTER formatting; **these are to be used for SFT training**
+- notebooks/sft_training.ipynb loads good training/evaluation haikus and performs SFT training on DistilGPT-2 

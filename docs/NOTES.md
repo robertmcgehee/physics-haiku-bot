@@ -1,6 +1,27 @@
 # NOTES
 
-This document records design decisions, observed failure modes, and lessons learned during physics haiku dataset generation and validation.
+This document records design decisions, observed failure modes, and lessons learned during physics haiku dataset generation/validation and the subsequent SFT of DistilGPT-2 using the curated dataset.
+
+## SFT Experiments via Data Formatting
+
+As I comment below, I was inspired to simplify the raw data so that pre-SFT, I could choose different formats for the haiku prompts and responses. After some initial experiments that showed the SFT model performance could depend sensitively on data formatting choices, I tested the performance of 8 different SFT models on the test keywords. The only difference between the 8 models was the formatting of the otherwise-identical training/evaluation haikus. Most experiments used 'Write a haiku about <keyword>' and focused on changing how the line numbers appeared in the prompt/response. I tried using no numbers; 1), 2), 3); and <LINE1>, <LINE2>, <LINE3>. All variations had a fourth line with '<END>' in the haiku response, but I toggled its appearance in the prompt.
+
+I discovered that switching 'Write a haiku about <keyword>' to 'Write 3 lines about Keyword: <keyword>' improved performance across haiku checks quite significantly. After more testing, the final prompt/response variation which beat out the rest and became the default format for data was "Write 3 lines about Keyword: " + keyword  + "\n1)\n2)\n3)" and "1) " + lines[0] + "\n2) " + lines[1] + "\n3) " + lines[2] + "\n<END>". 
+
+To give a sense for the variation in model performance across these formatting choices, just a few of the experiments results appear below.
+
+| Data Format                            | 3 Lines | Keyword | 1st Syll | 2nd Syll | 3rd Syll |
+|----------------------------------------|---------|---------|----------|----------|----------|
+| Write a haiku... (no numbers or <END>) |  0.00   |  0.00   |   0.14   |   0.01   |   0.00   |
+| Write a haiku... (<LINE#> both <END>)  |  0.29   |  0.15   |   0.21   |   0.12   |   0.24   |
+| Write 3 lines... ( #) one <END> )      |  0.89   |  0.56   |   0.20   |   0.11   |   0.19   |
+
+## SFT Choices
+- reduced learning rate from 5e-5 to 2e-5 to reduce overfitting observed in early experiments
+- trained with response-only loss so only the generated haiku (and not the prompt) contributes to the training objective
+- enabled early stopping based on validation loss to save GPU time while preventing model degradation
+- used a small, carefully curated SFT dataset with strict structural accuracy: all training/evaluation examples pass all haiku checks
+- prioritized validation loss as a coarse training diagnostic; afterwards, haiku checks on the test keywords act as the primary evaluation metric
 
 ## Training Data Simplification 
 
@@ -41,8 +62,8 @@ I did permit overlap between separate training data concept families (e.g. 'diam
 To prevent memorization and post-SFT model brittleness, I used 5 prompt variations per keyword in the training data. Each concept family has 25 keywords to create 
 
 - 1000 training haikus 
-- 125 evaluation keywords 
-- 125 test keywords
+- 125 evaluation haikus 
+- 25 test keywords
 
 ## Training Data Regeneration After Validation
 

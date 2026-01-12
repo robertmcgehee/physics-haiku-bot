@@ -38,6 +38,7 @@
 {"prompt_num": 2, "keyword": "ensemble", "haiku": "Ensemble of worlds\nMean values rise from many\nFluctuations stay"}
 {"prompt_num": 2, "keyword": "heat capacity", "haiku": "Heat capacity\nT rises per added joule\nSolids wake at low"}
 {"prompt_num": 3, "keyword": "heat", "haiku": "Heat drifts through still air\nMolecules trade bright motion\nNight warms into dawn"}
+{"prompt_num": 3, "keyword": "second law", "haiku": "Second law speaks plain\nOne-way arrows guide the drift\nNo cold wakes alone"}
 {"prompt_num": 3, "keyword": "Boltzmann", "haiku": "Boltzmann counts the ways\nChance writes warmth in many forms\nLog of chaos sings"}
 {"prompt_num": 3, "keyword": "distribution", "haiku": "Distribution hums\nSpeeds gather in gentle bands\nMean and tails in play"}
 {"prompt_num": 3, "keyword": "Fermi-Dirac", "haiku": "Fermi-Dirac wall\nFilled states block the next ascent\nPauli guards the steps"}
@@ -137,6 +138,7 @@
 {"prompt_num": 2, "keyword": "heat capacity", "haiku": "Heat capacity\nHow much warmth to raise one step\nMatter\u2019s slow reply"}
 {"prompt_num": 3, "keyword": "heat", "haiku": "heat drifts through copper\nMolecules trade bright motion\nNight warms at the edge"}
 {"prompt_num": 3, "keyword": "entropy", "haiku": "entropy rises\nShuffled cards refuse return\nOrder fades to mist"}
+{"prompt_num": 3, "keyword": "second law", "haiku": "second law whispers\nOne-way footsteps in warm air\nTime keeps its arrow"}
 {"prompt_num": 3, "keyword": "phase space", "haiku": "phase space, silent map\nTrajectories weave and spread\nPoints blur into dust"}
 {"prompt_num": 3, "keyword": "Boltzmann", "haiku": "Old Boltzmann smiles, chalk\nlog W blooms on board\nDisorder has weight"}
 {"prompt_num": 3, "keyword": "distribution", "haiku": "distribution hums\nSpeeds gather in gentle curves\nAverages feel calm"}
@@ -226,6 +228,7 @@
 {"prompt_num": 2, "keyword": "photoelectric effect", "haiku": "Light frees electrons\nphotoelectric effect\nStopping volts rise fast"}
 {"prompt_num": 2, "keyword": "error propagation", "haiku": "Sigma stacks in roots\nerror propagation spreads\nBars grow honest now"}
 {"prompt_num": 2, "keyword": "systematics", "haiku": "Calibrate each knob\nsystematics hide so well\nBias lurks in drift"}
+{"prompt_num": 2, "keyword": "curve fitting", "haiku": "Dots scatter like rain\ncurve fitting finds best paths smooth\nChi-squared rests low now"}
 {"prompt_num": 2, "keyword": "interference", "haiku": "Two paths meet again\ninterference writes bright stripes\nPeaks cancel to calm"}
 {"prompt_num": 2, "keyword": "optical pumping", "haiku": "optical pumping\nPolarized beams align spins\nDark states drink the light"}
 {"prompt_num": 2, "keyword": "Zeeman effect", "haiku": "Magnet wakes atoms\nZeeman effect splits lines wide\nm shifts, colors fan"}
@@ -288,6 +291,7 @@
 {"prompt_num": 5, "keyword": "photoelectric effect", "haiku": "Photons free charge now\nphotoelectric effect\nThreshold sets the flow"}
 {"prompt_num": 5, "keyword": "error propagation", "haiku": "Small errors mingle\nError propagation spreads\nSquares add, roots return"}
 {"prompt_num": 5, "keyword": "systematics", "haiku": "Bias hides in rigs\nSystematics skew results\nCalibrate, then trust"}
+{"prompt_num": 5, "keyword": "curve fitting", "haiku": "Points refuse a line\nCurve fitting tames scatter plots\nChi-square whispers yes"}
 {"prompt_num": 5, "keyword": "interference", "haiku": "Two paths meet again\nInterference weaves light still\nBright, dark bars march on"}
 {"prompt_num": 5, "keyword": "optical pumping", "haiku": "Laser sorts atoms\nOptical pumping aligns\nDark states hoard the beam"}
 {"prompt_num": 5, "keyword": "Franck-Hertz", "haiku": "Charges jump in steps\nFranck-Hertz reveals quanta sharp\nNeon glows at peaks"}
@@ -452,11 +456,13 @@
 {"prompt_num": 2, "keyword": "frame", "haiku": "Choose a frame to watch\nIn it, laws look clean and clear\nShift, and terms appear"}
 {"prompt_num": 2, "keyword": "time", "haiku": "Time ticks in quanta\nClocks dilate when speeds grow high\nNow slips into then"}
 {"prompt_num": 2, "keyword": "orbit", "haiku": "Orbit holds by grace\nSpeed sideways, fall forever\nEllipse writes its law"}
+{"prompt_num": 2, "keyword": "energy", "haiku": "Energy stays whole\nIt shifts form, yet sums the same\nHeat, light, mass\u2014one coin"}
 {"prompt_num": 3, "keyword": "force", "haiku": "Force guides falling stones\nIt bends the path of starlight\nVectors hum at dawn"}
 {"prompt_num": 3, "keyword": "momentum", "haiku": "Momentum holds us\nThrough quiet collisions all\nStill, wheels want to roll"}
 {"prompt_num": 3, "keyword": "acceleration", "haiku": "acceleration\nTurns rest into sudden flight\nClocks feel the push now"}
 {"prompt_num": 3, "keyword": "velocity", "haiku": "Velocity sings\nAcross the measured seconds\nStraight lines blur to mist"}
 {"prompt_num": 3, "keyword": "position", "haiku": "Position marks us\nOn chalk grids under sunlight\nHere, then gone again"}
+{"prompt_num": 3, "keyword": "gravity", "haiku": "Gravity tugs hard\nDown the well of space-time deep\nApples learn to fall"}
 {"prompt_num": 3, "keyword": "rigid body", "haiku": "Rigid body spins\nNo joints, yet it tumbles free\nAngles keep their pride"}
 {"prompt_num": 3, "keyword": "rotation", "haiku": "Rotation in night\nEarth turns, we call it morning\nGyros steady seas"}
 {"prompt_num": 3, "keyword": "motion", "haiku": "Motion starts with doubt\nThen lines unspool through air thin\nFootsteps trace the now"}
@@ -609,6 +615,7 @@
 {"prompt_num": 1, "keyword": "insulator", "haiku": "No carriers roam\nInsulator keeps charge still\nField finds no path here"}
 {"prompt_num": 1, "keyword": "semiconductor", "haiku": "Semiconductor\nDoped edges tip the balance\nDiodes start to sing"}
 {"prompt_num": 1, "keyword": "transistor", "haiku": "Three layers, one choice\nTransistor gates the current\nOn, off\u2014logic breathes"}
+{"prompt_num": 1, "keyword": "p-n junction", "haiku": "Holes meet electrons\nAt p-n junction fields lock\nDepletion grows calm"}
 {"prompt_num": 1, "keyword": "paramagnetism", "haiku": "Paramagnetism\nSpins align when B arrives\nWarmth breaks the ranks soon"}
 {"prompt_num": 1, "keyword": "ferromagnetism", "haiku": "Domains snap tight now\nFerromagnetism stays\nHysteresis sings"}
 {"prompt_num": 1, "keyword": "Meissner effect", "haiku": "Coils fall quiet now\nMeissner effect expels field\nFlux cannot enter"}
@@ -626,6 +633,7 @@
 {"prompt_num": 2, "keyword": "insulator", "haiku": "Filled bands sit still tight\nInsulator keeps charge home\nNo drift in the dark"}
 {"prompt_num": 2, "keyword": "semiconductor", "haiku": "Doping tips the scale\nSemiconductor wakes up\nElectrons, holes trade"}
 {"prompt_num": 2, "keyword": "transistor", "haiku": "Tiny switch of sand\nTransistor gates the signal\nLogic sparks to life"}
+{"prompt_num": 2, "keyword": "p-n junction", "haiku": "Donors greet holes there\np-n junction bends the bands\nDepletion grows calm"}
 {"prompt_num": 2, "keyword": "Meissner effect", "haiku": "Supercurrents ring\nMeissner effect sweeps flux out\nMagnetic lines fade"}
 {"prompt_num": 2, "keyword": "phase transition", "haiku": "Critical point nears\nPhase transition flips order\nNew symmetry breaks"}
 {"prompt_num": 2, "keyword": "Berry phase", "haiku": "Slow circuit traced once\nBerry phase around the loop\nGeometry writes"}
@@ -633,6 +641,7 @@
 {"prompt_num": 2, "keyword": "polymer", "haiku": "Long bonds sway like grass\nPolymer chains coil and slide\nEntropy pulls back"}
 {"prompt_num": 3, "keyword": "Bravais lattice", "haiku": "Atoms take their posts\nIn Bravais lattice we march\nSymmetry draws maps"}
 {"prompt_num": 3, "keyword": "unit cell", "haiku": "Corners share a face\nOne unit cell repeats still\nCrystal grows by rules"}
+{"prompt_num": 3, "keyword": "reciprocal lattice", "haiku": "Dots in k-space glow\nreciprocal lattice\u2014seen\nDiffraction sings true"}
 {"prompt_num": 3, "keyword": "phonon", "haiku": "Lattice whispers low\nA phonon carries warmth out\nVibrations fade slow"}
 {"prompt_num": 3, "keyword": "Debye model", "haiku": "Solids grow quiet\nDebye model counts modes well\nHeat climbs near T cubed"}
 {"prompt_num": 3, "keyword": "band gap", "haiku": "Photons knock softly\nInside band gap, no song heard\nColor sets the edge"}
@@ -641,6 +650,7 @@
 {"prompt_num": 3, "keyword": "insulator", "haiku": "Electrons sit still\ninsulator locks the bands\nField meets a wall hard"}
 {"prompt_num": 3, "keyword": "semiconductor", "haiku": "Dopants tip the scale\nsemiconductor wakes now\nCarriers swap roles"}
 {"prompt_num": 3, "keyword": "transistor", "haiku": "Tiny switch, vast nets\ntransistor gates the river\nLogic blooms in sand"}
+{"prompt_num": 3, "keyword": "p-n junction", "haiku": "Holes drift inward fast\np-n junction splits the dawn\nDiodes hum at noon"}
 {"prompt_num": 3, "keyword": "diamagnetism", "haiku": "Loops oppose the field\ndiamagnetism, now\nLevitation dream"}
 {"prompt_num": 3, "keyword": "ferromagnetism", "haiku": "Domains lock tight here\nferromagnetism stays\nHysteresis loops"}
 {"prompt_num": 3, "keyword": "Meissner effect", "haiku": "Zero resistance\nMeissner effect sweeps flux out\nMagnet floats above"}
@@ -660,6 +670,7 @@
 {"prompt_num": 4, "keyword": "insulator", "haiku": "Charges stay homebound\nInsulator keeps gaps wide\nNo drift in the dark"}
 {"prompt_num": 4, "keyword": "semiconductor", "haiku": "Doped just a little\nSemiconductor shifts now\nElectrons, holes trade"}
 {"prompt_num": 4, "keyword": "transistor", "haiku": "Gate whispers on/off\nTransistor turns thought to bits\nLogic blooms in sand"}
+{"prompt_num": 4, "keyword": "p-n junction", "haiku": "Two doped worlds meet here\np-n junction makes a wall\nDiodes point one way"}
 {"prompt_num": 4, "keyword": "paramagnetism", "haiku": "Spins half-align slow\nParamagnetism likes B\nWarmer, it lets go"}
 {"prompt_num": 4, "keyword": "Meissner effect", "haiku": "Cold coils turn sacred\nMeissner effect expels flux\nField lines flee the bulk"}
 {"prompt_num": 4, "keyword": "phase transition", "haiku": "Order breaks, reforms\nPhase transition flips the rules\nLatent heat hides here"}
@@ -679,6 +690,7 @@
 {"prompt_num": 5, "keyword": "insulator", "haiku": "Few carriers wake\ninsulator keeps bands split\nField meets stubborn wall"}
 {"prompt_num": 5, "keyword": "semiconductor", "haiku": "semiconductor\nDoping shifts Fermi level\nSwitches bloom from sand"}
 {"prompt_num": 5, "keyword": "transistor", "haiku": "Terminals whisper\ntransistor gates river thin\nLogic turns to light"}
+{"prompt_num": 5, "keyword": "p-n junction", "haiku": "Dopants trade their charge\np-n junction makes fields strong\nDiode's one-way gate"}
 {"prompt_num": 5, "keyword": "diamagnetism", "haiku": "Closed shells repel flux\ndiamagnetism now\nWeakly, it says no"}
 {"prompt_num": 5, "keyword": "ferromagnetism", "haiku": "Domains lock in place\nferromagnetism reigns\nHysteresis stays"}
 {"prompt_num": 5, "keyword": "phase transition", "haiku": "At critical point\nphase transition flips order\nNew pattern appears"}
@@ -695,6 +707,7 @@
 {"prompt_num": 1, "keyword": "insulator", "haiku": "Insulator sleeps\nElectrons bound in bonds tight\nField meets still air here"}
 {"prompt_num": 1, "keyword": "semiconductor", "haiku": "Semiconductor\nDoped dawn opens paths for charge\nBand edges can bend"}
 {"prompt_num": 1, "keyword": "transistor", "haiku": "Small transistor gate\nOne signal steers river wide\nLogic flips, cleanly"}
+{"prompt_num": 1, "keyword": "p-n junction", "haiku": "p-n junction forms\nHoles meet electrons; light sparks\nDiodes guard one way"}
 {"prompt_num": 1, "keyword": "diamagnetism", "haiku": "Fields press near the core\nSoft diamagnetism\nRepels in hush now"}
 {"prompt_num": 1, "keyword": "ferromagnetism", "haiku": "Domains lock in place\nStrong ferromagnetism\nNorth hums, south answers"}
 {"prompt_num": 1, "keyword": "Meissner effect", "haiku": "Meissner effect shines\nIt drives out trapped flux at once\nLevitation, calm"}
@@ -714,6 +727,7 @@
 {"prompt_num": 2, "keyword": "insulator", "haiku": "Quiet valence seas\ninsulator keeps light out\nBands lock hands, still tight"}
 {"prompt_num": 2, "keyword": "semiconductor", "haiku": "Doped dawns awaken\nsemiconductor shifts bands\nBetween dark and glow"}
 {"prompt_num": 2, "keyword": "transistor", "haiku": "Gate whispers on now\ntransistor steers the stream well\nLogic blooms in sand"}
+{"prompt_num": 2, "keyword": "p-n junction", "haiku": "Two doped shores meet here\np-n junction makes one field\nDiodes sip the sun"}
 {"prompt_num": 2, "keyword": "paramagnetism", "haiku": "Spins tilt with the breeze\nparamagnetism leans in\nWarmth shakes them free now"}
 {"prompt_num": 2, "keyword": "ferromagnetism", "haiku": "Domains choose one song\nferromagnetism locks\nNeedles point, steady"}
 {"prompt_num": 2, "keyword": "Meissner effect", "haiku": "Coils hum near the ice\nMeissner effect clears the field\nFlux slips to the rim"}
@@ -733,6 +747,7 @@
 {"prompt_num": 3, "keyword": "insulator", "haiku": "Hard insulator\nHolds charges, locked in place fast\nNo drift under volts"}
 {"prompt_num": 3, "keyword": "semiconductor", "haiku": "Semiconductor\nDoping draws new carriers\nTiny gates steer bands"}
 {"prompt_num": 3, "keyword": "transistor", "haiku": "A transistor clicks\nThree regions trade control now\nLogic sparks from sand"}
+{"prompt_num": 3, "keyword": "p-n junction", "haiku": "In p-n junction\nDepletion layer bends fields\nDiode dawns, one way"}
 {"prompt_num": 3, "keyword": "diamagnetism", "haiku": "Closed shells resist all\nDiamagnetism, no\nField lines bow away"}
 {"prompt_num": 3, "keyword": "ferromagnetism", "haiku": "Domains choose one way\nFerromagnetism stays\nHysteresis loops"}
 {"prompt_num": 3, "keyword": "Meissner effect", "haiku": "Meissner effect shields\nFlux is expelled from the bulk\nSupercurrent rims"}
@@ -753,6 +768,7 @@
 {"prompt_num": 4, "keyword": "insulator", "haiku": "Full bands, empty skies\ninsulator holds charge tight\nfield finds no path through"}
 {"prompt_num": 4, "keyword": "semiconductor", "haiku": "A tiny gap waits\nsemiconductor shifts bands\ngates sculpt the current"}
 {"prompt_num": 4, "keyword": "transistor", "haiku": "Three layers, one will\ntransistor turns flows on, off\nlogic sparks from sand"}
+{"prompt_num": 4, "keyword": "p-n junction", "haiku": "Dopants meet midline\np-n junction splits the charge\nDiode glows, forward"}
 {"prompt_num": 4, "keyword": "paramagnetism", "haiku": "Spins tilt to fields slow\nparamagnetism aligns\nthermal noise breaks ranks"}
 {"prompt_num": 4, "keyword": "Meissner effect", "haiku": "Cool below tee see\nMeissner effect clears flux out\nsupercurrents shield"}
 {"prompt_num": 4, "keyword": "phase transition", "haiku": "tee see breaks patterns\nphase transition flips order\nlatent heat may hide"}
@@ -769,7 +785,6 @@
 {"prompt_num": 5, "keyword": "insulator", "haiku": "Charges stay at home\ninsulator keeps fields trapped\nNo drift, just stillness"}
 {"prompt_num": 5, "keyword": "semiconductor", "haiku": "Small dopants enter\nsemiconductor steers flow\nElectrons and holes"}
 {"prompt_num": 5, "keyword": "transistor", "haiku": "Gate opens and shuts\ntransistor steers charge streams fast\nLogic blooms in sand"}
-{"prompt_num": 5, "keyword": "p-n junction", "haiku": "Two realms meet here now\np-n junction barrier forms\nDiodes glow at dawn"}
 {"prompt_num": 5, "keyword": "diamagnetism", "haiku": "Loops oppose the field\ndiamagnetism now\nWeak, yet always sure"}
 {"prompt_num": 5, "keyword": "ferromagnetism", "haiku": "Domains march as one\nferromagnetism locks\nLoops keep memory"}
 {"prompt_num": 5, "keyword": "Meissner effect", "haiku": "Below Tc, we cool\nMeissner effect drives flux out\nFlux lines fade out now"}
@@ -792,6 +807,7 @@
 {"prompt_num": 1, "keyword": "twin paradox", "haiku": "twin paradox wins\none flies, one waits by the porch\nmeet again, years split"}
 {"prompt_num": 1, "keyword": "curvature", "haiku": "curvature shapes paths\nplanets follow bent straight lines\nfalling is free here"}
 {"prompt_num": 1, "keyword": "black hole", "haiku": "black hole drinks starlight\nspace sinks past a silent rim\nno message climbs out"}
+{"prompt_num": 1, "keyword": "event horizon", "haiku": "event horizon\na one-way dusk for photons\ntime turns inward slow"}
 {"prompt_num": 1, "keyword": "gravitational wave", "haiku": "Masses dance, then merge\ngravitational wave hums\ndetectors hear chirps"}
 {"prompt_num": 2, "keyword": "Minkowski", "haiku": "Minkowski\u2019s flat dawn\nIntervals keep their quiet\nPast meets future here"}
 {"prompt_num": 2, "keyword": "invariance", "haiku": "Invariance sings\nNo boost can bruise the law true\nSame numbers return"}
@@ -948,6 +964,7 @@
 {"prompt_num": 5, "keyword": "covariance", "haiku": "Covariance speaks\nEquations keep their true form\nUnder any chart"}
 {"prompt_num": 5, "keyword": "twin paradox", "haiku": "Twin paradox turns\nOne returns with fewer years\nOne clock loses time"}
 {"prompt_num": 5, "keyword": "black hole", "haiku": "A black hole waits deep\nLight falls inward, cannot flee\nTime slows at the rim"}
+{"prompt_num": 5, "keyword": "event horizon", "haiku": "Event horizon\nA one-way edge for all light\nNo signal returns"}
 {"prompt_num": 5, "keyword": "equivalence principle", "haiku": "In a falling lift\nEquivalence principle\nWeightless, for a while"}
 {"prompt_num": 5, "keyword": "gravitational wave", "haiku": "Two dark stars merge far\nGravitational wave sings\nStretch, squeeze, pass through us"}
 {"prompt_num": 1, "keyword": "uncertainty", "haiku": "uncertainty breathes\nPlace bargains with momentum\nErrors share one floor"}
@@ -1027,6 +1044,7 @@
 {"prompt_num": 5, "keyword": "time-independent", "haiku": "Stationary nodes\ntime-independent form holds\nEigenvalues hum"}
 {"prompt_num": 5, "keyword": "operator", "haiku": "Choose a basis first\nAn operator shifts phase\nOut comes an eigen"}
 {"prompt_num": 5, "keyword": "Ehrenfest", "haiku": "Mean motion returns\nEhrenfest, mean paths agree\nClassical shadow"}
+{"prompt_num": 5, "keyword": "measurement", "haiku": "Click\u2014one dot appears\nmeasurement cuts the haze clean\nState becomes a fact"}
 {"prompt_num": 5, "keyword": "observer", "haiku": "Eyes in the lab glow\nobserver frames the question\nContext shapes results"}
 {"prompt_num": 5, "keyword": "quanta", "haiku": "Tiny packets sing\nquanta trade in discrete notes\nNo smooth slide remains"}
 {"prompt_num": 5, "keyword": "wave", "haiku": "Crests roll through the void\nA wave carries phase and speed\nFringes bloom on screens"}
@@ -1070,6 +1088,7 @@
 {"prompt_num": 2, "keyword": "Copenhagen", "haiku": "Copenhagen says\nKeep the story modest, clear\nShut the door on 'why'"}
 {"prompt_num": 2, "keyword": "many-worlds", "haiku": "many-worlds branch out\nEvery choice splits like light\nWe walk one thin thread"}
 {"prompt_num": 2, "keyword": "entanglement", "haiku": "Entanglement holds\nTwo distant spins in one vow\nTouch here, there answers"}
+{"prompt_num": 2, "keyword": "finite well", "haiku": "Finite well confines\nA lone wave in stone-dark pits\nLevels stair upward"}
 {"prompt_num": 2, "keyword": "Dirac delta", "haiku": "Dirac delta spikes\nAt a single point in space\nInfinity, tamed"}
 {"prompt_num": 2, "keyword": "tunneling", "haiku": "Tunneling finds ways\nThrough walls too high for courage\nChances seep right through"}
 {"prompt_num": 2, "keyword": "bound state", "haiku": "A bound state lingers\nIn the well of minus E\nTied to its own node"}
@@ -1100,6 +1119,7 @@
 {"prompt_num": 4, "keyword": "Ehrenfest", "haiku": "Old orbits return\nEhrenfest ties force to mean\nQuantum walks like math"}
 {"prompt_num": 4, "keyword": "measurement", "haiku": "A beam meets a screen\nmeasurement pins the drift down\nBlur turns into dots"}
 {"prompt_num": 4, "keyword": "observer", "haiku": "No eye, no outcome\nobserver brings clock to now\nFacts harden in light"}
+{"prompt_num": 4, "keyword": "quanta", "haiku": "Tiny quanta fall\nIn ladders of spaced-out light\nEach step clicks and glows"}
 {"prompt_num": 4, "keyword": "wave", "haiku": "Soft wave on a line\nPhase curls through empty dark space\nCrest follows the trough"}
 {"prompt_num": 4, "keyword": "duality", "haiku": "Masks on moonlit glass\nduality makes thing two\nDots and ripples trade"}
 {"prompt_num": 4, "keyword": "conjugate variable", "haiku": "Two numbers entwine\nconjugate variable\nTrade blur for sharpness"}
@@ -1117,6 +1137,7 @@
 {"prompt_num": 5, "keyword": "superposition", "haiku": "superposition\nTwo paths share one soft phase now\nUntil you look, one"}
 {"prompt_num": 5, "keyword": "operator", "haiku": "An operator\nTurns states with measured grace, sure\nEigenvalues ring"}
 {"prompt_num": 5, "keyword": "Ehrenfest", "haiku": "Ehrenfest reminds\nQuantum means follow Newton\nClassics in disguise"}
+{"prompt_num": 5, "keyword": "measurement", "haiku": "Before measurement\nThe wave keeps its secrets close\nClick\u2014one fate is set"}
 {"prompt_num": 5, "keyword": "observer", "haiku": "An observer waits\nEyes lend form to drifting odds\nWorlds narrow to one"}
 {"prompt_num": 5, "keyword": "quanta", "haiku": "Small quanta arrive\nAs packets of clean starlight\nCounted, then set free"}
 {"prompt_num": 5, "keyword": "wave", "haiku": "A wave rolls outward\nThrough slit and screen it whispers\nCrests kiss empty air"}
@@ -1193,6 +1214,7 @@
 {"prompt_num": 4, "keyword": "curl", "haiku": "curl twists vector flow\nEddies mark the field's tight spin\nVorticity wakes"}
 {"prompt_num": 4, "keyword": "complex analysis", "haiku": "Waves in plane rotate\ncomplex analysis finds\nPhase wraps cleanly now"}
 {"prompt_num": 4, "keyword": "Cauchy integral", "haiku": "Cauchy integral\nCircles enclose what counts most\nGreen lights path within"}
+{"prompt_num": 4, "keyword": "contour", "haiku": "contour bends softly\nIntegrals stay phase-safe here\nAvoid branch cuts well"}
 {"prompt_num": 4, "keyword": "Taylor series", "haiku": "Near zero, expand\nTaylor series builds the law\nHigher terms fade fast"}
 {"prompt_num": 4, "keyword": "conformal map", "haiku": "conformal map bends\nAngles stay true, scale may change\nFields keep their form still"}
 {"prompt_num": 4, "keyword": "orthogonality", "haiku": "Basis vectors stand\northogonality pure\nCross terms vanish all"}

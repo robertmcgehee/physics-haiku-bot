@@ -1,0 +1,758 @@
+keyword,lines_ok,keyword_ok,syllables_ok,syllables_l1_ok,syllables_l2_ok,syllables_l3_ok,haiku_ok,keyword_count,syllable_counts,completion
+scalar,False,True,True,True,False,False,False,1,[5]," Scalar, here, and then
+<END>"
+scalar,True,True,False,True,False,False,False,1,"[5, 6, 4]"," Axes in the air
+2) scalar sets out true bound
+3) Sine counts the steps
+<END>"
+scalar,True,False,False,False,False,False,False,0,"[4, 4, 6]"," Squares close the paths
+2) One way to see
+3) A circle, one branch, one
+<END>"
+scalar,True,True,False,False,False,False,False,1,"[6, 3, 6]"," Summological map
+2) scalar speaks
+3) Tides of change stay steady
+<END>"
+scalar,True,True,False,False,False,False,False,1,"[4, 8, 4]"," Vector, one speed
+2) A scalar splits the space with space
+3) Counts change, never
+<END>"
+scalar,False,True,False,False,False,False,False,1,[6]," Scalar sings through the sun
+<END>"
+scalar,True,False,False,False,False,False,False,2,"[3, 6, 4]"," Scalar fields
+2) Scalar fields hold the whole
+3) Loop the loop fast
+<END>"
+scalar,True,True,False,False,False,False,False,1,"[2, 6, 6]"," Stars dance
+2) scalar waves form the lines
+3) Parallel notes follow
+<END>"
+fermion,True,True,False,False,False,False,False,1,"[7, 3, 6]"," Mass pulls in waves in fast, fast
+2) Fermion drifts
+3) Tons of thin air fall off
+<END>"
+fermion,False,False,False,False,False,False,False,0,[8]," Free electrons pull from thin air
+<END>"
+fermion,True,True,False,False,False,False,False,1,"[1, 3, 7]"," Field
+2) Fermion spins
+3) In time, electrons strike fast
+<END>"
+fermion,True,False,False,False,False,False,False,2,"[3, 3, 4]"," Fermion bends
+2) fermion bends
+3) Curves rise, then down
+<END>"
+fermion,True,False,False,False,False,False,False,2,"[2, 3, 4]"," Fermion
+2) Fermion forms
+3) Pairs jump and roll
+<END>"
+fermion,True,True,False,True,False,True,False,1,"[5, 8, 5]"," Fermion tells each line
+2) Reflection lines form their own paths
+3) Numbers share their path
+<END>"
+fermion,True,True,False,False,False,True,False,1,"[6, 6, 5]"," Particles in thin air
+2) fermion, its own quanta
+3) Coherence, then rest
+<END>"
+fermion,True,True,False,False,False,False,False,1,"[6, 4, 7]"," Magnet beams like the sun
+2) fermion splits fast
+3) Two paths tell the same story
+<END>"
+Dirac equation,True,False,False,True,False,False,False,2,"[5, 5, 3]"," Dirac equation
+2) Dirac equation
+3) Bias here
+<END>"
+Dirac equation,True,False,False,False,True,False,False,3,"[7, 7, 7]"," Dirac equations guide paths
+2) Dirac equations guide paths
+3) Dirac equations guide paths
+<END>"
+Dirac equation,True,False,False,True,False,False,False,2,"[5, 8, 4]"," Dirac equations
+2) Dirac equation shows the law
+3) Two rules follow
+<END>"
+Dirac equation,False,True,False,False,False,False,False,1,[9]," Dirac equation maps the flux field
+<END>"
+Dirac equation,True,False,False,True,False,False,False,2,"[5, 5, 7]"," Dirac equation
+2) Dirac equation
+3) In any case, one finds one
+<END>"
+Dirac equation,True,False,False,True,False,True,False,3,"[5, 5, 5]"," Dirac equation
+2) Dirac equation
+3) Dirac equation
+<END>"
+Dirac equation,True,False,False,True,False,True,False,2,"[5, 6, 5]"," Dirac equation
+2) Dirac equation holds
+3) Entropy takes form
+<END>"
+Dirac equation,False,True,True,True,False,False,False,1,[5]," Dirac equation
+<END>"
+electron,True,True,False,False,False,False,False,1,"[4, 8, 8]"," Light stays in place
+2) Electrons keep a steady flow
+3) Space and light flow in constant light
+<END>"
+electron,True,False,False,False,False,False,False,2,"[3, 6, 6]"," Spin, then rest
+2) electrons dance to form
+3) Electrons dance to form
+<END>"
+electron,True,False,False,False,False,False,False,2,"[8, 6, 4]"," Electrons dance in slow motion
+2) One electron splits charge
+3) Lines trace the whole
+<END>"
+electron,True,True,False,True,False,False,False,1,"[5, 5, 4]"," Electrons stay here
+2) Heat here, then keep them
+3) Light sinks in here
+<END>"
+electron,True,False,False,False,False,False,False,2,"[6, 6, 3]"," Electrons pull them straight
+2) electron twists through space
+3) Mass builds space
+<END>"
+electron,True,True,False,False,False,True,False,1,"[4, 5, 5]"," Chiral sparks charge
+2) Electrons scatter
+3) A crystal stays bright
+<END>"
+electron,True,True,False,True,False,False,False,1,"[5, 6, 6]"," Copper holds the light
+2) electron holds the light
+3) Waves swirl around the dark
+<END>"
+electron,True,True,False,False,False,False,False,1,"[3, 4, 4]"," Antenna
+2) Electrons sing
+3) Intervals dance
+<END>"
+proton,True,False,False,False,False,False,False,2,"[3, 3, 7]"," proton sings
+2) Proton sings
+3) Propons return when it turns
+<END>"
+proton,True,False,False,False,False,False,False,3,"[4, 4, 4]"," Proton picks all
+2) Proton makes turns
+3) Proton makes turn
+<END>"
+proton,True,False,False,False,False,False,False,2,"[3, 3, 6]"," Proton spins
+2) Proton spins
+3) Current keeps it silent
+<END>"
+proton,True,False,False,False,False,False,False,2,"[7, 5, 7]"," Proton moves through the thin air
+2) Proton stays quiet
+3) Transitions push it closer
+<END>"
+proton,True,False,False,False,False,False,False,2,"[3, 3, 3]"," Proton spins
+2) Proton spins
+3) On a charge
+<END>"
+proton,True,False,False,False,False,True,False,2,"[8, 8, 5]"," Proton binds itself to photons
+2) Proton binds itself to photons
+3) Light, then, disappears
+<END>"
+proton,True,False,False,True,False,True,False,2,"[5, 5, 5]"," Proton finds its home
+2) Proton finds its home
+3) Particles in grains
+<END>"
+proton,True,False,False,False,False,False,False,2,"[3, 3, 4]"," Proton bends
+2) Proton bends
+3) Two atoms leap
+<END>"
+neutron,True,False,False,False,True,False,False,0,"[8, 7, 4]"," Electrons spin at the same time
+2) Nucleon spins at the same time
+3) Spin speeds as light
+<END>"
+neutron,True,True,False,False,False,False,False,1,"[3, 5, 4]"," Tidal flux
+2) neutron writes the sign
+3) Light guides the law
+<END>"
+neutron,True,True,False,False,False,True,False,1,"[3, 9, 5]"," Quantum spins
+2) neutron stars whisper to each other
+3) Stars shine in the dark
+<END>"
+neutron,True,True,False,False,False,False,False,1,"[2, 6, 6]"," Eaves sing
+2) neutron spins in black dust
+3) Dark bright light beams toward
+<END>"
+neutron,True,True,False,False,False,False,False,1,"[3, 5, 4]"," Light stays free
+2) neutron says its end
+3) Mass stays in time
+<END>"
+neutron,True,False,False,True,False,True,False,0,"[5, 3, 5]"," Atoms map the mass
+2) Stars shift light
+3) Energy builds back
+<END>"
+neutron,True,True,False,False,False,False,False,1,"[4, 5, 3]"," Flux shapes its paths
+2) A neutron walks past
+3) Sets its path
+<END>"
+neutron,True,True,False,False,False,True,False,1,"[7, 4, 5]"," Nits bend by a tiny beam
+2) neutron draws in
+3) Atoms breathe the light
+<END>"
+gluon,True,True,False,False,False,False,False,1,"[3, 3, 4]"," Space bends out
+2) gluon bends out
+3) Angle points to
+<END>"
+gluon,True,False,False,False,False,False,False,2,"[3, 3, 4]"," gluon counts light
+2) gluon counts light
+3) Distance, in dark
+<END>"
+gluon,True,True,False,False,False,True,False,1,"[4, 5, 5]"," In the night sky
+2) gluon lets it pass fast
+3) Through the thin glass walls
+<END>"
+gluon,True,False,False,False,False,True,False,2,"[4, 4, 5]"," Gluon bends the field
+2) gluon twists and locks
+3) Lines flow from the beam
+<END>"
+gluon,True,False,False,False,False,False,False,2,"[6, 5, 4]"," gluon shows the difference
+2) gluon points to a change
+3) Lines trace the change
+<END>"
+gluon,False,False,False,False,False,False,False,0,[4]," Light bends inward
+<END>"
+gluon,True,False,False,False,False,False,False,2,"[4, 4, 3]"," Gluon counts the light
+2) gluon counts the light
+3) Heat tells what
+<END>"
+gluon,True,False,False,False,False,False,False,2,"[2, 6, 3]"," gluon waits
+2) A gluon hums through the air
+3) Lines grow tight
+<END>"
+boson,True,False,False,True,False,False,False,2,"[5, 5, 6]"," A boson in charge
+2) B boson, then spins
+3) Waves follow as it bends
+<END>"
+boson,True,True,False,True,True,False,False,1,"[5, 7, 7]"," Stars sing in warm light
+2) boson spins at the same time
+3) Energy is now silent
+<END>"
+boson,True,True,False,False,False,False,False,1,"[4, 6, 3]"," Mass stays in charge
+2) boson sets itself free
+3) Stars settle
+<END>"
+boson,True,True,False,False,False,True,False,1,"[4, 6, 5]"," Antidots drift
+2) bosons move in the air
+3) Waves ripple like waves
+<END>"
+boson,True,True,False,False,True,False,False,1,"[2, 7, 2]"," Fields charge
+2) boson spins in a cycle
+3) Waves fall
+<END>"
+boson,True,True,False,False,False,False,False,1,"[3, 3, 4]"," A boson
+2) Sine of two
+3) Least bars bend one
+<END>"
+boson,True,True,False,False,False,False,False,1,"[4, 3, 2]"," An iron field
+2) boson twists
+3) Stars dance
+<END>"
+boson,True,True,False,False,False,True,False,1,"[3, 5, 5]"," Fermi beams
+2) boson writes the beam
+3) Stars move through matter
+<END>"
+quark,True,False,False,False,False,False,False,3,"[3, 4, 4]"," Quark, bright light
+2) Quarks tell the tale
+3) Quarks tell the tale
+<END>"
+quark,True,False,False,False,False,False,False,3,"[4, 4, 3]"," Quark is a star
+2) Quark, once again
+3) A quark says
+<END>"
+quark,True,False,False,True,False,False,False,3,"[5, 6, 6]"," Quark waves form the quark
+2) quark waves sing in whispers
+3) Time and space rule the dance
+<END>"
+quark,True,False,False,False,False,False,False,2,"[3, 5, 2]"," Quark holds light
+2) Quark hums like iron
+3) Space waits
+<END>"
+quark,True,False,False,False,False,False,False,2,"[4, 6, 4]"," Quarks sing it like
+2) Quarks sing it like a clock
+3) Flux shifts its path
+<END>"
+quark,True,False,False,False,False,False,False,3,"[4, 5, 3]"," Quark is silent
+2) Quark waits in quark's coils
+3) Clients, still
+<END>"
+quark,True,False,False,False,False,False,False,2,"[4, 5, 4]"," Flux whispers out
+2) Quarks drift in the night
+3) A quark whispers
+<END>"
+quark,True,False,False,False,False,False,False,4,"[3, 5, 4]"," Spinning quarks
+2) Quarks form their own quark
+3) Two quarks swap paths
+<END>"
+collider,True,False,False,False,False,False,False,2,"[8, 8, 4]"," Collider picks the line in turn
+2) Collider picks the line in turn
+3) A quanta’s light
+<END>"
+collider,True,False,False,False,True,False,False,2,"[6, 7, 3]"," Collider lets wave flow
+2) Collider lets wave flow now
+3) Coils whisper
+<END>"
+collider,True,False,False,False,False,True,False,2,"[6, 9, 5]"," Collider finds a line
+2) collider points out a single path
+3) Then we write the law
+<END>"
+collider,True,False,False,False,False,True,False,3,"[4, 6, 5]"," Collider keeps
+2) Collider keeps the speed
+3) Collider turns fast
+<END>"
+collider,False,True,False,False,False,False,False,1,[8]," Collider holds space between holes
+<END>"
+collider,True,False,False,False,False,False,False,2,"[4, 4, 4]"," Collider speaks
+2) Collider speaks
+3) Stars spin and dance
+<END>"
+collider,True,False,False,False,True,False,False,2,"[4, 7, 2]"," Collider spins
+2) Collider spins all the time
+3) Stars dance
+<END>"
+collider,True,False,False,False,False,False,False,2,"[6, 6, 6]"," Collider holds the light
+2) collider holds its light
+3) Steering into the light
+<END>"
+renormalize,True,True,False,False,False,False,False,1,"[4, 12, 3]"," Rows, now they do
+2) renormalize transforms the world into one
+3) Sets a point
+<END>"
+renormalize,False,False,False,False,False,False,False,0,[8]," Relativity lets us now
+<END>"
+renormalize,True,True,False,False,False,False,False,1,"[4, 5, 3]"," Backs call the law
+2) renormalize
+3) Dots write rules
+<END>"
+renormalize,True,True,False,False,False,False,False,1,"[6, 6, 3]"," Stereos tell the tale
+2) renormalize sings
+3) The steps take
+<END>"
+renormalize,True,False,False,False,False,False,False,2,"[6, 6, 4]"," A renormalize
+2) A renormalize
+3) A curve makes space
+<END>"
+renormalize,True,True,False,False,False,False,False,1,"[8, 5, 4]"," Renormalize holds the form
+2) A form counts its time
+3) Reduction rules
+<END>"
+renormalize,False,False,False,True,False,False,False,2,"[5, 3, 6]"," Renormalize
+1) It turns now
+2) renormalize splits
+3) Lines fall into line
+<END>"
+renormalize,True,True,False,False,False,False,False,1,"[8, 10, 4]"," Diracent lines look like small grains
+2) Renormalize sums into numbers
+3) Points in the air
+<END>"
+cross section,True,False,False,False,False,False,False,2,"[4, 5, 7]"," Cross section splits
+2) Cross section cuts fast
+3) Diameter cuts, then spreads
+<END>"
+cross section,True,False,False,False,False,False,False,2,"[4, 4, 7]"," Cross section splits.
+2) Cross section splits.
+3) Clusters push in, all the time
+<END>"
+cross section,True,False,False,False,False,True,False,2,"[4, 5, 5]"," Cross section turns
+2) Cross section twists it
+3) Indices fall still
+<END>"
+cross section,True,False,False,True,False,True,False,2,"[5, 5, 5]"," Cross section is wide
+2) Cross section is closed
+3) Curves, edges, shadows
+<END>"
+cross section,True,False,False,False,False,True,False,2,"[4, 6, 5]"," Cross section speaks
+2) Cross section holds its breath
+3) Lines change, each one now
+<END>"
+cross section,False,True,False,False,False,False,False,1,[7]," Cross section splits into two
+<END>"
+cross section,True,False,False,False,False,False,False,2,"[4, 5, 4]"," Cross section, straight
+2) cross section, straight line
+3) Climb the needle
+<END>"
+cross section,True,False,False,False,False,False,False,2,"[4, 6, 3]"," Cross section breaks
+2) Cross section bends the beam
+3) Angle bends
+<END>"
+decay,True,True,False,False,False,False,False,1,"[4, 6, 3]"," Doping holds all
+2) decay sets a clear sign
+3) A time-shift
+<END>"
+decay,True,False,False,False,False,False,False,3,"[2, 4, 7]"," decay
+2) A decay step
+3) Dividing the decay steps
+<END>"
+decay,False,True,True,True,False,False,False,1,[5]," A decay of two
+<END>"
+decay,True,True,False,False,False,False,False,1,"[7, 5, 4]"," Geometry finds no path
+2) decay sets the flow
+3) Spheres and holes bend
+<END>"
+decay,False,False,False,False,False,False,False,0,[9]," Geometry finds a quiet one
+<END>"
+decay,True,False,False,False,False,False,False,4,"[4, 4, 8]"," A decay state
+2) decay states free
+3) A decay state is in decay
+<END>"
+decay,True,True,False,False,False,False,False,1,"[3, 5, 3]"," Fermi spins
+2) decay bends and splits
+3) Sets the rules
+<END>"
+decay,True,True,False,False,False,False,False,1,"[6, 4, 4]"," Degradation repeats
+2) Decay repeats
+3) A crystal waits
+<END>"
+lifetime,True,False,False,False,False,False,False,0,"[2, 2, 9]"," Life forms
+2) Life forms
+3) Each generation sets its own pace
+<END>"
+lifetime,True,True,False,False,False,False,False,1,"[6, 6, 6]"," Memory stays at room
+2) lifetime writes its own time
+3) Longest paths, each one true
+<END>"
+lifetime,True,False,False,True,True,False,False,0,"[5, 7, 11]"," An infinite loop
+2) All the paths meet their own laws
+3) In all the ways, we never find the balance
+<END>"
+lifetime,True,True,False,False,False,False,False,1,"[6, 6, 4]"," The world remembers it
+2) lifetime lets each cycle
+3) A single choice
+<END>"
+lifetime,True,True,False,True,False,False,False,1,"[5, 6, 9]"," An atom closes
+2) Lifetimes can never change
+3) Losing power from now, then returns
+<END>"
+lifetime,False,False,False,False,False,False,False,0,[7]," A steady flow makes one point
+<END>"
+lifetime,True,True,False,False,False,False,False,1,"[2, 4, 3]"," One path
+2) Lifetimes look small
+3) One path says
+<END>"
+lifetime,True,True,False,True,False,False,False,1,"[5, 4, 9]"," Currents stay silent
+2) lifetime stays true
+3) The universe remembers its time
+<END>"
+regularize,True,False,False,False,False,True,False,2,"[9, 9, 5]"," Regularize sums in small squares
+2) Regularize sums in small squares
+3) Numbers keep the flow
+<END>"
+regularize,True,True,False,False,True,False,False,1,"[3, 7, 4]"," Pulses form
+2) regularize makes it
+3) Points of light stay
+<END>"
+regularize,True,False,False,False,True,False,False,2,"[8, 7, 3]"," Regularize to one line
+2) Regularize to two
+3) Spheres of form
+<END>"
+regularize,True,False,False,False,False,True,False,0,"[6, 3, 5]"," A constant at the root
+2) Normalize
+3) Flux gives us a shape
+<END>"
+regularize,True,True,False,False,False,True,False,1,"[2, 6, 5]"," Lines rise
+2) Regularize counts
+3) Pairs count the paths now
+<END>"
+regularize,True,True,False,False,False,False,False,1,"[4, 6, 3]"," Lines, the edges
+2) regularize shapes
+3) Lines work here
+<END>"
+regularize,True,True,False,False,False,False,False,1,"[4, 5, 7]"," Lines from a grid
+2) regularize
+3) A square gives all the power
+<END>"
+regularize,False,False,False,False,False,False,False,0,[6]," A constant reads one loop
+<END>"
+Yukawa,True,False,False,False,True,False,False,2,"[7, 7, 4]"," Yukawa keeps a tight leash
+2) Yukawa keeps a tight leash
+3) It lets us trade
+<END>"
+Yukawa,True,True,False,False,True,False,False,1,"[3, 7, 4]"," A wave grows
+2) Yukawa waves to the sky
+3) Far, wide arcs dance
+<END>"
+Yukawa,True,True,False,False,False,False,False,1,"[3, 6, 3]"," Blue walls rise
+2) Yukawa sets the tone
+3) We go now
+<END>"
+Yukawa,True,True,False,False,False,True,False,1,"[4, 5, 5]"," Torque makes silent
+2) Yukawa holds tight
+3) Shins sing in silence
+<END>"
+Yukawa,True,True,False,False,True,False,False,1,"[4, 7, 4]"," Yoh, light, light, cold
+2) Yukawa splits the story
+3) From the same stone
+<END>"
+Yukawa,True,True,False,False,False,False,False,1,"[6, 5, 4]"," Yukawa sets their way
+2) Shins to a stone edge
+3) Waves rise and fall
+<END>"
+Yukawa,True,True,False,False,False,False,False,1,"[3, 9, 3]"," A whisper
+2) Yukawa calls in silent whispers
+3) Waves, then change
+<END>"
+Yukawa,True,True,False,False,False,True,False,1,"[4, 5, 5]"," Two waves share space
+2) Yukawa pulls out
+3) Trails in one bright light
+<END>"
+Feynman rules,True,True,False,False,False,False,False,1,"[3, 4, 4]"," Small bits flow
+2) Feynman rules rules
+3) Particle rings
+<END>"
+Feynman rules,True,True,False,False,False,True,False,1,"[4, 4, 5]"," Fields shift the laws
+2) Feynman rules rules
+3) Lorentz laws return
+<END>"
+Feynman rules,True,True,False,False,False,False,False,1,"[7, 4, 3]"," Stars rush to the boundary
+2) Feynman rules rules
+3) Stars drift wide
+<END>"
+Feynman rules,True,True,False,False,False,True,False,1,"[2, 5, 5]"," Coils lock
+2) Feynman rules rules rule
+3) Two hands on a coil
+<END>"
+Feynman rules,True,True,False,False,False,False,False,1,"[2, 3, 4]"," Spheres dance
+2) Feynman rules
+3) Stars fall silent
+<END>"
+Feynman rules,True,True,False,False,False,False,False,1,"[4, 3, 3]"," A coin of dust
+2) Feynman rules
+3) Each note counts
+<END>"
+Feynman rules,True,True,False,False,False,False,False,1,"[6, 3, 4]"," Flux draws lines into line
+2) Feynman rules
+3) Tons of light, still
+<END>"
+Feynman rules,True,True,False,False,False,False,False,1,"[3, 3, 7]"," Feynman rules
+2) A ring shifts
+3) Oscillations guide the charge
+<END>"
+Higgs mechanism,True,True,False,False,True,False,False,1,"[2, 7, 6]"," Force shifts
+2) Higgs mechanism in space
+3) Higgs laws change in waveform
+<END>"
+Higgs mechanism,True,False,False,True,False,False,False,2,"[5, 5, 4]"," Higgs mechanism
+2) Higgs mechanism
+3) Waves meet the path
+<END>"
+Higgs mechanism,True,True,False,True,False,True,False,1,"[5, 3, 5]"," Higgs mechanism
+2) Field spins here
+3) A quanta waits, then
+<END>"
+Higgs mechanism,True,False,False,False,True,False,False,2,"[4, 7, 7]"," Mass, flow and force
+2) Higgs mechanism guides light
+3) Higgs mechanism keeps light
+<END>"
+Higgs mechanism,True,True,False,False,False,True,False,1,"[10, 10, 5]"," In the universe, we know what we do
+2) Higgs mechanism sets the boundary
+3) Quantum laws hold all
+<END>"
+Higgs mechanism,True,False,False,False,False,False,False,2,"[6, 6, 6]"," Higgs mechanism guides
+2) Higgs mechanism guides
+3) Quantum states are now bound
+<END>"
+Higgs mechanism,True,False,False,True,False,False,False,2,"[5, 6, 8]"," Higgs mechanism
+2) Electrons strike the room
+3) Higgs mechanism shows its way
+<END>"
+Higgs mechanism,True,False,False,True,False,False,False,2,"[5, 8, 6]"," Higgs mechanism
+2) Higgs mechanism keeps us safe
+3) Quantum waves in the dark
+<END>"
+lepton,True,True,False,True,False,False,False,1,"[5, 3, 4]"," A pair turns to one
+2) Lepton writes
+3) Heat sings, whispers
+<END>"
+lepton,True,False,False,False,True,False,False,2,"[4, 7, 7]"," Lepton tells us
+2) Lepton shows us where we go
+3) On one side is the slow beam
+<END>"
+lepton,True,False,False,False,False,False,False,3,"[4, 4, 4]"," Lepton sings, sings
+2) Lepton sings, sings
+3) Lepton sings, sings
+<END>"
+lepton,True,False,False,False,False,False,False,2,"[4, 4, 4]"," Lepton holds true
+2) Lepton holds true
+3) On Earth it stands
+<END>"
+lepton,False,True,True,True,False,False,False,1,[5]," Lepton splits time, now
+<END>"
+lepton,False,True,False,False,False,False,False,1,[9]," Lepton is a weight that counts the sum
+<END>"
+lepton,True,True,False,False,False,False,False,1,"[3, 4, 7]"," Two waves sing
+2) Lepton splits waves
+3) Bites sing in a steady stream
+<END>"
+lepton,True,False,False,False,False,False,False,2,"[6, 6, 3]"," Lepton sets a balance
+2) Lepton holds the answer
+3) Two paths sing
+<END>"
+anomaly,True,True,False,False,False,False,False,1,"[4, 9, 4]"," Chance, as it now
+2) anomaly repeats from inside
+3) Waves rush through it
+<END>"
+anomaly,True,True,False,False,False,False,False,1,"[4, 9, 4]"," Noise, then return
+2) anomaly waves drift, then return
+3) Error of light
+<END>"
+anomaly,True,True,False,False,False,True,False,1,"[6, 4, 5]"," An anomaly hides
+2) Indices drift
+3) Stars roll through the sky
+<END>"
+anomaly,True,True,False,True,True,False,False,1,"[5, 7, 7]"," Near the boundary
+2) anomaly keeps the shape
+3) Distance keeps the shape steady
+<END>"
+anomaly,True,True,False,False,False,True,False,1,"[6, 5, 5]"," Noise settles in the air
+2) anomaly speaks
+3) Oscillations fade
+<END>"
+anomaly,True,True,False,False,False,False,False,1,"[3, 4, 4]"," Near the edge
+2) anomaly
+3) Dots in a box
+<END>"
+anomaly,True,True,False,False,False,False,False,1,"[9, 5, 4]"," Magnetism sets the boundary
+2) anomaly hums
+3) Distance, brightness
+<END>"
+anomaly,True,True,False,False,False,False,False,1,"[6, 3, 2]"," anomaly sets bounds
+2) Pairs in space
+3) Field flips
+<END>"
+parity,True,True,False,True,False,False,False,1,"[5, 6, 4]"," Two pairs of points hold
+2) parity tells the tale
+3) Space stays hidden
+<END>"
+parity,True,True,False,False,False,False,False,1,"[3, 9, 8]"," Two paths meet
+2) parity splits time, one with zero
+3) Particles leap out of the loop
+<END>"
+parity,True,True,False,True,False,False,False,1,"[5, 4, 4]"," A gap makes the point
+2) parity counts
+3) Two numbers share
+<END>"
+parity,True,True,False,True,False,False,False,1,"[5, 6, 3]"," Equivalence keeps
+2) parity is the same
+3) Sets the rules
+<END>"
+parity,True,True,False,False,True,False,False,1,"[7, 7, 3]"," Pairs a ring on the dark side
+2) parity lets it keep it
+3) No gap keeps
+<END>"
+parity,False,False,True,True,False,False,False,0,[5]," Particle paths meet
+<END>"
+parity,False,False,False,False,False,False,False,0,[8]," We divide them into two sets
+<END>"
+parity,False,False,False,False,False,False,False,0,[8]," Equations break into four squares
+<END>"
+gauge symmetry,False,False,False,False,False,False,False,0,[9]," Two sets of numbers push each other
+<END>"
+gauge symmetry,True,True,False,True,False,True,False,1,"[5, 4, 5]"," Measure symmetry
+2) gauge symmetry
+3) Angle shifts to change
+<END>"
+gauge symmetry,True,True,False,False,False,True,False,1,"[4, 4, 5]"," Square holds no bounds
+2) gauge symmetry
+3) Coefficients match
+<END>"
+gauge symmetry,True,True,False,False,False,False,False,1,"[6, 5, 3]"," Mass lines fall into place
+2) gauge symmetry binds
+3) Lines drift free
+<END>"
+gauge symmetry,True,True,False,True,False,True,False,1,"[5, 4, 5]"," Measure symmetry
+2) gauge symmetry
+3) Tiles stay together
+<END>"
+gauge symmetry,True,True,False,False,False,False,False,1,"[3, 4, 3]"," Square turns point
+2) gauge symmetry
+3) Larks push back
+<END>"
+gauge symmetry,True,True,False,True,False,False,False,1,"[5, 5, 4]"," Measure symmetry
+2) Gauge symmetry shapes
+3) Ranges meet now
+<END>"
+gauge symmetry,True,True,False,False,False,False,False,1,"[3, 5, 7]"," Mass, then flow
+2) gauge symmetry counts
+3) Small steps give rise to power
+<END>"
+counterterm,True,True,False,False,True,False,False,1,"[3, 7, 6]"," Two clock-state
+2) counterterm pulls energy
+3) Resistance and noise fade
+<END>"
+counterterm,True,False,False,False,False,False,False,2,"[4, 6, 4]"," Counterterm waits
+2) counterterm waits by name
+3) At the same time,
+<END>"
+counterterm,True,False,False,False,False,False,False,0,"[6, 3, 6]"," Contours stretch to the wall
+2) Clock shifts now
+3) Reflections in one hand
+<END>"
+counterterm,True,False,False,False,False,False,False,2,"[7, 9, 3]"," Counterterm keeps energy
+2) counterterm remembers the result
+3) Waves start here
+<END>"
+counterterm,True,True,False,False,False,False,False,1,"[4, 6, 6]"," Antenna bends
+2) Counterterm tells a tale
+3) One of the dark corners
+<END>"
+counterterm,True,True,False,False,False,True,False,1,"[4, 6, 5]"," Bool in one end
+2) counterterm holds the line
+3) Summits dance, or leap
+<END>"
+counterterm,True,False,False,False,False,False,False,2,"[4, 6, 3]"," Counterterm shifts
+2) counterterm shifts their place
+3) Sets the point
+<END>"
+counterterm,False,True,False,False,False,False,False,1,[6]," counterterm holds both hands
+<END>"
+scattering,True,True,False,False,False,True,False,1,"[7, 4, 5]"," Coils look to one direction
+2) scattering shows
+3) Diffuse spreads to all
+<END>"
+scattering,False,False,False,False,False,False,False,0,[6]," Coils scatter in small arcs
+<END>"
+scattering,True,True,False,False,True,False,False,1,"[6, 7, 4]"," Spectra drift in the sky
+2) scattering arcs in dim light
+3) Spinning shapes drift
+<END>"
+scattering,True,True,False,False,False,False,False,1,"[3, 4, 8]"," Sharp beams shine
+2) scattering, bright
+3) Distant light makes a strong signal
+<END>"
+scattering,True,True,False,False,True,False,False,1,"[6, 7, 4]"," Sun waves scatter, no heat
+2) scattering drifts in layers
+3) Small waves scatter
+<END>"
+scattering,True,True,False,False,False,False,False,1,"[4, 6, 2]"," scattering counts
+2) Atoms scatter their light
+3) Tides change
+<END>"
+scattering,True,True,False,False,False,False,False,1,"[4, 6, 6]"," Surface scatter
+2) scattering sets the rules
+3) A scatter tells the truth
+<END>"
+scattering,True,True,False,False,False,True,False,1,"[6, 8, 5]"," Light beams the bright light back
+2) scattering maps colors to space
+3) Spreading photons out
+<END>"
+luminosity,True,True,False,False,False,True,False,1,"[3, 6, 5]"," Colors shift
+2) Luminosity counts
+3) Spectra fade as bright
+<END>"
+luminosity,True,False,False,True,False,True,False,0,"[5, 4, 5]"," Near field light, bright light
+2) Bright light, bright light
+3) Transverse field, bright light
+<END>"
+luminosity,True,True,False,False,False,False,False,1,"[4, 8, 3]"," Light turns the light
+2) Luminosity tells us where
+3) Spheres scatter
+<END>"
+luminosity,True,True,False,True,True,False,False,1,"[5, 7, 4]"," Stars drift like the sun
+2) luminosity holds true
+3) Brightness counts now
+<END>"
+luminosity,True,False,False,False,False,False,False,0,"[4, 5, 4]"," Spheres keep their form
+2) Lenses stay the same
+3) A bright spot waits
+<END>"
+luminosity,True,True,False,False,False,False,False,1,"[3, 8, 4]"," Stars, like stars
+2) Luminosity counts the light
+3) Stars count the light
+<END>"
+luminosity,True,True,False,True,True,False,False,1,"[5, 7, 4]"," Luminosity
+2) Density maps all the stars
+3) Brightness guides light
+<END>"
+luminosity,False,False,True,True,False,False,False,0,[5]," Heat waves meet a field
+<END>"

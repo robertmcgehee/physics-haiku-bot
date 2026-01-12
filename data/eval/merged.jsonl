@@ -1,12 +1,15 @@
 {"prompt_num": 1, "keyword": "cosmic microwave background", "haiku": "Faint afterglow sings\ncosmic microwave background\nTime\u2019s baby photo"}
 {"prompt_num": 1, "keyword": "inflation", "haiku": "Quantum seeds tremble\nInflation stretched space wide fast\nSmoothness blooms from noise"}
 {"prompt_num": 1, "keyword": "Universe", "haiku": "Night curves into math\nUniverse, vast and cold still\nWe count its quiet"}
+{"prompt_num": 1, "keyword": "large-scale structure", "haiku": "large-scale structure forms\nFilaments lace dark webs through\nClusters nod in time"}
 {"prompt_num": 1, "keyword": "expansion", "haiku": "Galaxies recede\nExpansion writes red shift now\nMetric stretches light"}
 {"prompt_num": 1, "keyword": "big bang", "haiku": "Void becomes a roar\nFrom big bang, hot silence sprang\nFirst seconds echo"}
+{"prompt_num": 1, "keyword": "primordial abundance", "haiku": "Numbers in starlight\nprimordial abundance\nClues to first minutes"}
 {"prompt_num": 1, "keyword": "freeze out", "haiku": "Pairs stop vanishing\nAt freeze out, rates fall away\nRelics drift to now"}
 {"prompt_num": 1, "keyword": "dark matter", "haiku": "Unseen gravity\ndark matter hides in halos\nLenses bend, no glow"}
 {"prompt_num": 1, "keyword": "neutrinos", "haiku": "Weak whispers in flux\nneutrinos ghost through suns bright\nMass tips the cosmos"}
 {"prompt_num": 1, "keyword": "sphalerons", "haiku": "Electroweak haze\nsphalerons flip baryon counts\nSymmetry leaks charge"}
+{"prompt_num": 1, "keyword": "domain walls", "haiku": "Broken phases freeze\ndomain walls slice space-time thin\nThey must not survive"}
 {"prompt_num": 1, "keyword": "Kibble mechanism", "haiku": "Cooling field chooses\nKibble mechanism births\nDefects mark the choice"}
 {"prompt_num": 1, "keyword": "density perturbation", "haiku": "Small bumps in plasma\ndensity perturbation\nBecome galaxies"}
 {"prompt_num": 1, "keyword": "flatness problem", "haiku": "Curvature goes mute\nThe flatness problem stares on\nInflation smooths it"}
@@ -17,6 +20,7 @@
 {"prompt_num": 2, "keyword": "cosmic microwave background", "haiku": "Old light cools to hush\ncosmic microwave background\nSeed specks on its face"}
 {"prompt_num": 2, "keyword": "inflation", "haiku": "Before atoms formed\ninflation drove space huge fast\nFlatness left behind"}
 {"prompt_num": 2, "keyword": "Universe", "haiku": "Between breathless voids\nUniverse keeps its own time\nWe measure, then stare"}
+{"prompt_num": 2, "keyword": "large-scale structure", "haiku": "Galaxies in webs\nlarge-scale structure emerges\nFilaments, dark glue"}
 {"prompt_num": 2, "keyword": "Friedmann equations", "haiku": "Friedmann equations\nchart the swelling metric, too\nCurvature in ink"}
 {"prompt_num": 2, "keyword": "big bang", "haiku": "Time starts with a flare\nbig bang, then cooling oceans\nAtoms learn to stay"}
 {"prompt_num": 2, "keyword": "freeze out", "haiku": "Rates fall below H\nfreeze out locks relics in place\nComoving, they stay"}
@@ -32,9 +36,11 @@
 {"prompt_num": 3, "keyword": "isotropy", "haiku": "Turn your gaze outward\nIn isotropy, all ways\nDirections agree"}
 {"prompt_num": 3, "keyword": "inflation", "haiku": "Tiny ripples bloom\ninflation flings space outward\nThen seeds become stars"}
 {"prompt_num": 3, "keyword": "Universe", "haiku": "Night holds silent laws\nUniverse, wide and waking\nWe read its faint script"}
+{"prompt_num": 3, "keyword": "large-scale structure", "haiku": "Galaxies in webs\nThreaded large-scale structure grows\nDark scaffolds the void"}
 {"prompt_num": 3, "keyword": "Friedmann equations", "haiku": "Scale factor marches\nFriedmann equations steer us\nTime ticks, space obeys"}
 {"prompt_num": 3, "keyword": "expansion", "haiku": "Redder than before\nexpansion stretches the light\nDistances unbind"}
 {"prompt_num": 3, "keyword": "nucleosynthesis", "haiku": "Hot minutes make H\nnucleosynthesis forged us\nHelium forms fast"}
+{"prompt_num": 3, "keyword": "primordial abundance", "haiku": "Ratios speak heat\nprimordial abundance\nDeuterium, scarce"}
 {"prompt_num": 3, "keyword": "freeze out", "haiku": "Scatters fade away\nWhen freeze out locks the rate down\nRelics drift through time"}
 {"prompt_num": 3, "keyword": "dark matter", "haiku": "Invisible weight\ndark matter holds galaxies\nBends light, stays unseen"}
 {"prompt_num": 3, "keyword": "neutrinos", "haiku": "Ghosts of the weak force\nneutrinos stream through stone all\nHardly ever caught"}
@@ -60,6 +66,7 @@
 {"prompt_num": 5, "keyword": "cosmic microwave background", "haiku": "Afterglow of time\ncosmic microwave background\nMaps young heat ripples"}
 {"prompt_num": 5, "keyword": "inflation", "haiku": "Inflation stretches\nSpace swells faster than light once\nSeeds quantum hush out"}
 {"prompt_num": 5, "keyword": "Universe", "haiku": "Universe unfolds\nCurved and cooling, wide for us\nFrom dark to dawn slow"}
+{"prompt_num": 5, "keyword": "large-scale structure", "haiku": "Large-scale structure grows\nFilaments lace voids through space\nGalaxies in knots"}
 {"prompt_num": 5, "keyword": "Friedmann equations", "haiku": "Friedmann equations\nLink scale factor to mass all\nTime drives the curve home"}
 {"prompt_num": 5, "keyword": "freeze out", "haiku": "Freeze out ends trade rates\nAs the cosmos thins and cools\nRelics stay behind"}
 {"prompt_num": 5, "keyword": "dark matter", "haiku": "Dark matter hides still\nShapes galaxy rotation\nSeen only by pull"}
@@ -75,6 +82,7 @@
 {"prompt_num": 1, "keyword": "homogeneity", "haiku": "Galaxies repeat\nhomogeneity true\nNo special place shines"}
 {"prompt_num": 1, "keyword": "cosmic microwave background", "haiku": "Ancient photons hum\ncosmic microwave background\nBaby cosmos speaks"}
 {"prompt_num": 1, "keyword": "inflation", "haiku": "Space swells in a blink\nQuantum ripples stretch out far\ninflation began"}
+{"prompt_num": 1, "keyword": "large-scale structure", "haiku": "large-scale structure grows\nFilaments lace dark matter\nClusters knot the void"}
 {"prompt_num": 1, "keyword": "Friedmann equations", "haiku": "Friedmann equations\nGuide the scale factor's climb up\nCosmic math moves on"}
 {"prompt_num": 1, "keyword": "expansion", "haiku": "Distant lights drift red\nRubber heavens stretch apart\nexpansion speeds on"}
 {"prompt_num": 1, "keyword": "freeze out", "haiku": "Hot soup cools to hush\nPairs stop meeting in the dark\nfreeze out locks relics"}
@@ -90,6 +98,7 @@
 {"prompt_num": 2, "keyword": "cosmic microwave background", "haiku": "Afterglow still sings\ncosmic microwave background\nCold quilt of the sky"}
 {"prompt_num": 2, "keyword": "inflation", "haiku": "Tiny ripples seed\ninflation stretches space fast\nFlat world, sudden calm"}
 {"prompt_num": 2, "keyword": "Universe", "haiku": "Night opens its book\nUniverse keeps time for us\nWe read by starlight"}
+{"prompt_num": 2, "keyword": "large-scale structure", "haiku": "Gravity braids dust\nlarge-scale structure emerges\nWebs span darkened void"}
 {"prompt_num": 2, "keyword": "Friedmann equations", "haiku": "Friedmann equations\nguide scale factor each epoch\nHubble beats like drums"}
 {"prompt_num": 2, "keyword": "expansion", "haiku": "Space between us grows\nexpansion pulls light red out\nDistances breathe wide"}
 {"prompt_num": 2, "keyword": "big bang", "haiku": "First moment, no clock\nbig bang, then a hot hush bright\nTime learns to unfold"}
@@ -105,9 +114,11 @@
 {"prompt_num": 3, "keyword": "isotropy", "haiku": "Turn and the sky stays\nisotropy everywhere\nDirections agree"}
 {"prompt_num": 3, "keyword": "cosmic microwave background", "haiku": "Ancient light still glows\ncosmic microwave background\nCold echoes of birth"}
 {"prompt_num": 3, "keyword": "inflation", "haiku": "Tiny patch, vast fate\ninflation stretches space fast\nRipples seed the stars"}
+{"prompt_num": 3, "keyword": "large-scale structure", "haiku": "Galaxies gather\nlarge-scale structure weaves through voids\nFilaments whisper"}
 {"prompt_num": 3, "keyword": "Friedmann equations", "haiku": "Scale factor ascends\nFriedmann equations guide us\nCurvature counts time"}
 {"prompt_num": 3, "keyword": "expansion", "haiku": "Between all bright points\nexpansion widens night still\nRedshift hums away"}
 {"prompt_num": 3, "keyword": "big bang", "haiku": "From nothing, a spark\nbig bang, the first hot note sung\nTime learns to unfold"}
+{"prompt_num": 3, "keyword": "primordial abundance", "haiku": "Numbers left in light\nprimordial abundance\nClues for dark ages"}
 {"prompt_num": 3, "keyword": "freeze out", "haiku": "As heat thins to mist\nfreeze out locks relics in place\nRates fall silent too"}
 {"prompt_num": 3, "keyword": "dark matter", "haiku": "Gravity feels more\ndark matter in the dust deep\nHidden halos steer"}
 {"prompt_num": 3, "keyword": "neutrinos", "haiku": "Through Earth they ghost by\nneutrinos hardly touch us\nSolar whispers pass"}
@@ -132,8 +143,10 @@
 {"prompt_num": 5, "keyword": "homogeneity", "haiku": "Space looks smooth to us\nPure homogeneity\nuntil scales grow vast"}
 {"prompt_num": 5, "keyword": "isotropy", "haiku": "No special axis\nisotropy holds here still\nsky whispers the same"}
 {"prompt_num": 5, "keyword": "Universe", "haiku": "From hot light to dust\nUniverse expands on time\nwe trace its old arc"}
+{"prompt_num": 5, "keyword": "large-scale structure", "haiku": "Gravity weaves void\nlarge-scale structure takes shape slow\nclusters lace dark threads"}
 {"prompt_num": 5, "keyword": "Friedmann equations", "haiku": "Curvature, dust, light\nFriedmann equations sing now\nH from density"}
 {"prompt_num": 5, "keyword": "expansion", "haiku": "Far galaxies part\nexpansion reddens far light\nspace itself grows wide"}
+{"prompt_num": 5, "keyword": "primordial abundance", "haiku": "Minutes after birth\nprimordial abundance\nlight elements stay"}
 {"prompt_num": 5, "keyword": "freeze out", "haiku": "Rates fall below H\nfreeze out locks relic hearts tight\ndark species drift on"}
 {"prompt_num": 5, "keyword": "dark matter", "haiku": "Unseen mass bends paths\ndark matter haunts halos still\nkeeps galaxies held"}
 {"prompt_num": 5, "keyword": "sphalerons", "haiku": "Electroweak foam\nsphalerons flip B plus L\nwrite asymmetry"}

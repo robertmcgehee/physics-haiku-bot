@@ -1,14 +1,7 @@
 # eval_data_prompts.py
 """Generates evaluation data haiku prompts for GPT-5.2 consistently
 using the same style and wording as train_data_prompts."""
-import sys
-from pathlib import Path
 
-THIS_DIR = Path(__file__).resolve().parent      # .../data/eval
-PARENT_DIR = THIS_DIR.parent                   # .../data
-TRAIN_DIR = PARENT_DIR / "train"               # .../data/train
-if str(TRAIN_DIR) not in sys.path:
-    sys.path.insert(0, str(TRAIN_DIR))
 
 prompt_num = 5
 

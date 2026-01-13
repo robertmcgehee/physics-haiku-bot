@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [0.2.2] 01/13/26
+
+- Updated results/* and test_models.ipynb after fixing few-shot base model 'cheating': it no longer passes syllable-count checks when it verbatim repeats a line from one of its example haikus
+
 ## [0.2.1] 01/13/26
 
 - Updated results/* and test_models.ipynb after correcting how the keyword is extracted when evaluating the few-shot base model

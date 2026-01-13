@@ -16,9 +16,10 @@ All models are evaluated on the test keyword set (particle physics) using a fixe
 
 ## Conclusions Up Front
 
-- the few-shot base model 'passes' current haiku checks by cheating; robust implementations of the checks coming soon and will drastically reduce (if not eliminate) all of this model's 'success'
-- supervised fine-tuning produces a large and consistent improvement over both the zero-shot and few-shot base models
-- SFT does still leave much to be desired: it doesn't get syllables perfect and the actual haiku outputs are poor quality
+- the zero-shot base model fails to satisfy any haiku check
+- the few-shot base model gives small, non-zero pass rates for all haiku checks
+- supervised fine-tuning produces a very large and consistent improvement over the few-shot base model across every haiku check
+- SFT still leaves much to be desired: it doesn't get syllables perfect, none of the haikus pass all checks, and the actual haiku outputs are not of great quality
 
 ## Scoreboard
 
@@ -29,29 +30,9 @@ All models are evaluated on the test keyword set (particle physics) using a fixe
 | Model              | 3 Lines | Keyword | 1st Syll | 2nd Syll | 3rd Syll | Haiku pass |
 |--------------------|---------|---------|----------|----------|----------|------------|
 | Base (0-shot)      |  0.00   |  0.00   |   0.00   |   0.00   |   0.00   |    0.00    |
-| Base (few-shot)    |  0.19   |  0.02   |   0.33   |   0.41   |   0.24   |    0.06    |
-| SFT (0-shot)       |  0.89   |  0.56   |   0.20   |   0.11   |   0.19   |    0.00    |
+| Base (few-shot)    |  0.08   |  0.03   |   0.09   |   0.01   |   0.01   |    0.00    |
+| SFT (0-shot)       |  0.89   |  0.57   |   0.19   |   0.11   |   0.20   |    0.00    |
 
 ## Remarks
 
-It's no surprise that zero-shot prompting completely fails for the base model. What is surprising is that few-shot prompting seems to do okay at first glance. In fact, it looks like the few-shot base model is *better* than the SFT model at counting syllables! What's going on!?
-
-A quick look at the few-shot base model's test haikus reveals the answer: when it gets syllables correct, it's often verbatim copying an example haiku in its first 3 lines. It's also still passing the 3-line check because it's inserting <END> on line 4. These sneaky check hacks are not mimicked by the SFT model. Robust checks for the few-shot model's output is coming soon. So, the few-shot model's 'successes' are actually almost complete failures. As an example, here's the raw output of a typical passing haiku verbatim (with spacing / numbering):
-
-'1) Force bends the path in
-    2) Vectors pull through quiet air
-    3) Motion holds its course
-      <END>
-    Example 3    Write 3 lines about Keyword: symmetry
-1)
-2)
-3'
-
-Let's compare this to a near-perfect haiku from the SFT model:
-
-'Equivalence keeps
-2) parity is the same
-3) Sets the rules
-<END>'
-
-This correctly outputs 3 lines, correctly includes the keyword 'parity', and isn't too far off on the syllable counts.
+It's no surprise that zero-shot prompting completely fails for the base model. The few-shot model tries to mimic the example haikus, but its pass rates are quite low. This is due in part because we don't count a given line's syllable count as a 'pass' if the model verbatim copied one of the nine haiku lines it saw in its prompt. 

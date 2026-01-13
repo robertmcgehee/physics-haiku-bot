@@ -2,6 +2,10 @@
 
 This document records design decisions, observed failure modes, and lessons learned during physics haiku dataset generation/validation and the subsequent SFT of DistilGPT-2 using the curated dataset.
 
+## Penalizing Few-Shot Cheating
+
+During evaluation, I discovered that the few-shot base model would frequently pass the haiku checks by verbatim copying one or more lines from the example haikus included in the few-shot prompt. While this behavior is expected for a small base model, it artificially inflated syllable and haiku pass rates and did not reflect genuine haiku generation ability. To address this, I introduced an additional evaluation constraint: if a generated haiku line passes the syllable check but is an exact match to any example haiku line in the few-shot prompt, that line is marked as invalid. As a result, few-shot pass rates dropped significantly (41% 2nd-line syllables passing dropped to 1%, for example). The updated metrics in SCOREBOARD now accurately reflect true generation performance for this model rather than prompt copying.
+
 ## SFT Experiments via Data Formatting
 
 As I comment below, I was inspired to simplify the raw data so that pre-SFT, I could choose different formats for the haiku prompts and responses. After some initial experiments that showed the SFT model performance could depend sensitively on data formatting choices, I tested the performance of 8 different SFT models on the test keywords. The only difference between the 8 models was the formatting of the otherwise-identical training/evaluation haikus. Most experiments used 'Write a haiku about <keyword>' and focused on changing how the line numbers appeared in the prompt/response. I tried using no numbers; 1), 2), 3); and <LINE1>, <LINE2>, <LINE3>. All variations had a fourth line with '<END>' in the haiku response, but I toggled its appearance in the prompt.

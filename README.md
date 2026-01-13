@@ -29,5 +29,4 @@ To study whether a small model can learn a rigid output format (5/7/5 syllables,
 
 ## Next Steps
 - (high priority) reward-based fine-tuning to improve SFT model for the hard structural haiku constraints
-- (low priority) make haiku checks robust to few-shot base model 'cheating' so that its accuracy on the SCOREBOARD is meaningful
 - (low priority) verify that there are no repeated phrases (>= 3 words) in the training/evaluation data; possibility minimal due to data generation practices (only 25 haikus at a time, prompt variety, by-eye inspection), but non-zero

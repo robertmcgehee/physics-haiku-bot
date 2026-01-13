@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [0.2.1] 01/13/26
+
+- Updated results/* and test_models.ipynb after correcting how the keyword is extracted when evaluating the few-shot base model
+
 ## [0.2.0] 01/11/26
 
 - Added model testing notebook which evaluates zero-shot base, few-shot base, and SFT models on held-out test family keywords; notebook produces the results for SCOREBOARD.md

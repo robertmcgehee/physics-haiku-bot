@@ -6,7 +6,7 @@ scalar,False,False,False,True,False,True,False,0,"[5, 5, 5]"," 1) Layers and a f
     3) Layers and a flow
    3) Layers and a flow
   "
-scalar,False,False,False,False,False,False,False,0,[6]," 1) Scalar curves have no change
+scalar,False,True,False,False,False,False,False,1,[6]," 1) Scalar curves have no change
     <END>
 1)
 2)
@@ -60,7 +60,7 @@ scalar,False,False,False,False,False,False,False,0,[4]," 1) Zymatic law
 13)
 14)
 "
-scalar,False,False,False,False,False,False,False,2,"[22, 19, 20]"," 1) Physical properties of motion are only slightly changed when motion is repeated
+scalar,False,False,False,False,False,False,False,0,"[22, 19, 20]"," 1) Physical properties of motion are only slightly changed when motion is repeated
     1) Magnetic fields travel slightly further and have a more stable amplitude
      1) Non-linear acceleration forces are reduced by less than one second
     0 )
@@ -87,7 +87,7 @@ scalar,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Energy in flux
        Example 3
     Write 3 lines about Keyword: scalar
 1)"
-fermion,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the path in
+fermion,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     3) Motion holds its course
       <END>
@@ -95,13 +95,13 @@ fermion,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the pa
     Example 3
     Write 3 lines about Keyword: symmetry
 1"
-fermion,False,True,True,True,True,True,False,1,"[5, 7, 5]"," 1) Force bends the path in
+fermion,False,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     3) Motion holds its course
      1) Vectors pull through quiet air
     3) Motion holds its course
        1) V"
-fermion,False,True,False,False,False,False,False,1,[7]," 1) Distraction and force will break
+fermion,False,False,False,False,False,False,False,0,[7]," 1) Distraction and force will break
       2)
 3)
 3)
@@ -235,13 +235,13 @@ Dirac equation,False,False,False,False,False,False,False,0,"[2, 0]"," 1) ""Let y
 18)
 19)
 20"
-Dirac equation,False,True,False,False,False,False,False,1,"[7, 10, 7]"," 1) Mass and motion trade their forms
+Dirac equation,False,False,False,False,False,False,False,0,"[7, 10, 7]"," 1) Mass and motion trade their forms
      1) The motion of the force bends the path in
     1) Vectors pull through quiet air
     2) Vectors pull through quiet air
     2) Vectors pull through quiet air
 "
-Dirac equation,False,True,False,True,True,False,False,1,"[5, 7, 7]"," 1) Force bends the path in
+Dirac equation,False,False,False,True,True,False,False,0,"[5, 7, 7]"," 1) Force bends the path in
     2) Vectors pull through quiet air
      2) Vectors pull through quiet air
     3) Motion holds its course
@@ -276,7 +276,7 @@ Dirac equation,True,False,False,False,True,True,False,0,"[6, 7, 5]"," 1) Power b
 1)
 2"
 Dirac equation,False,False,False,False,False,False,False,0,[65]," 1) In a general state, it is a natural state of the field of the field of the field of the field of the field of the field of the field of the field of the field of the field of the field of the field of the field of the field of the field of the field of the field of"
-Dirac equation,False,False,False,True,False,True,False,6,"[5, 5, 5]"," 1) Number of forces
+Dirac equation,False,False,False,True,False,True,False,0,"[5, 5, 5]"," 1) Number of forces
       1) Number of forces
       1) Number of forces
       1) Number of forces
@@ -288,14 +288,14 @@ electron,False,False,False,False,True,False,False,0,"[7, 7, 7]"," 1) Mass and mo
      3) Mass and motion trade their forms
       3) Vectors pull through quiet air
      3) Vectors pull through quiet air"
-electron,False,True,False,True,True,False,False,1,"[5, 7, 7]"," 1) Force bends the path in
+electron,False,False,False,True,True,False,False,0,"[5, 7, 7]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     2) Vectors pull through quiet air
     3) Motion holds its course
      <END>
      Example 3
     Write 3"
-electron,False,False,False,False,False,False,False,0,[12]," 1) Electrons merge with the particles in the wave
+electron,False,True,False,False,False,False,False,1,[12]," 1) Electrons merge with the particles in the wave
      <END>
      Example 4
     Write 3 lines about Keyword: physics
@@ -368,7 +368,7 @@ electron,False,False,False,False,False,False,False,0,"[13, 0]"," 1) Reversible c
 3)
 3)
 3"
-proton,False,False,False,False,False,False,False,0,[6]," 1) Physics is a ""proton""
+proton,False,True,False,False,False,False,False,1,[6]," 1) Physics is a ""proton""
 1)
 2)
 3)
@@ -443,7 +443,7 @@ proton,False,False,False,False,False,False,False,0,[8]," 1) Speed, angular veloc
 3)
 3)
 "
-proton,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the path in
+proton,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     3) Motion holds its course
      <END>
@@ -474,13 +474,13 @@ neutron,False,False,False,True,False,False,False,0,"[5, 5]"," 1) Energy in flux
 3)
 3)
 "
-neutron,False,True,False,False,False,False,False,1,"[2, 6, 7]"," 1) Physics
+neutron,False,False,False,False,False,False,False,0,"[2, 6, 7]"," 1) Physics
       1) The force bends the path in
      2) Vectors pull through quiet air
      2) Vectors pull through quiet air
      3) Motion holds its course
        <"
-neutron,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the path in
+neutron,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     3) Motion holds its course
       <END>
@@ -498,7 +498,7 @@ neutron,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Energy in flux
 3)
    1) Energy in flux
     2"
-neutron,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the path in
+neutron,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
      3) Motion holds its course
       <END>
@@ -508,7 +508,7 @@ neutron,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the pa
 "
 neutron,False,False,False,False,False,False,False,0,"[19, 22]"," 1) The energy of the black hole is determined with the numbers of numbers
    1 - A = A = A = A = B = B = C = C = D = E = F = G = G = G = G = G = G = G = G = G = G = G ="
-neutron,False,False,False,False,False,False,False,0,"[10, 9, 9]"," 1) Electrons and neutrons in a vacuum
+neutron,False,False,False,False,False,False,False,4,"[10, 9, 9]"," 1) Electrons and neutrons in a vacuum
     1) Nucleons and neutrons in a vacuum
     1) Nucleons and neutrons in a vacuum
     1) Nucleons and neutrons in a vacuum
@@ -528,7 +528,7 @@ gluon,False,False,False,False,False,False,False,0,"[4, 17, 7]"," 1) Speed scales
      1) Mass and motion trade their forms
      1) Mass and motion trade their forms
 "
-gluon,False,True,False,True,True,False,False,1,"[5, 7, 7]"," 1) Force bends the path in
+gluon,False,False,False,True,True,False,False,0,"[5, 7, 7]"," 1) Force bends the path in
     1) Vectors pull through quiet air
     2) Vectors pull through quiet air
     2) Vectors pull through quiet air
@@ -645,13 +645,13 @@ boson,False,False,False,False,False,False,False,0,[7]," 1) Gravity is an atom
 3)
 3)
 "
-boson,False,True,True,True,True,True,False,1,"[5, 7, 5]"," 1) Force bends the path in
+boson,False,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
      3) Motion holds its course
      2) Vectors pull through quiet air
     3) Motion holds its course
       <END>"
-boson,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the path in
+boson,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     3) Motion holds its course
      <END>
@@ -720,7 +720,7 @@ quark,False,False,True,True,False,False,False,0,[5]," 1) The path is the same
 3)
 3)
 3)"
-quark,False,True,True,True,True,True,False,1,"[5, 7, 5]"," 1) Force bends the path in
+quark,False,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     3) Motion holds its course
       1) Vectors pull through quiet air
@@ -732,7 +732,7 @@ quark,False,False,False,True,True,False,False,0,"[5, 7, 7]"," 1) Energy in flux
      3) Mass and motion trade their forms
     3) Mass and motion trade their forms
     3) Mass"
-quark,False,True,True,True,False,False,False,1,[5]," 1) Quantum forces flow
+quark,False,False,True,True,False,False,False,0,[5]," 1) Quantum forces flow
       <END>
       Vectors pull through quiet air
      2) Vectors pull through quiet air
@@ -879,7 +879,7 @@ collider,False,False,False,False,False,False,False,0,[9]," 1) Quantum symmetry d
 3)
 3)
 "
-renormalize,False,True,False,True,True,False,False,1,"[5, 7, 7]"," 1) Force bends the path in
+renormalize,False,False,False,True,True,False,False,0,"[5, 7, 7]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     2) Vectors pull through quiet air
     3) Motion holds its course
@@ -941,7 +941,7 @@ renormalize,False,False,False,False,False,False,False,0,[6]," 1) A system will b
 15)
 16)
 "
-renormalize,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the path in
+renormalize,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
      2) Vectors pull through quiet air
     3) Motion holds its course
      <END>
@@ -990,7 +990,7 @@ cross section,True,False,False,False,True,True,False,0,"[4, 7, 5]"," 1) Speed up
      Example 3
     Write 3 lines about Keyword: symmetry
 1)"
-cross section,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the path in
+cross section,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     3) Motion holds its course
      <END>      Example 3
@@ -1228,7 +1228,7 @@ lifetime,True,False,False,False,False,False,False,0,"[4, 5, 0]"," 1) Quantum sys
 14)
 15)
 "
-lifetime,False,True,False,True,True,False,False,1,"[5, 7, 7]"," 1) Force bends the path in
+lifetime,False,False,False,True,True,False,False,0,"[5, 7, 7]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     2) Vectors pull through quiet air
     3) Motion holds its course
@@ -1344,7 +1344,7 @@ regularize,False,False,False,False,False,False,False,0,"[8, 0]"," 1) A common ca
 16)
 17)
 18"
-regularize,False,True,True,True,True,True,False,1,"[5, 7, 5]"," 1) Force bends the path in
+regularize,False,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
      3) Motion holds its course
        1) Vectors pull through quiet air
@@ -1426,7 +1426,7 @@ Yukawa,False,False,False,False,False,False,False,0,"[6, 6, 17]"," 1) Speed chang
         1) Distance from Earth to the Moon by a tiny fraction of a second
     1) Speed change in the air
         1"
-Yukawa,False,False,False,False,False,False,False,0,"[14, 15, 15]"," 1) Physical properties of Yukawa can be explained
+Yukawa,False,True,False,False,False,False,False,1,"[14, 15, 15]"," 1) Physical properties of Yukawa can be explained
        1) A common idea about the laws of mathematics
        1) A common idea about the laws of mathematics
        1) A common idea about the laws of mathematics
@@ -1462,7 +1462,7 @@ Feynman rules,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Energy in 
 1)
 2)
 3"
-Feynman rules,False,True,True,True,True,True,False,1,"[5, 7, 5]"," 1) Force bends the path in
+Feynman rules,False,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     3) Motion holds its course
      2) Vectors pull through quiet air
@@ -1512,13 +1512,13 @@ Feynman rules,False,False,False,False,True,False,False,0,"[6, 7]"," 1) Foliaths 
 13)
 14)
 "
-Feynman rules,False,True,True,True,True,True,False,1,"[5, 7, 5]"," 1) Force bends the path in
+Feynman rules,False,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
      2) Vectors pull through quiet air
      3) Motion holds its course
       1) Vectors pull through quiet air
     3) Motion holds its course
       2"
-Feynman rules,False,True,True,True,True,True,False,1,"[5, 7, 5]"," 1) Force bends the path in
+Feynman rules,False,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
      2) Vectors pull through quiet air
      2) Motion holds its course
        2) Motion holds its course
@@ -1664,7 +1664,7 @@ lepton,False,False,False,False,True,False,False,0,"[6, 7, 7]"," 1) Power bends t
      3) Mass and motion trade their forms
      3) Mass and motion trade their forms
   "
-lepton,False,True,False,True,True,False,False,1,"[5, 7, 7]"," 1) Force bends the path in
+lepton,False,False,False,True,True,False,False,0,"[5, 7, 7]"," 1) Force bends the path in
      2) Vectors pull through quiet air
      2) Vectors pull through quiet air
     3) Motion holds its course
@@ -1710,7 +1710,7 @@ lepton,True,False,False,False,True,True,False,0,"[6, 7, 5]"," 1) Spheres spin th
 6)
 7)
 8)"
-lepton,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the path in
+lepton,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     3) Motion holds its course
       <END>
@@ -1790,7 +1790,7 @@ anomaly,False,False,False,False,False,False,False,0,[8]," 1) Power bends a direc
 14)
 15)
 "
-anomaly,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the path in
+anomaly,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     3) Motion holds its course
      <END>
@@ -1805,7 +1805,7 @@ anomaly,True,False,False,False,True,True,False,0,"[6, 7, 5]"," 1) Power bends th
     Write 3 lines about Keyword: symmetry
 1)
 "
-parity,False,True,False,True,True,False,False,1,"[5, 7, 7]"," 1) Force bends the path in
+parity,False,False,False,True,True,False,False,0,"[5, 7, 7]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     2) Vectors pull through quiet air
     3) Motion holds its course
@@ -1850,7 +1850,7 @@ parity,False,False,True,True,False,False,False,0,[5]," 1) Motion holds its cours
 3)
    1) Maintaining the current state of the universe
    "
-parity,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the path in
+parity,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
      3) Motion holds its course
       <END>
@@ -1858,7 +1858,7 @@ parity,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the pat
     Write 3 lines about Keyword: parity
 1)
 2"
-parity,False,True,False,False,False,False,False,1,"[6, 9, 6]"," 1) Speed, distance, and speed change
+parity,False,False,False,False,False,False,False,0,"[6, 9, 6]"," 1) Speed, distance, and speed change
        1) Speed change in the time from right to left
       1) The force bends the path in
      2) Vectors pull through quiet air
@@ -1869,7 +1869,7 @@ parity,False,False,False,False,False,False,False,0,"[18, 18, 18]"," 1) Equations
     1) Equations of symmetry and velocity have the same properties
     1) Equations of symmetry and velocity have the same properties
   "
-parity,True,True,True,True,True,True,True,1,"[5, 7, 5]"," 1) Force bends the path in
+parity,True,False,True,True,True,True,False,0,"[5, 7, 5]"," 1) Force bends the path in
     2) Vectors pull through quiet air
     3) Motion holds its course
       <END>
@@ -1939,7 +1939,7 @@ gauge symmetry,False,False,False,False,False,False,False,0,"[6, 5, 6]"," 1) Shif
   1) Push particles through
   1) Push particles through
   1"
-gauge symmetry,False,True,False,False,True,False,False,1,"[8, 7, 7]"," 1) Accelerates motion with force
+gauge symmetry,False,False,False,False,True,False,False,0,"[8, 7, 7]"," 1) Accelerates motion with force
      2) Vectors pull through quiet air
      2) Vectors pull through quiet air
     3) Vectors pull through quiet air
@@ -1978,7 +1978,7 @@ gauge symmetry,False,False,False,False,False,False,False,0,[0]," 1)
 19)
 20)
 21"
-counterterm,False,True,False,True,True,False,False,1,"[5, 7, 7]"," 1) Force bends the path in
+counterterm,False,False,False,True,True,False,False,0,"[5, 7, 7]"," 1) Force bends the path in
      2) Vectors pull through quiet air
      2) Vectors pull through quiet air
     3) Motion holds its course
@@ -2221,7 +2221,7 @@ luminosity,False,False,False,True,True,False,False,0,"[5, 7, 7]"," 1) Energy in 
       <END>
     Example 3
     Write 3"
-luminosity,False,True,False,True,False,False,False,1,"[5, 5, 7]"," 1) Mirror laws persist
+luminosity,False,False,False,True,False,False,False,0,"[5, 5, 7]"," 1) Mirror laws persist
      2) Force bends the path in
      2) Vectors pull through quiet air
      3) Motion holds its course

@@ -1,4 +1,4 @@
 model,n,lines_ok,keyword_ok,syllables_ok,syllables_l1_ok,syllables_l2_ok,syllables_l3_ok,haiku_ok
 distilgpt2 (zero-shot),200,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-distilgpt2 (few-shot),200,0.19,0.165,0.215,0.33,0.41,0.235,0.055
+distilgpt2 (few-shot),200,0.19,0.02,0.215,0.33,0.41,0.235,0.0
 SFT model (zero-shot),200,0.885,0.56,0.03,0.2,0.11,0.19,0.0
